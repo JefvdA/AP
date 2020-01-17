@@ -115,22 +115,41 @@ groupdel:       Om een groep te verwijderen
     - Gebruik "gpasswd" met de optie "-d"
         "gpasswd -d [useraccountname] [group]"
         
-Testing
+------------------------------------DEEL 4 Permissions------------------------------------------
+-ATRIBUTEN-
+r:              Read = het bestand openen en lezen. Inhoud van de map zien
+w:              Write = De inhoud van het bestand wijzigen. Niet het bestand wissen of de naam wijzigen. Maken, wissen en naam wijzigen van bestanden in de map.
+x:              Execute = Een bestand uitvoeren als het een executable betreft. Laat toe om naar de map te gaan (cd)
 
 
+chmod:          Permissies veranderen (Enkel eigenaar van een bestand of superuser kan dit doen)
+                       "chmod [permissies] [bestand/map]
+umask:          Bekijken/Wijzigen van default permissies
+chown:          Eigenaar of groepseigenaar van een bestand/map veranderen
 
 
+        BOEK:   P 89-108
+        
+        
+        
+----------------------------------------DEEL 5--------------------------------------------------
+ps:             Toont processen (enkel diegene die geassocieerd zijn met de huidige terminal sessie)
+top:            Toont processen maar met een meer dynamisch beeld
+job:            Toont alle jobs die werden gestart van deze terminal
+fg:             Wordt gebruikt om een process naar de voorgrond te brengen
+                        "fg [job_spec]"  -> job_spec = %[job_number]
+bg:             Wordt gebruikt om een process naar de achtergrond te brengen. Werkt zoals "fg"
+kill:           Wordt gebruikt om een programma te beeindigen. Of andere signalen te sturen.
+                        "kill [-signal] PID"
+killall:        Wordt gebruikt om signalen naar meerdere programma's te suren. 
+                        "killall [-u user] [-signal] name
+pstree:         Geeft een lijst van proessen georganiseerd in boomstructuurachtig patroon waarbij parent/child relaties tussen processen worden getoond
+vmstat:         Geeft een snapshot terug van systeem resources gebruik waaronder (wissel)geheugen en schij I/O.
+xload:          Een grafisch programma dat een grafiek tekent die de systeembelasting toont over een tijdspanne
+tload:          Gelijkaardig aan het xload programma, maar tekent de grafiek in de terminal. Beeindig de output me <ctrl>+c
 
 
-
-
-
-
-
-
-
-
-
+        BOEK: P 109-124
 
 
 
