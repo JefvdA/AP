@@ -1,0 +1,183 @@
+-----------------------------------------------DEEL 2----------------------------------------------
+2.1) Belgie map
+    - cd Limburg
+    - cd ../Atnwerpen
+
+2.2) relatief vs absoluut:
+    - cd map/mapinmap
+    - cd /home/jef/map/mapinmap
+
+2.3) 2 vervolg met tekstbestand:
+    - nano /map/mapinmap/tekst
+    - nano /home/jef/map/mapinmap/tekst
+
+2.4) source en destination:
+    In ~
+    - mkdir source destination
+    - cd source; touch file1 File2 FILE3
+    - cp file1 File2 ../destination
+    - mv FILE3 ../destination
+
+2.5) Wildcards:
+    In ~
+    - mkdir Smartphones
+    - touch apple galaxy htc iphone iphone5 iphone6 iphone7 iphone8 samsung Apple Galaxy HTC Iphone iphone-5 iphone-6 iphone-7 iphone-8 Samsung
+    - ls
+    - ls h*
+    - ls ?????
+    - ls ?????*
+    - ls [ag]*
+    - ls [!sS]*
+    - ls *[[:digit:]]
+    - ls [[:upper:]]*
+
+
+
+    
+---------------------------------------------DEEL 3------------------------------------------------
+3.1) Password wijzigen
+    - passwd
+   (- man passwd ,etc...)
+
+3.2) usr directory
+    - ls /usr
+    
+3.3) aliasen
+    - alias jef='ls /usr'
+    -> Alias verdwijnt nadat de terminal opnieuw wordt opgestart
+
+3.4) Permanente alias
+    In ~
+    - touch .bash_aliases
+    - gedit .bash_aliases
+    In .bash_aliases
+    - alias jef='ls /usr'
+    Restart terminal
+    Vragen:
+    - Bestanden beginnend met "." zijn "onzichtbare" bestanden, je kan ze niet zien met gewoon "ls"
+    - ls -all
+    
+3.5) omleiden stdout
+    - ls -l /usr/bin > output
+    - less output
+    - ls -l output
+    - ls -l /usr/bin > output
+    - ls -l output
+        -> de operator ">" overschrijft, dus de grote blijft hetzelfde
+        
+3.6) 3.5 maar met >>
+    - ls -l /usr/bin >> output
+    - ls -l output
+    - 3X ls -l /usr/bin >> output
+        -> de operator ">>" overschrijft niet, maar voegt vanachter toe
+        
+3.7) stdout en stderr omleiden.
+    stdout: 
+    - ls map 1> output
+    stderr:
+    - ls onbestaande map 2> output
+    
+3.8) cat
+    - cat file1 file2
+
+3.9) cat - standaardinvoer
+    - touch file1 file2
+    - cat | tee file1 file2
+    
+    - cat file1 file2
+
+3.10) Omleiden standard input
+    - echo a b c d e f > alfabet
+    - cat alfabet | tr " " "," > alfabetkomma
+
+
+----------------------------------------------DEEL4------------------------------------------------
+4.1) passwd
+    - cat /etc/passwd
+
+4.2) shadow
+    - sudo cat /etc/passwd
+    - "Jef$6$" -> Id = 6 dus, SHA-512
+    
+    - sudo useradd Frank
+    - sudo cat /etc/passwd
+        -> Bij frank staat er "!" ipv zijn gehashte passwoord
+
+4.3) gebruikers aanmaken
+    - Gewoon useradd en adduser gebruiken
+    
+4.4) su
+    - sudo passwd Frank
+    - su Frank
+    - su Jef
+    
+4.5) Gebruiker (un)locken
+    - sudo usermod -L Frank
+    - su Frank (gaat niet)
+    - sudo usermod -U Frank
+    - su Frank (gaat wel nu)
+    - su jef
+    
+4.6) Gebruiker deactiveren
+    - sudo usermod -e 1 Frank
+    - su Frank (gaat niet)
+    - sudo usermod -e -1 Frank
+    - su Frank (gaat wel nu)
+    - su jef
+    
+4.7) Gebruiker verwijderen
+    - sudo userdel -f Frank
+    - cat /etc/passwd : staat geen Frank meer bij
+    
+4.8) Groepen aanmaken en leden toevoegen
+    - groupadd prim
+    - groupadd sec
+    - useradd user1 -g prim -G sec
+    - useradd user2
+    - usermod -aG sec user2
+    - cat /etc/group
+        -> Kan je zien wie in welke groepen zit
+    - deluser user1 sec
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
