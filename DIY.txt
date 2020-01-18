@@ -140,7 +140,16 @@
     - deluser user1 sec
     
     
-    
+---------------------------------------------DEEL 5----------------------------------------------
+5.1) Processen beheren
+    - xlogo
+    - sluiten
+    - xlogo &
+    - kill -19 [PID]
+        -> Als je "jobs" doet kan je zien of het gepauzeerd is
+    - kill -18 [PID]
+        -> Als je "jobs" doet kan je zien dat het terug wordt uitgevoerd
+    - kill [PID]
     
     
     
