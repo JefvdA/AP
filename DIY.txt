@@ -140,6 +140,58 @@
     - deluser user1 sec
     
     
+---------------------------------------------DEEL 5----------------------------------------------
+5.1) Processen beheren
+    - xlogo
+    - sluiten
+    - xlogo &
+    - kill -19 [PID]
+        -> Als je "jobs" doet kan je zien of het gepauzeerd is
+    - kill -18 [PID]
+        -> Als je "jobs" doet kan je zien dat het terug wordt uitgevoerd
+    - kill [PID]
+    
+
+---------------------------------------------DEEL 6----------------------------------------------
+6.1) Een archief maken
+    Staat uitgelegd in pp
+    
+6.2) Lange oef van archieven
+    - sudo useradd -m Frank
+    - sudo passwd Frank
+    In mijn home folder, met archive.tar:
+    - sudo cp archive.tar ../Frank
+    - cd ../Frank
+    - sudo chmod 666 archive.tar
+    - su Frank
+    - "pwd" -> verander naar Frank's homefolder indien je er niet inzit
+    - tar xf archive.tar archive
+    
+    - mkdir -p speeltuinen/speeltuin-{001..100}
+    - touch speeltuinen/speeltuin-{001..100}/file-{A..Z}
+    - tar cf relativepath.tar speeltuinen
+        -> Maakt een archive van speeltuinen genaamd relativepath.tar
+    - mkdir relativepath
+    - cd relativepath
+    - tar xf ../relativepath.tar speeltuinen
+        -> Unarchived relativepath.tar in de nieuwe aangemaakte map speeltuinen
+    - speeltuinen
+    
+    - tar cf absolutepath.tar /home/Frank/speeltuinen
+        -> Maakt archive van speeltuinen met gebruik van absolutepath. De naam van de archive wordt absolutepath
+    - mkdir absolutepath; cd absolutepath
+    - tar xf /home/Frank/absolutepath.tar
+    - De "speeltuinen" map die we extracten zit nu in de nieuwe mappen: home/Frank/speeltuinen
+        -> Omdat we geen naam specifieerde, zet tar deze map in alle andere mappen die we opsomden
+        
+        
+6.3) ZIP
+   (- mkdir playground/map{0..10})
+    - zip -r playgroud.zip playground
+    - mkdir unzip; cd unzip
+    - unzip ../playground.zip
+
+
     
     
     

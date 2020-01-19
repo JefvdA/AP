@@ -150,6 +150,24 @@ tload:          Gelijkaardig aan het xload programma, maar tekent de grafiek in 
 
 
         BOEK: P 109-124
+        
+        
+--------------------------------------------DEEL 6------------------------------------------------
+gzip:           Wordt gebruikt om bestanden te comprimeren
+tar:            Wordt gebruikt om bestanden/mappen te archiveren
+                    - "tar mode[options] pathname
+                    modes:
+                        - c:        Archief v/e lijst benstanden/directories
+                        - x:        Pak een archief terug uit
+                        - r:        Voeg bestanden/directories toe aan het einde van het archief
+                        - t:        Toont enkel de inhoud van het archief
+                        - f:        Geeft aan dat de output van tar naar een bestand wordt gestuurd ipv stdout
+                        - v:        Meer gedetailleerde oplijsting
+
+zip:            Programma gebruikt voor compressie en archiveren van bestanden/mappen
+                    - optie "-r" om ook de subdirectories te zippen
+unzip:          Het zippen weer ongedaan maken
+                    - optie "-l" om alleen de inhoud te tonen
 
 
 
