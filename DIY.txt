@@ -191,6 +191,12 @@
     - mkdir unzip; cd unzip
     - unzip ../playground.zip
 
+6.4) rsync
+    - mkdir syncfolder
+    - rsync -a playground syncfolder
+    - touch playground/map/file
+    - rsync -a playground syncfolder
+        -> Rsync heeft de nieuwe bestanden van in playground ook in syncfolder toegevoegd
 
     
     

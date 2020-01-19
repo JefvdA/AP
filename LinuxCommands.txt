@@ -168,6 +168,9 @@ zip:            Programma gebruikt voor compressie en archiveren van bestanden/m
                     - optie "-r" om ook de subdirectories te zippen
 unzip:          Het zippen weer ongedaan maken
                     - optie "-l" om alleen de inhoud te tonen
+rsync:          Command om 1 of meerdere directories gesyncroniseerd met elkaar te houden
+                    - "rsync options source destination"
+                    - 1 van de 2 (source/destination) moet zoizo een lokale directory zijn
 
 
 
