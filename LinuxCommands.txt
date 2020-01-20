@@ -208,6 +208,38 @@ Logische poorten:
     - NOT !  !
 
 -------------------------------------DEEL 8-----------------------------------------------------
+echo -n:        de -n optie bij echo zorgt ervoor dat er geen nieuwe lijn gecreeerd wordt
+read:           Input in een variable te steken
+                    Opties:
+                        - p:        Voorziet een propmt (geen echo meer nodig voor de vraag)
+                        - s:        Verbergt de input (goed voor wachtwoorden)
+                        - t:        Timeout, eindigt input na x seconden.
+if:             Maakt een if statement: 
+                        If (()) [[]]; then
+                            ...
+                        fi
+while:          Maakt while lussen:
+                        - Break:    stop de lus, programma gaat verder na de while lus
+                        - Continue: slaag de rest van de loop over, programma gaat verder bij volgende integratie van de wile loop
+
+Until:          Omgekeerde van de while lus, stopt pas als condition true is
+
+Case:           Meerdere if statements
+                        Case word in
+                            [pattern [|pattern]..) commands;;]..
+                        esac
+
+for:            Maakt for loops:
+
+                1)      for i in {A..D}; do echo $i; done
+                
+                2) C vorm:
+                        for (( exp1; exp2; exp3 )); do
+                            cmds
+                        done
+                        
+                        
+ALLE COMMANDS BOIS
 
 
 

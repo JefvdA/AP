@@ -203,12 +203,55 @@
     - export PATH=~/bin:"$PATH"
 
 ----------------------------------------------DEEL 8---------------------------------------------
-    
+8.1) Puntjes:
 
+        #!/bin/bash
+        count=1
+
+        while [[ $count -le 5 ]]; do
+            echo .
+            count=$((count + 1))
+            sleep 1s
+        done
+
+8.2) While lus, break, continue
+1)
+        #!/bin/bash
+        count=1
+
+        while [[ $count -le 5 ]]; do
+            echo $count
+            
+            count=$((count+1))
+        done
+        
+2)
+        #!/bin/bash
+        count=1
+
+        while [[ $count -le 5 ]]; do
+            if (( $count == 4 )); then
+                count=$((count+1))
+                continue;
+            fi
+            echo $count
+            
+            count=$((count+1))
+        done
     
-    
-    
-    
+8.3) Until lus
+        #!/bin/bash
+        count=0
+
+        until [[ $count -ge 5 ]]; do
+            count=$((count + 1))
+        done
+
+        echo $count
+        
+        
+        
+ALLE DIY'S BOIS           
     
     
     
