@@ -197,6 +197,8 @@
     - touch playground/map/file
     - rsync -a playground syncfolder
         -> Rsync heeft de nieuwe bestanden van in playground ook in syncfolder toegevoegd
+        
+----------------------------------------------DEEL 7---------------------------------------------
 
     
     
