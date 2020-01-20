@@ -199,6 +199,11 @@
         -> Rsync heeft de nieuwe bestanden van in playground ook in syncfolder toegevoegd
         
 ----------------------------------------------DEEL 7---------------------------------------------
+7.1) PATH
+    - export PATH=~/bin:"$PATH"
+
+----------------------------------------------DEEL 8---------------------------------------------
+    
 
     
     

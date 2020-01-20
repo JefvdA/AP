@@ -181,7 +181,33 @@ crontab:        Aanpassen, etc.. van het crontab bestand:
                     
                     
         BOEK P 230 - 246
+        
+        
+----------------------------------------DEEL 7-------------------------------------------------
+#!/bin/bash:    Zo begin je elke shell script
+export:         Command gebruikt om variabelen aan te passen, zoals bijvoorbeel een map (/home/jef/bin) toe te voegen aan het PATH
+                    - export PATH=~/bin:"$PATH"
+var="":         Manier waarop we variabelen een waarde geven
+$var:           $ voor de naam van een variabele roept de waarde op
 
+regex:          Lijkt beetje op globing(wildcards). Maar wordt gebruikt voor expressions in een shell script
+                Gebruik eerst altijd: "~" om aan te geven dat regex gebruikt worden
+                    - []:       Zelfde als bij wildcards. Geldt voor alles wat ertussen staat voor 1 karakter
+                    - -:        Tussen []: range
+                           a[1-3]c -> a1c a2c a3c
+                    - ^:        Tussen []: negates: Alles buiten deze karakters
+                                Zonder []: zoekt aan het begin van de lijn
+                    - $:        zoekt aan het einde van de lijn
+                    - .:        eender welk karakter
+                    - ?:        Het vorige karakter 0 of 1 keer
+                    - *:        Het vorige karakter 0 of meerdere keren
+                    - +:        Het vorige karakter 1 of meerdere keren
+Logische poorten:
+    - AND -a &&
+    - OR  -o ||
+    - NOT !  !
+
+-------------------------------------DEEL 8-----------------------------------------------------
 
 
 
