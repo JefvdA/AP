@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>Recepten</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    
+        <style>
+            body{
+                margin: 10px;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div id="input">
+            <input id="inputField" type="text" placeholder="naam gerecht">
+            <button onclick="SearchRecipe()" class="btn btn-success">Search</button>
+        </div>
+
+        <p class="clear" id="foutMelding"></p>
+
+        <div>
+            <h1 class="clear" id="title"></h1>
+            <h2 class="clear" id=ingredientsTitle></h2>
+            <ul class="clear" id="ingredients"></ul>
+            <h2 class="clear" id="directionsTitle"></h2>
+            <ol class="clear" id="directions"></ol>
+        </div>
+
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="script.js"></script>
+    </body>
+</html>
