@@ -1,18 +1,46 @@
 <html>
     <head>
         <title>Week 5 - Lesoefening</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+        <style>
+            #calculator, #result {
+                width: 80%;
+                margin: 10px auto;
+                text-align: center;
+            }
+
+            input {
+                text-align: center;
+            }
+
+            .navbar-brand {
+                margin: auto;
+            }
+        </style>
     </head>
 
     <body>
-        <input id="number1" type="number" placeholder="number1">
-        <input id="number2" type="number" placeholder="number2">
+        <nav class="navbar navbar-dark bg-dark">
+            <p class="navbar-brand">Calculator</p>
+        </nav>
 
-        <button onclick="plus()">Plus</button>
-        <button onclick="maal()">Maal</button>
-        <button onclick="min()">Min</button>
-        <button onclick="delen()">Delen</button>
+        <div id="calculator">
+            <input id="number1" type="number" placeholder="number1">
 
-        <p id="outputField"></p>
+            <button class="btn btn-primary" onclick="plus()">Plus</button>
+            <button class="btn btn-primary" onclick="maal()">Maal</button>
+            <button class="btn btn-primary" onclick="min()">Min</button>
+            <button class="btn btn-primary" onclick="delen()">Delen</button>
+
+            <input id="number2" type="number" placeholder="number2">
+        </div>
+
+        <div id="result">
+            <p>The result is:</p>
+            <input id="outputField" type="number" value="" readonly>
+        </div>
 
         <script src="script.js"></script>
     </body>

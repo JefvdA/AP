@@ -1,0 +1,10 @@
+TTL = time to live
+Ping = Programmaatje om te testen of een node op het netwerk bereikbaar is
+Output redirection: zelfde als in linux
+Tracert = Programmaatje om te testen of een node op het netwerk bereikbaar is en via welke weg.
+
+Een route veranderdt van het minimum aantal routers, welke soort netwerk is dit?
+-> Packet switched: data wordt verknipt, elk segmentje moet op dezelfde bestemming aankomen.
+
+-> Bij circuit switched is er geen andere route
+

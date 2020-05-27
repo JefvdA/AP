@@ -4,7 +4,7 @@ function plus(){
     var number2 = numbers[1];
 
     var output = number1 + number2;
-    document.getElementById("outputField").innerHTML = output;
+    $("#outputField").val(output);
 }
 
 function maal(){
@@ -13,7 +13,7 @@ function maal(){
     var number2 = numbers[1];
 
     var output = number1 * number2;
-    document.getElementById("outputField").innerHTML = output;
+    $("#outputField").val(output);
 }
 
 function min(){
@@ -22,7 +22,7 @@ function min(){
     var number2 = numbers[1];
 
     var output = number1 - number2;
-    document.getElementById("outputField").innerHTML = output;
+    $("#outputField").val(output);
 }
 
 function delen(){
@@ -31,12 +31,12 @@ function delen(){
     var number2 = numbers[1];
 
     var output = number1 / number2;
-    document.getElementById("outputField").innerHTML = output;
+    $("#outputField").val(output);
 }
 
 function getInput(){
-    var number1 = parseInt(document.getElementById("number1").value);
-    var number2 = parseInt(document.getElementById("number2").value);
+    var number1 = parseInt($("#number1").val());
+    var number2 = parseInt($("#number2").val());    
 
     return [number1, number2];
-}
+} 
