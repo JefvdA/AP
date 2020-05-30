@@ -1,0 +1,69 @@
+Algemeen:
+	Luxilon werkt vooral met een intern boekhoudsysteem, dat zowel de aankopen, verkopen, stock en
+	eventuele klachten van klanten bijhoud.
+	
+	Maar aangezien de jaarrekening door een bedrijfsrevisor opgesteld moet worden, wordt dit wel door een 
+	extern bedrijf gedaan.
+
+	In verhouding doet luxilon dus wel het grootste deel van de boekhouding zelf
+
+
+Volgende stappen:
+	Wanneer grondstoffen worden aangekocht, wordt er op voorhand bepaald of er nog genoeg is stock staat
+	en of er nog moet worden aangekocht.
+
+	Dit doen ze allemaal via hun ERP systeem.
+
+	Dit ERP systeem is heel belangrijk voor luxilon, aangezien dit de verschillende bedrijfsprocessen
+	meer met elkaar verbind. In dit systeem zit alle informatie over verkoop en klanten, op deze manier
+	kan iedereen dit dus altijd raadplegen
+
+
+Eventuele klachten:
+	Wanneer iemand met een klacht aankomt, moet kwaliteit eerst gaan nakijken of dit wel degelijk een 
+	geldige klacht is.
+
+	Omdat luxilon vindt dat dit commercieel aangepakt moet worden zal daarna zal sales een antwoord geven 
+	op de klant
+
+
+HR:
+	Vroeger deed alleen Nico, de CEO, alles van HR zelf.
+
+	Maar nu zijn er meerdere mensen die de HR functies wat verdelen, zo zal bijvoorbeeld de productiemanager 
+	deze functie op zich nemen moest er iemand nieuw aangenomen moeten worder bij productie.
+
+	Alles over staf doet Nico wel nog steeds zelf
+
+
+Centrale personen:
+	Boekhouding:
+		I.v.m boekhouding zijn het vooral de interne boekhouders die de centrale personen zijn,
+		maar ook het externe bedrijf dat de jaarrekening opsteld.
+
+	Administratie:
+		I.v.m administratie natuurlijk ook deze boekhouders maar ook de verschillende managers en de CEO,
+		aangezien zij de HR functie tussen hen verdelen.
+
+
+Besluit:
+	Er is dus heel wat veranderd de laatste jaren in luxilon.
+
+	Ze zijn begonnen met het gebruiken van modernere systemen, zoals dat ERP systeem. Dit zorgt ervoor
+	dat er meer vanop afstand gewerkt kan worden (productie kan bijvoorbeeld van thuisuit even checken of
+	alles nog goed verloopt ivm met temperatuur, etc). En dit zorgde ook voor een betere samenwerking.
+
+	de 2 grote sectoren, sport en medisch:	
+		Sport:
+			Het maken van tennis snaren, hiermee werken ze dus samen met Wilson. Wilson koopt
+			hun tennissnaren en verkoopt daarna volledige raketten aan hun klanten.
+
+			(Toch gaan ze soms persoonlijk de grotere klanten van Wilson zelf eens bezoeken, maar
+			meestal niet)
+
+		Medisch:
+			Het maken van deze medische draden kan heel erg lang duren, daarom krijgen ze niet echt
+			nieuwe klanten erbij, en blijven de klanten ook echt wel bij hun.
+
+			Omdat het zo'n vaste klanten zijn vinden ze het heel belangrijk deze ook zeker face-to
+			-face te gaan opzoeken. 
