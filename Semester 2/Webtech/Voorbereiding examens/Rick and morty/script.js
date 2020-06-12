@@ -43,14 +43,21 @@ function getLocationInfo(){
     //Declare type ( character, location, episode )
     var sType = "location/";
 
-    $.getJSON(sBaseURL + sType)
-        .done((odata) => {
+    var sInput = $("#locationInput").val();
+    var isnum = /^\d+$/.test(sInput);
 
+    if(isnum){
+        $.getJSON(sBaseURL + sType + sInput)
+        .done((oData) => {
+            console.log(oData)
         })
         .fail((oError) => {
             alert("Something went wrong, check your spelling. If you are still not sure, check the console");
             console.log(oError);
         });
+    } else {
+
+    }
 }
 
 
@@ -59,7 +66,7 @@ function getEpisodeInfo(){
     var sType = "episode/";
 
     $.getJSON(sBaseURL + sType)
-        .done((odata) => {
+        .done((oData) => {
 
         })
         .fail((oError) => {

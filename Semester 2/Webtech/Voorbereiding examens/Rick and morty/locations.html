@@ -68,15 +68,22 @@
             <form>
                 <div class="form-group">
                   <label for="locationInput">Location name / ID</label>
-                  <input type="text" class="form-control" placeholder="Rick Sanchez / 1" id="characterInput">
+                  <input type="text" class="form-control" placeholder="Earth (C-137) / 1" id="locationInput">
                 </div>
             </form>
             <button class="btn btn-primary" onclick="getLocationInfo()">Search</button>
         </div>
 
-        <!-- Cards -->
-        <!-- To display cards next to each other use ".card { display: inline-block; }" in the css -->
-        <div id="characterCard">
+        <div id="locationCard">
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Earth (C-137)</h5>
+                    <p class="card-text">Type: Planet<p>
+                    <p class="card-text">Dimension: Dimension C-137<p>
+                    <p class="card-text">Residents:<p>
+                    <ul id="locationResidentList"></ul>
+                </div>
+            </div>
         </div>
     </main>
 
