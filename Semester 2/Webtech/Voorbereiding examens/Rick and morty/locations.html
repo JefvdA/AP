@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
-    <title>Character</title>
+    <title>Locations</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
@@ -47,10 +47,10 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
+                <li class="nav-item">
                     <a class="nav-link" href="characters.html">Characters</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item active">
                     <a class="nav-link" href="locations.html">Locations</a>
                 </li>
                 <li class="nav-item">
@@ -63,15 +63,15 @@
     <main role="main" class="container">
         <!-- Jumbotron -->
         <div class="jumbotron">
-            <h1>Characters</h1>
-            <p class="lead">Type the name or ID of your character, and you'll get some information about them</p>
+            <h1>Locations</h1>
+            <p class="lead">Type the name or ID of your location, and you'll get some information about it</p>
             <form>
                 <div class="form-group">
-                  <label for="characterInput">Character name / ID</label>
+                  <label for="locationInput">Location name / ID</label>
                   <input type="text" class="form-control" placeholder="Rick Sanchez / 1" id="characterInput">
                 </div>
             </form>
-            <button class="btn btn-primary" onclick="getCharacterInfo()">Search</button>
+            <button class="btn btn-primary" onclick="getLocationInfo()">Search</button>
         </div>
 
         <!-- Cards -->
