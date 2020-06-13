@@ -24,7 +24,7 @@ function getCharacterInfo(){
                 var aResults = oData.results;
                 $("#characterCard").html("")
                 aResults.forEach(result => {
-                    makeCharacterCard(result)
+                    makeCharacterCard(result);
                 });
             })
             .fail((oError) => {
@@ -37,6 +37,7 @@ function getCharacterInfo(){
 function makeCharacterCard(oCharacter){
     $("#characterCard").append('<div class="card" style="width: 18rem;"><img class="card-img-top" src="' + oCharacter.image + '" alt="Sorry, couldnt find image for this character"><div class="card-body"><h5 class="card-title">' + oCharacter.name + '</h5><p class="card-text">ID: ' + oCharacter.id + '<p class="card-text">Species: ' + oCharacter.species + '</p><p class="card-text">Gender: ' + oCharacter.gender + '</p><p class="card-text">Status: ' + oCharacter.status + '<p class="card-text">Origin: ' + oCharacter.origin.name + '</p><p class="card-text">Location: ' + oCharacter.location.name + '</p></div></div>');
 }
+
 
 
 function getLocationInfo(){
@@ -94,6 +95,8 @@ function addResidentToList(sResidentUrl, nLocationID){
             console.log(oError);
         })
 }
+
+
 
 function getEpisodeInfo(){
     //Declare type ( character, location, episode )
