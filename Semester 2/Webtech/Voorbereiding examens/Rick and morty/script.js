@@ -1,11 +1,26 @@
 var sBaseURL = "https://rickandmortyapi.com/api/";
 
 
-function getCharacterInfo(){
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+const charID = urlParams.get("charID");
+const locName = urlParams.get("locName");
+const epiID = urlParams.get("epiID");
+
+if(charID != null){ getCharacterInfo(charID) }
+if(locName != null) { getLocationInfo(locName) }
+if(epiID != null) { getEpisodeInfo(epiID) }
+
+
+function getCharacterInfo(nCharID){
     //Declare type ( character, location, episode )
     var sType = "character/";
 
     var sInput = $("#characterInput").val();
+
+    if(nCharID != null){
+        sInput = parseInt(nCharID);
+    }
     var bIsnum = /^\d+$/.test(sInput);
 
     if(bIsnum){
@@ -35,16 +50,20 @@ function getCharacterInfo(){
 }
 
 function makeCharacterCard(oCharacter){
-    $("#characterCard").append('<div class="card" style="width: 18rem;"><img class="card-img-top" src="' + oCharacter.image + '" alt="Sorry, couldnt find image for this character"><div class="card-body"><h5 class="card-title">' + oCharacter.name + '</h5><p class="card-text">ID: ' + oCharacter.id + '<p class="card-text">Species: ' + oCharacter.species + '</p><p class="card-text">Gender: ' + oCharacter.gender + '</p><p class="card-text">Status: ' + oCharacter.status + '<p class="card-text">Origin: ' + oCharacter.origin.name + '</p><p class="card-text">Location: ' + oCharacter.location.name + '</p></div></div>');
+    $("#characterCard").append('<div class="card" style="width: 18rem;"><img class="card-img-top" src="' + oCharacter.image + '" alt="Sorry, couldnt find image for this character"><div class="card-body"><h5 class="card-title">' + oCharacter.name + '</h5><p class="card-text">ID: ' + oCharacter.id + '<p class="card-text">Species: ' + oCharacter.species + '</p><p class="card-text">Gender: ' + oCharacter.gender + '</p><p class="card-text">Status: ' + oCharacter.status + '</p><a class="card-text" href="./locations.html?locName=' + oCharacter.origin.name + '">Origin: ' + oCharacter.origin.name + '</a></br><a class="card-text" href="locations.html?locName=' + oCharacter.location.name + '">Location: ' + oCharacter.location.name + '</a></div></div>');
 }
 
 
 
-function getLocationInfo(){
+function getLocationInfo(sLocName){
     //Declare type ( character, location, episode )
     var sType = "location/";
 
     var sInput = $("#locationInput").val();
+
+    if(sLocName != null){
+        sInput = sLocName;
+    }
     var bIsnum = /^\d+$/.test(sInput);
 
     if(bIsnum){
@@ -88,8 +107,9 @@ function makeLocationCard(oLocation){
 function addResidentToList(sResidentUrl, nLocationID){
     $.getJSON(sResidentUrl)
         .done((oData) => {
-            var sResidentName = oData.name
-            $("#locationResidentList_" + nLocationID).append('<ul class="list-group-item">' + sResidentName + '</ul>');
+            var sResidentName = oData.name;
+            var nResidentID = oData.id;
+            $("#locationResidentList_" + nLocationID).append('<li class="list-group-item"><a href="./characters.html?charID=' + nResidentID + '">' + sResidentName + '</a></li>');
         })
         .fail((oError) => {
             console.log(oError);
@@ -97,12 +117,15 @@ function addResidentToList(sResidentUrl, nLocationID){
 }
 
 
-
-function getEpisodeInfo(){
+function getEpisodeInfo(nEpiID){
     //Declare type ( character, location, episode )
     var sType = "episode/";
 
     var sInput = $("#episodeInput").val();
+
+    if(nEpiID != null) {
+        sInput = parseInt(nEpiID);
+    }
     var bIsnum = /^\d+$/.test(sInput);
 
     if(bIsnum){
@@ -150,7 +173,7 @@ function addCharacterToList(sCharacterUrl, nEpisodeID){
     $.getJSON(sCharacterUrl)
         .done((oData) => {
             var sCharacterName = oData.name;
-            $("#episodeCharacterList_" + nEpisodeID).append('<li class="list-group-item">' + sCharacterName + '</li>');
+            $("#episodeCharacterList_" + nEpisodeID).append('<li class="list-group-item"><a href="characters.html?charID=' + oData.id + '">' + sCharacterName + '</a></li>');
         })
         .fail((oError) => {
             console.log(oError);
