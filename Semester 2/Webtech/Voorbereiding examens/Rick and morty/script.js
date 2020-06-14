@@ -69,8 +69,8 @@ function getLocationInfo(sLocName){
     if(bIsnum){
         $.getJSON(sBaseURL + sType + sInput)
         .done((oData) => {
-            $("#locationCard").html("");
-            makeLocationCard(oData);
+            $("#locationJumbotron").html("");
+            makeLocationJumbotron(oData);
             var aResidents = oData.residents;
             aResidents.forEach(resident => {
                 addResidentToList(resident, oData.id);
@@ -84,9 +84,9 @@ function getLocationInfo(sLocName){
         $.getJSON(sBaseURL + sType + "?name=" + sInput)
         .done((oData) => {
             var aResults = oData.results;
-            $("#locationCard").html("");
+            $("#locationJumbotron").html("");
             aResults.forEach(result => {
-                makeLocationCard(result);
+                makeLocationJumbotron(result);
                 var aResidents = result.residents;
                 aResidents.forEach(resident => {
                     addResidentToList(resident, result.id);
@@ -100,8 +100,8 @@ function getLocationInfo(sLocName){
     }   
 }
 
-function makeLocationCard(oLocation){
-    $("#locationCard").append('<div class="card" style="width: 18rem;"><div class="card-body"><h5 class="card-title">' + oLocation.name + '</h5><p class="card-text">ID: ' + oLocation.id + '</p><p class="card-text">Type: ' + oLocation.type + '<p><p class="card-text">Dimension: ' + oLocation.dimension + '<p><p class="card-text">Residents:<p><ul class="list-group" id="locationResidentList_' + oLocation.id + '"></ul></div></div>')
+function makeLocationJumbotron(oLocation){
+    $("#locationJumbotron").append('<div class="jumbotron"><h1>' + oLocation.name + '</h1><p class="lead">Type: ' + oLocation.type + '</p><p class="lead">Dimension: ' + oLocation.dimension + '</p><p>Residents:</p><ul id="locationResidentList_' + oLocation.id + '"></ul></div>')
 }
 
 function addResidentToList(sResidentUrl, nLocationID){
