@@ -166,7 +166,15 @@ function getEpisodeInfo(nEpiID){
 }
 
 function makeEpisodeJumbotron(oEpisode){
-    $("#episodeJumbotron").append('<div class="jumbotron"><h1>' + oEpisode.name + '</h1><p class="lead">Air date: ' + oEpisode.air_date + '</p><p class="lead">Episode: ' + oEpisode.episode + '</p><hr class="my-4"><p>Characters in this episode</p><ul class="list-group" id="episodeCharacterList_' + oEpisode.id + '"></ul></div>');
+    $("#episodeJumbotron").append('\
+    <div class="jumbotron">\
+        <h1>' + oEpisode.name + '</h1>\
+        <p class="lead">Air date: ' + oEpisode.air_date + '</p>\
+        <p class="lead">Episode: ' + oEpisode.episode + '</p>\
+        <hr class="my-4">\
+        <p>Characters in this episode</p>\
+        <ul class="list-group" id="episodeCharacterList_' + oEpisode.id + '"></ul>\
+    </div>');
 }
 
 function addCharacterToList(sCharacterUrl, nEpisodeID){
