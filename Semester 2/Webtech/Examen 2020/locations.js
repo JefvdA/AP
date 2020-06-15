@@ -3,21 +3,19 @@ let sType = "location/";
 
 const queryString = window.location.search;
 const searchParams = new URLSearchParams(queryString);
-const locName = searchParams.get("locName");
-if ( locName != null ) { searchLocation(locName) }
+const locID = searchParams.get("locID");
+if ( locID != null ) { searchLocation(locID) }
 
-console.log("test");
-
-function searchLocation(sLocName){
+function searchLocation(nLocID){
     let sInput = $("#locationInput").val()
 
-    if(sLocName != null)
-        sInput = sLocName;
+    if(nLocID != null)
+        sInput = nLocID;
         
     let bIsNum = /^\d+$/.test(sInput);
     console.log(bIsNum);
     if(bIsNum){
-        $("#locationJumbotron").html("");
+        $("#locationCard").html("");
         getJSON(sBaseUrl + sType + sInput, (oData) => {
             processLocationData(oData);
         });
@@ -26,7 +24,7 @@ function searchLocation(sLocName){
 
 function processLocationData(oLocation){
     var nLocationID = oLocation.id;
-    addLocationJumbotron(oLocation);
+    addLocationCard(oLocation);
 
     var aResidents = oLocation.residents;
     aResidents.forEach(resident => {
@@ -36,14 +34,14 @@ function processLocationData(oLocation){
     });
 }
 
-function addLocationJumbotron(oLocation){
-    $("#locationJumbotron").append('\
-    <div class="jumbotron">\
-        <h1>' + oLocation.name + '</h1>\
-        <p class="lead">Type: ' + oLocation.type + '</p>\
-        <p class="lead">Dimension: ' + oLocation.dimension + '</p>\
-        <p class="lead">Residents:</p>\
-        <ul class="list-group" id="residentList_' + oLocation.id + '"></ul>\
+function addLocationCard(oLocation){
+    $("#locationCard").append('\
+    <div class="card" style="width: 18rem;">\
+        <div class="card-body">\
+            <h5 class="card-title">' + oLocation.name + '</h5>\
+            <p class="card-text">Type: ' + oLocation.type + '</p>\
+            <p class="card-text">Dimension: ' + oLocation.dimension + '</p>\
+        </div>\
     </div>');
 }
 
