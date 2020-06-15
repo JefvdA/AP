@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
-    <title>Meal DB</title>
+    <title>html-template</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
@@ -39,7 +39,7 @@
 <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#">MealDB</a>
+        <a class="navbar-brand" href="#">Nav</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -47,10 +47,10 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="index.html">Search by name</a>
+                    <a class="nav-link" href="#">Active link</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Coming soon</a>
+                    <a class="nav-link" href="#">None-active link</a>
                 </li>
             </ul>
         </div>
@@ -59,22 +59,26 @@
     <main role="main" class="container">
         <!-- Jumbotron -->
         <div class="jumbotron">
-            <h1>MealDB</h1>
-            <p class="lead">With the MealDB you can search your favorite meal either by name, ingredient or ID. You'll find some information about the meal, aswell as all the ingredients needed!</p>
+            <h1>Input field</h1>
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a varius libero. Duis egestas sapien sit amet ligula condimentum, nec pretium nisi posuere. Ut in orci eget turpis imperdiet facilisis sed at urna. Sed ultrices nisi mi, malesuada finibus ex elementum in. Donec in ullamcorper mauris, dictum porttitor odio. Phasellus.</p>
             <form>
                 <div class="form-group">
-                  <label for="exampleInputEmail1">Meal name / ID</label>
-                  <input type="text" class="form-control" id="mealInput" placeholder="Arrabiata / 52771">
+                  <label for="exampleInputEmail1">Enter data</label>
+                  <input type="text" class="form-control" placeholder="Enter data" id="inputField">
                 </div>
             </form>
-            <button class="btn btn-primary" onclick="searchMeal()">Search</button>
-            <button class="btn btn-primary" onclick="searchRandomMeal()">Random meal</button>
+            <button class="btn btn-primary" onclick="searchData()">Search</button>
         </div>
 
         <!-- Cards -->
         <!-- To display cards next to each other use ".card { display: inline-block; }" in the css -->
-        <div id="mealCards">
-
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap-logo">
+            <div class="card-body">
+              <h5 class="card-title">Bootstrap cards</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.<p>
+              <button href="https://getbootstrap.com/docs/4.0/components/card/" class="btn btn-primary" role="button" target="_blank">Bootstrap cards</a>
+            </div>
         </div>
     </main>
 
@@ -83,7 +87,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
 
     <!-- Own script -->
-    <script src="script.js"></script>
+    <script src="js-template.js"></script>
 </body>
 
 </html>
