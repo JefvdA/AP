@@ -56,7 +56,8 @@ function addEpisodeJumbotron(oEpisode, bID){
 }
 
 function addCharacterToList(oCharacter){
-    $("#episodeCharacterList").append('<li class="list-group-item">' + oCharacter + '</li>');
+    console.log(oCharacter);
+    $("#episodeCharacterList").append('<li class="list-group-item"><a href="./characters.html?charName=' + oCharacter + '">' + oCharacter + '</a></li>');
 }
 
 

@@ -3,15 +3,15 @@ const sLocationsUrl = "https://api.got.show/api/map/characterlocations";
 
 const queryString = window.location.search;
 const searchParams = new URLSearchParams(queryString);
-const data = searchParams.get("data");
-if ( data != null ) { searchData(data) }
+const charName = searchParams.get("charName");
+if ( charName != null ) { searchCharacter(charName) }
 
 
-function searchCharacter(data){
+function searchCharacter(charName){
     var sInput = $("#characterInput").val();
 
-    if(data != null)
-        sInput = data;
+    if(charName != null)
+        sInput = charName;
     
     getJSON(sBaseUrl + sInput, (oData) => {
         processCharacterData(oData);
