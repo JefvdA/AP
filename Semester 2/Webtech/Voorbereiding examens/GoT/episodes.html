@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
-    <title>locations</title>
+    <title>Episodes</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
@@ -39,7 +39,7 @@
 <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="./episodes.html">GoT</a>
+        <a class="navbar-brand" href="#">GoT</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -47,12 +47,12 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="./episodes.html">Episodes</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="./characters.html">Characters</a>
                 </li>
                 <li class="nav-item active">
+                    <a class="nav-link" href="./episodes.html">Episodes</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="./locations.html">Locations</a>
                 </li>
             </ul>
@@ -62,18 +62,18 @@
     <main role="main" class="container">
         <!-- Jumbotron -->
         <div class="jumbotron">
-            <h1>Locations</h1>
-            <p class="lead">Enter a location and press search, you'll get a list of all characters in this location</p>
+            <h1>Episodes</h1>
+            <p class="lead">Give the name or ID of an episode and get some information about them! Aswell as a list with all characters in this episode!</p>
             <form>
                 <div class="form-group">
-                  <label>Location name</label>
-                  <input class="form-control" placeholder="Ashford" id="locationInput">
+                  <label>Enter episodename / ID</label>
+                  <input type="text" class="form-control" placeholder="The Kingsroad / 2" id="episodeInput">
                 </div>
             </form>
-            <button class="btn btn-primary" onclick="getCharactersByLocation()">Search</button>
+            <button class="btn btn-primary" onclick="searchEpisode()">Search</button>
+        </div>
 
-            <ul id="charactersList">
-            </ul>
+        <div id="episodeJumbotrons">
         </div>
     </main>
 
@@ -82,7 +82,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
 
     <!-- Own script -->
-    <script src="locations.js"></script>
+    <script src="episodes.js"></script>
 </body>
 
 </html>

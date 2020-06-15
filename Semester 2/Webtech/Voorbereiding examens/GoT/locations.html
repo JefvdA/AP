@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
-    <title>locations</title>
+    <title>Locations</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
@@ -39,20 +39,20 @@
 <body>
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="./episodes.html">GoT</a>
+        <a class="navbar-brand" href="#">GoT</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="./episodes.html">Episodes</a>
-                </li>
                 <li class="nav-item">
                     <a class="nav-link" href="./characters.html">Characters</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="./episodes.html">Episodes</a>
+                </li>
+                <li class="nav-item active">
                     <a class="nav-link" href="./locations.html">Locations</a>
                 </li>
             </ul>
@@ -62,20 +62,18 @@
     <main role="main" class="container">
         <!-- Jumbotron -->
         <div class="jumbotron">
-            <h1>Episodes</h1>
-            <p class="lead">Enter the name, or ID (total episode number) of an episode, you'll get some information about this episode</p>
-
+            <h1>Locations</h1>
+            <p class="lead">Give the name of a location and get a list of all characters who live there!</p>
             <form>
                 <div class="form-group">
-                  <label>Episode name / ID</label>
-                  <input class="form-control" placeholder="The Kingsroad OR 2" id="episodeInput">
+                  <label>Enter locationname</label>
+                  <input type="text" class="form-control" placeholder="Ashford" id="locationInput">
                 </div>
             </form>
-            <button class="btn btn-primary" onclick="getEpisodeInformation()">Search</button>
+            <button class="btn btn-primary" onclick="searchLocation()">Search</button>
         </div>
 
-        <div id="episodeJumbotron">
-
+        <div id="locationJumbotrons">
         </div>
     </main>
 
@@ -84,7 +82,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
 
     <!-- Own script -->
-    <script src="episodes.js"></script>
+    <script src="locations.js"></script>
 </body>
 
 </html>
