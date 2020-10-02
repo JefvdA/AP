@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console matirx", "Console matirx.csproj", "{EE29D56F-010B-45D7-8799-9F8BA3BD15C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE29D56F-010B-45D7-8799-9F8BA3BD15C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE29D56F-010B-45D7-8799-9F8BA3BD15C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE29D56F-010B-45D7-8799-9F8BA3BD15C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE29D56F-010B-45D7-8799-9F8BA3BD15C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD355784-2950-41BB-8ACF-68761EE96D77}
+	EndGlobalSection
+EndGlobal

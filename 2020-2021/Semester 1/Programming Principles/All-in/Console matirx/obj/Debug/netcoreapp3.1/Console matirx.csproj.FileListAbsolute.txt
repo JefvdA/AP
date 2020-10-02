@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\bin\Debug\netcoreapp3.1\Console matirx.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\bin\Debug\netcoreapp3.1\Console matirx.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\bin\Debug\netcoreapp3.1\Console matirx.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\bin\Debug\netcoreapp3.1\Console matirx.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\bin\Debug\netcoreapp3.1\Console matirx.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\bin\Debug\netcoreapp3.1\Console matirx.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\obj\Debug\netcoreapp3.1\Console matirx.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\obj\Debug\netcoreapp3.1\Console matirx.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\obj\Debug\netcoreapp3.1\Console matirx.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\obj\Debug\netcoreapp3.1\Console matirx.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\obj\Debug\netcoreapp3.1\Console matirx.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\obj\Debug\netcoreapp3.1\Console matirx.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\All-in\Console matirx\obj\Debug\netcoreapp3.1\Console matirx.genruntimeconfig.cache

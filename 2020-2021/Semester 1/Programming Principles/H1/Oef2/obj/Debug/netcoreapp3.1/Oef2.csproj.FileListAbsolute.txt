@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\bin\Debug\netcoreapp3.1\Oef2.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\bin\Debug\netcoreapp3.1\Oef2.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\bin\Debug\netcoreapp3.1\Oef2.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\bin\Debug\netcoreapp3.1\Oef2.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\bin\Debug\netcoreapp3.1\Oef2.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\bin\Debug\netcoreapp3.1\Oef2.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\obj\Debug\netcoreapp3.1\Oef2.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\obj\Debug\netcoreapp3.1\Oef2.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\obj\Debug\netcoreapp3.1\Oef2.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\obj\Debug\netcoreapp3.1\Oef2.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\obj\Debug\netcoreapp3.1\Oef2.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\obj\Debug\netcoreapp3.1\Oef2.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H1\Oef2\obj\Debug\netcoreapp3.1\Oef2.genruntimeconfig.cache

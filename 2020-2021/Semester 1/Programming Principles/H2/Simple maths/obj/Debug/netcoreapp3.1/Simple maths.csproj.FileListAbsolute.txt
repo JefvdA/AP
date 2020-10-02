@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\bin\Debug\netcoreapp3.1\Simple maths.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\bin\Debug\netcoreapp3.1\Simple maths.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\bin\Debug\netcoreapp3.1\Simple maths.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\bin\Debug\netcoreapp3.1\Simple maths.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\bin\Debug\netcoreapp3.1\Simple maths.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\bin\Debug\netcoreapp3.1\Simple maths.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Simple maths\obj\Debug\netcoreapp3.1\Simple maths.genruntimeconfig.cache
