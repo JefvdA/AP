@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Kill_Death\bin\Debug\netcoreapp3.1\Kill_Death.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Kill_Death\bin\Debug\netcoreapp3.1\Kill_Death.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Kill_Death\bin\Debug\netcoreapp3.1\Kill_Death.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Kill_Death\bin\Debug\netcoreapp3.1\Kill_Death.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Kill_Death\bin\Debug\netcoreapp3.1\Kill_Death.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Kill_Death\bin\Debug\netcoreapp3.1\Kill_Death.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Kill_Death\obj\Debug\netcoreapp3.1\Kill_Death.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Kill_Death\obj\Debug\netcoreapp3.1\Kill_Death.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Kill_Death\obj\Debug\netcoreapp3.1\Kill_Death.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Kill_Death\obj\Debug\netcoreapp3.1\Kill_Death.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Kill_Death\obj\Debug\netcoreapp3.1\Kill_Death.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Kill_Death\obj\Debug\netcoreapp3.1\Kill_Death.genruntimeconfig.cache

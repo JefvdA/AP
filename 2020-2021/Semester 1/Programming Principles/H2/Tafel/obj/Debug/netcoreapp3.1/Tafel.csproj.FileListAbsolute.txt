@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\bin\Debug\netcoreapp3.1\Tafel.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\bin\Debug\netcoreapp3.1\Tafel.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\bin\Debug\netcoreapp3.1\Tafel.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\bin\Debug\netcoreapp3.1\Tafel.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\bin\Debug\netcoreapp3.1\Tafel.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\bin\Debug\netcoreapp3.1\Tafel.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\obj\Debug\netcoreapp3.1\Tafel.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\obj\Debug\netcoreapp3.1\Tafel.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\obj\Debug\netcoreapp3.1\Tafel.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\obj\Debug\netcoreapp3.1\Tafel.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\obj\Debug\netcoreapp3.1\Tafel.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\obj\Debug\netcoreapp3.1\Tafel.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Tafel\obj\Debug\netcoreapp3.1\Tafel.genruntimeconfig.cache

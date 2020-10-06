@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Euro_Dollar/1.0.0": {
+        "runtime": {
+          "Euro_Dollar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Euro_Dollar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

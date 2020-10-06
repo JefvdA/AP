@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\BTW\bin\Debug\netcoreapp3.1\BTW.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\BTW\bin\Debug\netcoreapp3.1\BTW.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\BTW\bin\Debug\netcoreapp3.1\BTW.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\BTW\bin\Debug\netcoreapp3.1\BTW.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\BTW\bin\Debug\netcoreapp3.1\BTW.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\BTW\bin\Debug\netcoreapp3.1\BTW.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\BTW\obj\Debug\netcoreapp3.1\BTW.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\BTW\obj\Debug\netcoreapp3.1\BTW.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\BTW\obj\Debug\netcoreapp3.1\BTW.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\BTW\obj\Debug\netcoreapp3.1\BTW.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\BTW\obj\Debug\netcoreapp3.1\BTW.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\BTW\obj\Debug\netcoreapp3.1\BTW.genruntimeconfig.cache

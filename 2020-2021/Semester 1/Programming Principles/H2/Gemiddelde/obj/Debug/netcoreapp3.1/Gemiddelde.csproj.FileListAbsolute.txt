@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gemiddelde\bin\Debug\netcoreapp3.1\Gemiddelde.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gemiddelde\obj\Debug\netcoreapp3.1\Gemiddelde.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gewicht_in_space\bin\Debug\netcoreapp3.1\Gewicht_in_space.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gewicht_in_space\bin\Debug\netcoreapp3.1\Gewicht_in_space.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gewicht_in_space\bin\Debug\netcoreapp3.1\Gewicht_in_space.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gewicht_in_space\bin\Debug\netcoreapp3.1\Gewicht_in_space.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gewicht_in_space\bin\Debug\netcoreapp3.1\Gewicht_in_space.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gewicht_in_space\bin\Debug\netcoreapp3.1\Gewicht_in_space.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gewicht_in_space\obj\Debug\netcoreapp3.1\Gewicht_in_space.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gewicht_in_space\obj\Debug\netcoreapp3.1\Gewicht_in_space.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gewicht_in_space\obj\Debug\netcoreapp3.1\Gewicht_in_space.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gewicht_in_space\obj\Debug\netcoreapp3.1\Gewicht_in_space.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gewicht_in_space\obj\Debug\netcoreapp3.1\Gewicht_in_space.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H2\Gewicht_in_space\obj\Debug\netcoreapp3.1\Gewicht_in_space.genruntimeconfig.cache
