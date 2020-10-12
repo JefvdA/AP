@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\bin\Debug\netcoreapp3.1\oef les3.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\bin\Debug\netcoreapp3.1\oef les3.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\bin\Debug\netcoreapp3.1\oef les3.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\bin\Debug\netcoreapp3.1\oef les3.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\bin\Debug\netcoreapp3.1\oef les3.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\bin\Debug\netcoreapp3.1\oef les3.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\obj\Debug\netcoreapp3.1\oef les3.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\obj\Debug\netcoreapp3.1\oef les3.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\obj\Debug\netcoreapp3.1\oef les3.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\obj\Debug\netcoreapp3.1\oef les3.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\obj\Debug\netcoreapp3.1\oef les3.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\obj\Debug\netcoreapp3.1\oef les3.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\les\oef les3\oef les3\obj\Debug\netcoreapp3.1\oef les3.genruntimeconfig.cache
