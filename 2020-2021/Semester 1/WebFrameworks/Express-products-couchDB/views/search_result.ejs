@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <meta charset="UTF-8">
+        <title>Products</title>
+    </head>
+    <body>
+        <h2>Result</h2>
+        <br><br>
+        <p>
+            <span><b>ID :</b><%= product.id %></span><br>
+            <span><b>Name :</b><%= product.value.name %></span><br>
+            <span><b>Brand :</b><%= product.value.brand %></span><br>
+            <span><b>Description :</b><%= product.value.description %></span><br>
+            <span><b>Price :</b><%= product.value.price %></span><br>
+        </p>
+
+        <form action="/products/delete" method="POST" onsubmit="return confirm('Bent u zeker?');">
+            <span><input type="hidden" name="name" value='<%= product.name %>'></span>
+            <span><button type="submit">Delete</button></span>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Weerstandberekenaar\bin\Debug\netcoreapp3.1\Weerstandberekenaar.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Weerstandberekenaar\bin\Debug\netcoreapp3.1\Weerstandberekenaar.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Weerstandberekenaar\bin\Debug\netcoreapp3.1\Weerstandberekenaar.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Weerstandberekenaar\bin\Debug\netcoreapp3.1\Weerstandberekenaar.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Weerstandberekenaar\bin\Debug\netcoreapp3.1\Weerstandberekenaar.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Weerstandberekenaar\bin\Debug\netcoreapp3.1\Weerstandberekenaar.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Weerstandberekenaar\obj\Debug\netcoreapp3.1\Weerstandberekenaar.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Weerstandberekenaar\obj\Debug\netcoreapp3.1\Weerstandberekenaar.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Weerstandberekenaar\obj\Debug\netcoreapp3.1\Weerstandberekenaar.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Weerstandberekenaar\obj\Debug\netcoreapp3.1\Weerstandberekenaar.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Weerstandberekenaar\obj\Debug\netcoreapp3.1\Weerstandberekenaar.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Weerstandberekenaar\obj\Debug\netcoreapp3.1\Weerstandberekenaar.genruntimeconfig.cache

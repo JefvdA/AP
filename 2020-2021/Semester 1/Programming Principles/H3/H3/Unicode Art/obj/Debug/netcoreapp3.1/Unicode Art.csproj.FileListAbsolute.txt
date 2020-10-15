@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\bin\Debug\netcoreapp3.1\Unicode Art.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\bin\Debug\netcoreapp3.1\Unicode Art.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\bin\Debug\netcoreapp3.1\Unicode Art.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\bin\Debug\netcoreapp3.1\Unicode Art.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\bin\Debug\netcoreapp3.1\Unicode Art.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\bin\Debug\netcoreapp3.1\Unicode Art.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H3\H3\Unicode Art\obj\Debug\netcoreapp3.1\Unicode Art.genruntimeconfig.cache
