@@ -10,7 +10,7 @@
         <ul>
             <% products.forEach(function(product) { %>
                 <li>
-                    <span><b>ID : </b><%= product.id %></span><br>
+                    <span><b>ID : </b><%= product.value._id %></span><br>
                     <span><b>Name : </b><%= product.value.name %></span><br>
                     <span><b>Brand : </b><%= product.value.brand %></span><br>
                     <span><b>Description : </b><%= product.value.description %></span><br>
@@ -19,6 +19,7 @@
                         <span><input type="hidden" name="name" value="<%= product.value.name %>"></span>
                         <span><button type="submit">Delete</button></span>
                     </form></span>
+                    <a href="/products/edit?_id=<%= product.value._id %>">Edit</a>
                 </li>
             <% }); %>
         </ul>

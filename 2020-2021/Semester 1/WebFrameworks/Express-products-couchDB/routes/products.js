@@ -51,6 +51,7 @@ router.post('/search', (req, res) => {
 
 /* DELETA A PRODUCT */
 router.post('/delete', (req, res) => {
+    console.log(req.body.name)
     axios.get(DB_URL + DB_VIEWS + "allProducts" + '?key="' + req.body.name + '"')
         .then(function(response) {
             if(response.data.rows[0]) {
@@ -61,6 +62,25 @@ router.post('/delete', (req, res) => {
         })
         .catch(error => console.log(error));
 });
+
+/* EDIT A PRODUCT */
+/* FORM */
+router.get('/edit', (req, res) => {
+    var _id = req.query._id;
+    axios.get(DB_URL + _id)
+        .then(function(response) {
+            res.render("edit.ejs", { product: response.data });
+        })
+        .catch(error => console.log(error));
+});
+
+/* ACTUAL EDITING */
+router.post('/edit', (req, res) => {
+    var _id = req.body._id;
+    axios.put(DB_URL + _id, req.body)
+        .then(response => res.redirect('/'))
+        .catch(error => console.log(error));
+})
 
 module.exports = router;
     

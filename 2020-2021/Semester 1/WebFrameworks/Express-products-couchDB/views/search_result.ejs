@@ -15,9 +15,10 @@
             <span><b>Price :</b><%= product.value.price %></span><br>
         </p>
 
-        <form action="/products/delete" method="POST" onsubmit="return confirm('Bent u zeker?');">
-            <span><input type="hidden" name="name" value='<%= product.name %>'></span>
+        <span><form action="/products/delete" method="POST">
+            <span><input type="hidden" name="name" value="<%= product.value.name %>"></span>
             <span><button type="submit">Delete</button></span>
-        </form>
+        </form></span>
+        <a href="/products/edit?_id=<%= product.value._id %>">Edit</a>
     </body>
 </html>
