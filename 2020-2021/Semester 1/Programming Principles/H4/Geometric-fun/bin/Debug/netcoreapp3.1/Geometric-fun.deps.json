@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Geometric-fun/1.0.0": {
+        "runtime": {
+          "Geometric-fun.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Geometric-fun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

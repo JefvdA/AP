@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\op-de-poef\bin\Debug\netcoreapp3.1\op-de-poef.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\op-de-poef\bin\Debug\netcoreapp3.1\op-de-poef.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\op-de-poef\bin\Debug\netcoreapp3.1\op-de-poef.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\op-de-poef\bin\Debug\netcoreapp3.1\op-de-poef.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\op-de-poef\bin\Debug\netcoreapp3.1\op-de-poef.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\op-de-poef\bin\Debug\netcoreapp3.1\op-de-poef.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\op-de-poef\obj\Debug\netcoreapp3.1\op-de-poef.genruntimeconfig.cache

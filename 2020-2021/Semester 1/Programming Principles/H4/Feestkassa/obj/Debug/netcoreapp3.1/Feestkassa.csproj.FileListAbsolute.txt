@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Feestkassa\bin\Debug\netcoreapp3.1\Feestkassa.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Feestkassa\bin\Debug\netcoreapp3.1\Feestkassa.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Feestkassa\bin\Debug\netcoreapp3.1\Feestkassa.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Feestkassa\bin\Debug\netcoreapp3.1\Feestkassa.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Feestkassa\bin\Debug\netcoreapp3.1\Feestkassa.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Feestkassa\bin\Debug\netcoreapp3.1\Feestkassa.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Feestkassa\obj\Debug\netcoreapp3.1\Feestkassa.genruntimeconfig.cache

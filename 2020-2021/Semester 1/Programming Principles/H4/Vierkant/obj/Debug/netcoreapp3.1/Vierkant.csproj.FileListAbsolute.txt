@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\bin\Debug\netcoreapp3.1\Vierkant.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\bin\Debug\netcoreapp3.1\Vierkant.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\bin\Debug\netcoreapp3.1\Vierkant.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\bin\Debug\netcoreapp3.1\Vierkant.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\bin\Debug\netcoreapp3.1\Vierkant.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\bin\Debug\netcoreapp3.1\Vierkant.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\obj\Debug\netcoreapp3.1\Vierkant.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\obj\Debug\netcoreapp3.1\Vierkant.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\obj\Debug\netcoreapp3.1\Vierkant.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\obj\Debug\netcoreapp3.1\Vierkant.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\obj\Debug\netcoreapp3.1\Vierkant.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\obj\Debug\netcoreapp3.1\Vierkant.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Vierkant\obj\Debug\netcoreapp3.1\Vierkant.genruntimeconfig.cache

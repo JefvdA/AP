@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Orakeltje\bin\Debug\netcoreapp3.1\Orakeltje.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Orakeltje\bin\Debug\netcoreapp3.1\Orakeltje.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Orakeltje\bin\Debug\netcoreapp3.1\Orakeltje.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Orakeltje\bin\Debug\netcoreapp3.1\Orakeltje.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Orakeltje\bin\Debug\netcoreapp3.1\Orakeltje.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Orakeltje\bin\Debug\netcoreapp3.1\Orakeltje.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Orakeltje\obj\Debug\netcoreapp3.1\Orakeltje.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Orakeltje\obj\Debug\netcoreapp3.1\Orakeltje.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Orakeltje\obj\Debug\netcoreapp3.1\Orakeltje.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Orakeltje\obj\Debug\netcoreapp3.1\Orakeltje.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Orakeltje\obj\Debug\netcoreapp3.1\Orakeltje.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H4\Orakeltje\obj\Debug\netcoreapp3.1\Orakeltje.genruntimeconfig.cache
