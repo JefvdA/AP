@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\bin\Debug\netcoreapp3.1\Ohm-berekenaar.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\bin\Debug\netcoreapp3.1\Ohm-berekenaar.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\bin\Debug\netcoreapp3.1\Ohm-berekenaar.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\bin\Debug\netcoreapp3.1\Ohm-berekenaar.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\bin\Debug\netcoreapp3.1\Ohm-berekenaar.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\bin\Debug\netcoreapp3.1\Ohm-berekenaar.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\obj\Debug\netcoreapp3.1\Ohm-berekenaar.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\obj\Debug\netcoreapp3.1\Ohm-berekenaar.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\obj\Debug\netcoreapp3.1\Ohm-berekenaar.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\obj\Debug\netcoreapp3.1\Ohm-berekenaar.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\obj\Debug\netcoreapp3.1\Ohm-berekenaar.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\obj\Debug\netcoreapp3.1\Ohm-berekenaar.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Ohm-berekenaar\obj\Debug\netcoreapp3.1\Ohm-berekenaar.genruntimeconfig.cache

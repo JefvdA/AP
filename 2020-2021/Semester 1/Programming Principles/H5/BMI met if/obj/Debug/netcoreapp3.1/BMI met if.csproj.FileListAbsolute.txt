@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\bin\Debug\netcoreapp3.1\BMI met if.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\bin\Debug\netcoreapp3.1\BMI met if.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\bin\Debug\netcoreapp3.1\BMI met if.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\bin\Debug\netcoreapp3.1\BMI met if.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\bin\Debug\netcoreapp3.1\BMI met if.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\bin\Debug\netcoreapp3.1\BMI met if.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\obj\Debug\netcoreapp3.1\BMI met if.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\obj\Debug\netcoreapp3.1\BMI met if.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\obj\Debug\netcoreapp3.1\BMI met if.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\obj\Debug\netcoreapp3.1\BMI met if.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\obj\Debug\netcoreapp3.1\BMI met if.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\obj\Debug\netcoreapp3.1\BMI met if.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met if\obj\Debug\netcoreapp3.1\BMI met if.genruntimeconfig.cache

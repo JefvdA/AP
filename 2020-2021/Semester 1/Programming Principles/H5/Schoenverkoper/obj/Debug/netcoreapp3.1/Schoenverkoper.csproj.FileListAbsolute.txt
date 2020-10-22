@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schoenverkoper\bin\Debug\netcoreapp3.1\Schoenverkoper.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schoenverkoper\bin\Debug\netcoreapp3.1\Schoenverkoper.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schoenverkoper\bin\Debug\netcoreapp3.1\Schoenverkoper.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schoenverkoper\bin\Debug\netcoreapp3.1\Schoenverkoper.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schoenverkoper\bin\Debug\netcoreapp3.1\Schoenverkoper.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schoenverkoper\bin\Debug\netcoreapp3.1\Schoenverkoper.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schoenverkoper\obj\Debug\netcoreapp3.1\Schoenverkoper.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schoenverkoper\obj\Debug\netcoreapp3.1\Schoenverkoper.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schoenverkoper\obj\Debug\netcoreapp3.1\Schoenverkoper.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schoenverkoper\obj\Debug\netcoreapp3.1\Schoenverkoper.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schoenverkoper\obj\Debug\netcoreapp3.1\Schoenverkoper.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schoenverkoper\obj\Debug\netcoreapp3.1\Schoenverkoper.genruntimeconfig.cache
