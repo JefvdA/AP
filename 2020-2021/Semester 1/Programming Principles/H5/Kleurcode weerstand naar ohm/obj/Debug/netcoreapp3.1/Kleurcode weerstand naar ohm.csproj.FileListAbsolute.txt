@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\bin\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand naar ohm\obj\Debug\netcoreapp3.1\Kleurcode weerstand naar ohm.genruntimeconfig.cache

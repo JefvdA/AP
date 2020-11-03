@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schrikkeljaar\bin\Debug\netcoreapp3.1\Schrikkeljaar.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schrikkeljaar\obj\Debug\netcoreapp3.1\Schrikkeljaar.genruntimeconfig.cache

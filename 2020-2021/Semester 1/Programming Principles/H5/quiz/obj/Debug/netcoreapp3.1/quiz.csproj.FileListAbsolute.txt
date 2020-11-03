@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\obj\Debug\netcoreapp3.1\quiz.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\obj\Debug\netcoreapp3.1\quiz.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\obj\Debug\netcoreapp3.1\quiz.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\obj\Debug\netcoreapp3.1\quiz.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\bin\Debug\netcoreapp3.1\quiz.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\bin\Debug\netcoreapp3.1\quiz.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\bin\Debug\netcoreapp3.1\quiz.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\bin\Debug\netcoreapp3.1\quiz.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\bin\Debug\netcoreapp3.1\quiz.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\bin\Debug\netcoreapp3.1\quiz.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\obj\Debug\netcoreapp3.1\quiz.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\obj\Debug\netcoreapp3.1\quiz.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\quiz\obj\Debug\netcoreapp3.1\quiz.genruntimeconfig.cache

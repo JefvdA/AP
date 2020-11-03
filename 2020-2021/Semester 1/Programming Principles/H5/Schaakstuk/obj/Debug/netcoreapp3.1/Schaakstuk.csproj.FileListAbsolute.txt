@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schaakstuk\bin\Debug\netcoreapp3.1\Schaakstuk.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schaakstuk\bin\Debug\netcoreapp3.1\Schaakstuk.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schaakstuk\bin\Debug\netcoreapp3.1\Schaakstuk.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schaakstuk\bin\Debug\netcoreapp3.1\Schaakstuk.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schaakstuk\bin\Debug\netcoreapp3.1\Schaakstuk.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schaakstuk\bin\Debug\netcoreapp3.1\Schaakstuk.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schaakstuk\obj\Debug\netcoreapp3.1\Schaakstuk.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schaakstuk\obj\Debug\netcoreapp3.1\Schaakstuk.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schaakstuk\obj\Debug\netcoreapp3.1\Schaakstuk.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schaakstuk\obj\Debug\netcoreapp3.1\Schaakstuk.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schaakstuk\obj\Debug\netcoreapp3.1\Schaakstuk.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Schaakstuk\obj\Debug\netcoreapp3.1\Schaakstuk.genruntimeconfig.cache

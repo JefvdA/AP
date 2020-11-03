@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\GuntherD Stemwijzer\bin\Debug\netcoreapp3.1\GuntherD Stemwijzer.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\GuntherD Stemwijzer\bin\Debug\netcoreapp3.1\GuntherD Stemwijzer.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\GuntherD Stemwijzer\bin\Debug\netcoreapp3.1\GuntherD Stemwijzer.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\GuntherD Stemwijzer\bin\Debug\netcoreapp3.1\GuntherD Stemwijzer.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\GuntherD Stemwijzer\bin\Debug\netcoreapp3.1\GuntherD Stemwijzer.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\GuntherD Stemwijzer\bin\Debug\netcoreapp3.1\GuntherD Stemwijzer.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\GuntherD Stemwijzer\obj\Debug\netcoreapp3.1\GuntherD Stemwijzer.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\GuntherD Stemwijzer\obj\Debug\netcoreapp3.1\GuntherD Stemwijzer.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\GuntherD Stemwijzer\obj\Debug\netcoreapp3.1\GuntherD Stemwijzer.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\GuntherD Stemwijzer\obj\Debug\netcoreapp3.1\GuntherD Stemwijzer.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\GuntherD Stemwijzer\obj\Debug\netcoreapp3.1\GuntherD Stemwijzer.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\GuntherD Stemwijzer\obj\Debug\netcoreapp3.1\GuntherD Stemwijzer.genruntimeconfig.cache

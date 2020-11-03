@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Enum seizoenen\bin\Debug\netcoreapp3.1\Enum seizoenen.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Enum seizoenen\bin\Debug\netcoreapp3.1\Enum seizoenen.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Enum seizoenen\bin\Debug\netcoreapp3.1\Enum seizoenen.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Enum seizoenen\bin\Debug\netcoreapp3.1\Enum seizoenen.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Enum seizoenen\bin\Debug\netcoreapp3.1\Enum seizoenen.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Enum seizoenen\bin\Debug\netcoreapp3.1\Enum seizoenen.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Enum seizoenen\obj\Debug\netcoreapp3.1\Enum seizoenen.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Enum seizoenen\obj\Debug\netcoreapp3.1\Enum seizoenen.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Enum seizoenen\obj\Debug\netcoreapp3.1\Enum seizoenen.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Enum seizoenen\obj\Debug\netcoreapp3.1\Enum seizoenen.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Enum seizoenen\obj\Debug\netcoreapp3.1\Enum seizoenen.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Enum seizoenen\obj\Debug\netcoreapp3.1\Enum seizoenen.genruntimeconfig.cache

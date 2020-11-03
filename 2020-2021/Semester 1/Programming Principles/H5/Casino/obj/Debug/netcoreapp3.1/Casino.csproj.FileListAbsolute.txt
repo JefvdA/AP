@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Casino\bin\Debug\netcoreapp3.1\Casino.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Casino\bin\Debug\netcoreapp3.1\Casino.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Casino\bin\Debug\netcoreapp3.1\Casino.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Casino\obj\Debug\netcoreapp3.1\Casino.genruntimeconfig.cache

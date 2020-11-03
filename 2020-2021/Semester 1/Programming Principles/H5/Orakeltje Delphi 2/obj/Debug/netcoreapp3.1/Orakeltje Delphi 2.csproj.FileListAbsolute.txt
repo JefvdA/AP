@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Orakeltje Delphi 2\bin\Debug\netcoreapp3.1\Orakeltje Delphi 2.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Orakeltje Delphi 2\bin\Debug\netcoreapp3.1\Orakeltje Delphi 2.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Orakeltje Delphi 2\bin\Debug\netcoreapp3.1\Orakeltje Delphi 2.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Orakeltje Delphi 2\bin\Debug\netcoreapp3.1\Orakeltje Delphi 2.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Orakeltje Delphi 2\bin\Debug\netcoreapp3.1\Orakeltje Delphi 2.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Orakeltje Delphi 2\bin\Debug\netcoreapp3.1\Orakeltje Delphi 2.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Orakeltje Delphi 2\obj\Debug\netcoreapp3.1\Orakeltje Delphi 2.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Orakeltje Delphi 2\obj\Debug\netcoreapp3.1\Orakeltje Delphi 2.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Orakeltje Delphi 2\obj\Debug\netcoreapp3.1\Orakeltje Delphi 2.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Orakeltje Delphi 2\obj\Debug\netcoreapp3.1\Orakeltje Delphi 2.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Orakeltje Delphi 2\obj\Debug\netcoreapp3.1\Orakeltje Delphi 2.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Orakeltje Delphi 2\obj\Debug\netcoreapp3.1\Orakeltje Delphi 2.genruntimeconfig.cache

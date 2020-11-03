@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\bin\Debug\netcoreapp3.1\BankRekening Controle.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\bin\Debug\netcoreapp3.1\BankRekening Controle.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\bin\Debug\netcoreapp3.1\BankRekening Controle.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\bin\Debug\netcoreapp3.1\BankRekening Controle.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\bin\Debug\netcoreapp3.1\BankRekening Controle.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\bin\Debug\netcoreapp3.1\BankRekening Controle.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\obj\Debug\netcoreapp3.1\BankRekening Controle.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\obj\Debug\netcoreapp3.1\BankRekening Controle.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\obj\Debug\netcoreapp3.1\BankRekening Controle.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\obj\Debug\netcoreapp3.1\BankRekening Controle.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\obj\Debug\netcoreapp3.1\BankRekening Controle.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\obj\Debug\netcoreapp3.1\BankRekening Controle.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BankRekening Controle\obj\Debug\netcoreapp3.1\BankRekening Controle.genruntimeconfig.cache
