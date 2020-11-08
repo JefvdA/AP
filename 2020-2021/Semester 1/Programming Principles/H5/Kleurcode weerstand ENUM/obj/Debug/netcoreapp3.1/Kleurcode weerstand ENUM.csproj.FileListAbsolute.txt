@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand ENUM\bin\Debug\netcoreapp3.1\Kleurcode weerstand ENUM.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand ENUM\bin\Debug\netcoreapp3.1\Kleurcode weerstand ENUM.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand ENUM\bin\Debug\netcoreapp3.1\Kleurcode weerstand ENUM.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand ENUM\bin\Debug\netcoreapp3.1\Kleurcode weerstand ENUM.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand ENUM\bin\Debug\netcoreapp3.1\Kleurcode weerstand ENUM.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand ENUM\bin\Debug\netcoreapp3.1\Kleurcode weerstand ENUM.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand ENUM\obj\Debug\netcoreapp3.1\Kleurcode weerstand ENUM.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand ENUM\obj\Debug\netcoreapp3.1\Kleurcode weerstand ENUM.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand ENUM\obj\Debug\netcoreapp3.1\Kleurcode weerstand ENUM.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand ENUM\obj\Debug\netcoreapp3.1\Kleurcode weerstand ENUM.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand ENUM\obj\Debug\netcoreapp3.1\Kleurcode weerstand ENUM.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\Kleurcode weerstand ENUM\obj\Debug\netcoreapp3.1\Kleurcode weerstand ENUM.genruntimeconfig.cache
