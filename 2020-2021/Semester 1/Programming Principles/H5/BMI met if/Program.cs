@@ -14,7 +14,7 @@ namespace BMI_met_if
 
             double bmi = Math.Round(gewicht / (lengte * lengte), 2);
             
-            if(bmi < 18.5){
+            if(bmi < 18.5) {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.Write($"Je hebt een BMI van {bmi}");
                 Console.WriteLine(", je hebt ondergewicht!");

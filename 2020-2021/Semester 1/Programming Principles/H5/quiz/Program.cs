@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace quiz
+namespace Quiz
 {
     class Program
     {
@@ -19,24 +19,21 @@ namespace quiz
                 case "a":
                     Console.WriteLine("Fout, het juiste antwoord was: C - Kinshasa");
                     score -= 1;
-                    Console.WriteLine($"Je huidige score bedraagt {score}");
                     break;
                 case "b":
                     Console.WriteLine("Fout, het juiste antwoord was: C - Kinshasa");
                     score -= 1;
-                    Console.WriteLine($"Je huidige score bedraagt {score}");
                     break;
                 case "c":
                     Console.WriteLine("Proficiat, je hebt de vraag juist beantwoord!");
                     score += 2;
-                    Console.WriteLine($"Je huidige score bedraagt {score}");
                     break;
                 case "d":
-                    break;
                     Console.WriteLine("Fout, het juiste antwoord was: C - Kinshasa");
                     score -= 1;
-                    Console.WriteLine($"Je huidige score bedraagt {score}");
+                    break;
             }
+            Console.WriteLine($"Je huidige score bedraagt {score}");
             Console.ReadKey();
             Console.Clear();
 
@@ -51,24 +48,21 @@ namespace quiz
                 case "a":
                     Console.WriteLine("Fout, het juiste antwoord was: B - Jair Bolsonaro");
                     score -= 1;
-                    Console.WriteLine($"Je huidige score bedraagt {score}");
                     break;
                 case "b":
                     Console.WriteLine("Proficiat, je hebt de vraag juist beantwoord!");
                     score += 2;
-                    Console.WriteLine($"Je huidige score bedraagt {score}");
                     break;
                 case "c":
                     Console.WriteLine("Fout, het juiste antwoord was: B - Jair Bolsonaro");
                     score -= 1;
-                    Console.WriteLine($"Je huidige score bedraagt {score}");
                     break;
                 case "d":
                     Console.WriteLine("Fout, het juiste antwoord was: B - Jair Bolsonaro");
                     score -= 1;
-                    Console.WriteLine($"Je huidige score bedraagt {score}");
                     break;
             }
+            Console.WriteLine($"Je huidige score bedraagt {score}");
             Console.ReadKey();
             Console.Clear();
 

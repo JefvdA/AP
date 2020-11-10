@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H5\\quiz\\quiz.csproj": {}
+    "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H5\\quiz\\Quiz.csproj": {}
   },
   "projects": {
-    "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H5\\quiz\\quiz.csproj": {
+    "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H5\\quiz\\Quiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H5\\quiz\\quiz.csproj",
-        "projectName": "quiz",
-        "projectPath": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H5\\quiz\\quiz.csproj",
+        "projectUniqueName": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H5\\quiz\\Quiz.csproj",
+        "projectName": "Quiz",
+        "projectPath": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H5\\quiz\\Quiz.csproj",
         "packagesPath": "C:\\Users\\jefvd\\.nuget\\packages\\",
         "outputPath": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H5\\quiz\\obj\\",
         "projectStyle": "PackageReference",

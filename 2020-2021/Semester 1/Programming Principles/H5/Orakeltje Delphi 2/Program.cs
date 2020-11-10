@@ -14,8 +14,8 @@ namespace Orakeltje_Delphi_2
             Console.Write("Wat is je leeftijd?     >>");
             int leeftijd = int.Parse(Console.ReadLine());
 
-            int maxM = 120;
-            int maxV = 150;
+            const int maxM = 120;
+            const int maxV = 150;
             int max;
 
             if(geslacht == "m")

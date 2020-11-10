@@ -7,13 +7,13 @@ namespace BankRekening_Controle
         static void Main(string[] args)
         {
             Console.Write("Geef de eerste 3 cijfers van de bankrekeningnummer     >>");
-            int get1 = int.Parse(Console.ReadLine());
+            string get1 = Console.ReadLine();
             Console.Write("Geef de volgende 7 cijfers van de bankrekeningnummer     >>");
-            int get2 = int.Parse(Console.ReadLine());
+            string get2 = Console.ReadLine();
             Console.Write("Geef de laatste 2 cijfers van de bankrekeningnummer     >>");
             int get3 = int.Parse(Console.ReadLine());
 
-            if(int.Parse(get1.ToString() + get2.ToString()) % 97 == get3)
+            if(int.Parse(get1 + get2) % 97 == get3)
             {
                 Console.WriteLine("Dit is een geldig bankrekeningnummer!");
             }

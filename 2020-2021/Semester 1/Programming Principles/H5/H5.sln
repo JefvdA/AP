@@ -21,13 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casino3", "Casino3\Casino3.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Schaakstuk", "Schaakstuk\Schaakstuk.csproj", "{02A12014-3817-4A8A-9DDA-79ADB5AEC433}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "quiz", "quiz\quiz.csproj", "{D0F63BAA-483C-4145-B1CB-57C13FD82B2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz", "quiz\Quiz.csproj", "{D0F63BAA-483C-4145-B1CB-57C13FD82B2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schrikkeljaar", "Schrikkeljaar\Schrikkeljaar.csproj", "{68DF8C67-D474-4399-88AB-E881D26A5C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Schrikkeljaar", "Schrikkeljaar\Schrikkeljaar.csproj", "{68DF8C67-D474-4399-88AB-E881D26A5C5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuntherD Stemwijzer", "GuntherD Stemwijzer\GuntherD Stemwijzer.csproj", "{A4A6E434-3670-497B-815F-E1E13F16666C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuntherD Stemwijzer", "GuntherD Stemwijzer\GuntherD Stemwijzer.csproj", "{A4A6E434-3670-497B-815F-E1E13F16666C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum seizoenen", "Enum seizoenen\Enum seizoenen.csproj", "{D20F53EC-4004-448F-B853-CAE911F0545D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum seizoenen", "Enum seizoenen\Enum seizoenen.csproj", "{D20F53EC-4004-448F-B853-CAE911F0545D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

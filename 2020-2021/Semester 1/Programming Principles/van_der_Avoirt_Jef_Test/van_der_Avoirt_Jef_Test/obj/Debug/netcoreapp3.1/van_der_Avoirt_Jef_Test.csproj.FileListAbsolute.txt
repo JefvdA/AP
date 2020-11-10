@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\bin\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\bin\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\bin\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\bin\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\bin\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\bin\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\van_der_Avoirt_Jef_Test\van_der_Avoirt_Jef_Test\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_Test.genruntimeconfig.cache

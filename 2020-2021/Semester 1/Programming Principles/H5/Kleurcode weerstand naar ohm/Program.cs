@@ -88,7 +88,7 @@ namespace Kleurcode_weerstand_naar_ohm
             }
 
             //Ring 3
-            switch (kleur1)
+            switch (kleur3)
             {
                 case "zwart":
                     mult = 0;
