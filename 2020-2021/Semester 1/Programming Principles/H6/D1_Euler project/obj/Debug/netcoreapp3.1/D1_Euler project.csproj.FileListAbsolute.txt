@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_Euler project\bin\Debug\netcoreapp3.1\D1_Euler project.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_Euler project\bin\Debug\netcoreapp3.1\D1_Euler project.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_Euler project\bin\Debug\netcoreapp3.1\D1_Euler project.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_Euler project\bin\Debug\netcoreapp3.1\D1_Euler project.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_Euler project\bin\Debug\netcoreapp3.1\D1_Euler project.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_Euler project\bin\Debug\netcoreapp3.1\D1_Euler project.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_Euler project\obj\Debug\netcoreapp3.1\D1_Euler project.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_Euler project\obj\Debug\netcoreapp3.1\D1_Euler project.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_Euler project\obj\Debug\netcoreapp3.1\D1_Euler project.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_Euler project\obj\Debug\netcoreapp3.1\D1_Euler project.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_Euler project\obj\Debug\netcoreapp3.1\D1_Euler project.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_Euler project\obj\Debug\netcoreapp3.1\D1_Euler project.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_For doordenker\bin\Debug\netcoreapp3.1\D1_For doordenker.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_For doordenker\bin\Debug\netcoreapp3.1\D1_For doordenker.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_For doordenker\bin\Debug\netcoreapp3.1\D1_For doordenker.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_For doordenker\bin\Debug\netcoreapp3.1\D1_For doordenker.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_For doordenker\bin\Debug\netcoreapp3.1\D1_For doordenker.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_For doordenker\bin\Debug\netcoreapp3.1\D1_For doordenker.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_For doordenker\obj\Debug\netcoreapp3.1\D1_For doordenker.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_For doordenker\obj\Debug\netcoreapp3.1\D1_For doordenker.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_For doordenker\obj\Debug\netcoreapp3.1\D1_For doordenker.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_For doordenker\obj\Debug\netcoreapp3.1\D1_For doordenker.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_For doordenker\obj\Debug\netcoreapp3.1\D1_For doordenker.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D1_For doordenker\obj\Debug\netcoreapp3.1\D1_For doordenker.genruntimeconfig.cache

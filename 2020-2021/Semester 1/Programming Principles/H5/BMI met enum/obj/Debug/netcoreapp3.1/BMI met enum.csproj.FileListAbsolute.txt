@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met enum\bin\Debug\netcoreapp3.1\BMI met enum.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met enum\bin\Debug\netcoreapp3.1\BMI met enum.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met enum\bin\Debug\netcoreapp3.1\BMI met enum.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met enum\bin\Debug\netcoreapp3.1\BMI met enum.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met enum\bin\Debug\netcoreapp3.1\BMI met enum.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met enum\bin\Debug\netcoreapp3.1\BMI met enum.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met enum\obj\Debug\netcoreapp3.1\BMI met enum.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met enum\obj\Debug\netcoreapp3.1\BMI met enum.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met enum\obj\Debug\netcoreapp3.1\BMI met enum.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met enum\obj\Debug\netcoreapp3.1\BMI met enum.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met enum\obj\Debug\netcoreapp3.1\BMI met enum.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H5\BMI met enum\obj\Debug\netcoreapp3.1\BMI met enum.genruntimeconfig.cache

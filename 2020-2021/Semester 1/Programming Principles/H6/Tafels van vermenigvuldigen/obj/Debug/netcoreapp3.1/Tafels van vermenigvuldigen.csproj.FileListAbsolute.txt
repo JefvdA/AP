@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\bin\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\bin\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\bin\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\bin\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\bin\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\bin\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tafels van vermenigvuldigen\obj\Debug\netcoreapp3.1\Tafels van vermenigvuldigen.genruntimeconfig.cache

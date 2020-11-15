@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "9mWndP0AhCadOwOIFGH3B75docR6me8FU8w0DmEXN8RbL/wT2QLzMSeadWGkb1iO7SetqzSf6TpjOhArW4SAsA==",
+=======
+  "dgSpecHash": "SoCRE9u/b9NGAJRDAa+gdZidZHaR54OafgOSRlKxF2nyH7MDRDu/akJmrZGrUc/D3K3v5U8UxVOLINMZL9UOrw==",
+>>>>>>> 19831aa20a7216b6aedbfe276c4c4f0cb93e976f
   "success": true,
   "projectFilePath": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H5\\quiz\\Quiz.csproj",
   "expectedPackageFiles": [],

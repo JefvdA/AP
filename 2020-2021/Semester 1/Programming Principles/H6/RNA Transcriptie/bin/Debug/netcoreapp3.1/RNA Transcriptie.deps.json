@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RNA Transcriptie/1.0.0": {
+        "runtime": {
+          "RNA Transcriptie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RNA Transcriptie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

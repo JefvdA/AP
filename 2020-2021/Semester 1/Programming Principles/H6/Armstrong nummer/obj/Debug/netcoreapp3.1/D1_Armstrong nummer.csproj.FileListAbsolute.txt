@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\bin\Debug\netcoreapp3.1\D1_Armstrong nummer.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\bin\Debug\netcoreapp3.1\D1_Armstrong nummer.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\bin\Debug\netcoreapp3.1\D1_Armstrong nummer.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\bin\Debug\netcoreapp3.1\D1_Armstrong nummer.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\bin\Debug\netcoreapp3.1\D1_Armstrong nummer.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\bin\Debug\netcoreapp3.1\D1_Armstrong nummer.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\obj\Debug\netcoreapp3.1\D1_Armstrong nummer.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\obj\Debug\netcoreapp3.1\D1_Armstrong nummer.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\obj\Debug\netcoreapp3.1\D1_Armstrong nummer.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\obj\Debug\netcoreapp3.1\D1_Armstrong nummer.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\obj\Debug\netcoreapp3.1\D1_Armstrong nummer.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\obj\Debug\netcoreapp3.1\D1_Armstrong nummer.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Armstrong nummer\obj\Debug\netcoreapp3.1\D1_Armstrong nummer.genruntimeconfig.cache
