@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "D3_Hoger lager/1.0.0": {
+        "runtime": {
+          "D3_Hoger lager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D3_Hoger lager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

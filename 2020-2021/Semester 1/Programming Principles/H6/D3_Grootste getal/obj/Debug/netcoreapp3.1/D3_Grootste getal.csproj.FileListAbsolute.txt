@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Grootste getal\bin\Debug\netcoreapp3.1\D3_Grootste getal.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Grootste getal\bin\Debug\netcoreapp3.1\D3_Grootste getal.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Grootste getal\bin\Debug\netcoreapp3.1\D3_Grootste getal.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Grootste getal\bin\Debug\netcoreapp3.1\D3_Grootste getal.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Grootste getal\bin\Debug\netcoreapp3.1\D3_Grootste getal.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Grootste getal\bin\Debug\netcoreapp3.1\D3_Grootste getal.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Grootste getal\obj\Debug\netcoreapp3.1\D3_Grootste getal.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Grootste getal\obj\Debug\netcoreapp3.1\D3_Grootste getal.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Grootste getal\obj\Debug\netcoreapp3.1\D3_Grootste getal.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Grootste getal\obj\Debug\netcoreapp3.1\D3_Grootste getal.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Grootste getal\obj\Debug\netcoreapp3.1\D3_Grootste getal.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Grootste getal\obj\Debug\netcoreapp3.1\D3_Grootste getal.genruntimeconfig.cache

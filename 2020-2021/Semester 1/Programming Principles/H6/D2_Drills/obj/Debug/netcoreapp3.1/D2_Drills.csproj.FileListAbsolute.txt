@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D2_Drills\bin\Debug\netcoreapp3.1\D2_Drills.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D2_Drills\bin\Debug\netcoreapp3.1\D2_Drills.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D2_Drills\bin\Debug\netcoreapp3.1\D2_Drills.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D2_Drills\bin\Debug\netcoreapp3.1\D2_Drills.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D2_Drills\bin\Debug\netcoreapp3.1\D2_Drills.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D2_Drills\bin\Debug\netcoreapp3.1\D2_Drills.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D2_Drills\obj\Debug\netcoreapp3.1\D2_Drills.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D2_Drills\obj\Debug\netcoreapp3.1\D2_Drills.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D2_Drills\obj\Debug\netcoreapp3.1\D2_Drills.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D2_Drills\obj\Debug\netcoreapp3.1\D2_Drills.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D2_Drills\obj\Debug\netcoreapp3.1\D2_Drills.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D2_Drills\obj\Debug\netcoreapp3.1\D2_Drills.genruntimeconfig.cache

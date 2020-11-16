@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\bin\Debug\netcoreapp3.1\D3_Boekhouder.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\bin\Debug\netcoreapp3.1\D3_Boekhouder.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\bin\Debug\netcoreapp3.1\D3_Boekhouder.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\bin\Debug\netcoreapp3.1\D3_Boekhouder.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\bin\Debug\netcoreapp3.1\D3_Boekhouder.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\bin\Debug\netcoreapp3.1\D3_Boekhouder.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\obj\Debug\netcoreapp3.1\D3_Boekhouder.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\obj\Debug\netcoreapp3.1\D3_Boekhouder.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\obj\Debug\netcoreapp3.1\D3_Boekhouder.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\obj\Debug\netcoreapp3.1\D3_Boekhouder.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\obj\Debug\netcoreapp3.1\D3_Boekhouder.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\obj\Debug\netcoreapp3.1\D3_Boekhouder.genruntimeconfig.cache

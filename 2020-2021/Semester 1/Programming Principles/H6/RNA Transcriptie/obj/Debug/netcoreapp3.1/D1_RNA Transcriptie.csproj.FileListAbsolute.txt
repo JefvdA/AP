@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\bin\Debug\netcoreapp3.1\D1_RNA Transcriptie.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\bin\Debug\netcoreapp3.1\D1_RNA Transcriptie.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\bin\Debug\netcoreapp3.1\D1_RNA Transcriptie.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\bin\Debug\netcoreapp3.1\D1_RNA Transcriptie.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\bin\Debug\netcoreapp3.1\D1_RNA Transcriptie.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\bin\Debug\netcoreapp3.1\D1_RNA Transcriptie.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\obj\Debug\netcoreapp3.1\D1_RNA Transcriptie.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\obj\Debug\netcoreapp3.1\D1_RNA Transcriptie.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\obj\Debug\netcoreapp3.1\D1_RNA Transcriptie.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\obj\Debug\netcoreapp3.1\D1_RNA Transcriptie.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\obj\Debug\netcoreapp3.1\D1_RNA Transcriptie.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\obj\Debug\netcoreapp3.1\D1_RNA Transcriptie.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\RNA Transcriptie\obj\Debug\netcoreapp3.1\D1_RNA Transcriptie.genruntimeconfig.cache
