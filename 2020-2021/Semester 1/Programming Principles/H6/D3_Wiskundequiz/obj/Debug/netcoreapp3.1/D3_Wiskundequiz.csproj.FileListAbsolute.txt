@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\bin\Debug\netcoreapp3.1\D3_Wiskundequiz.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\bin\Debug\netcoreapp3.1\D3_Wiskundequiz.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\bin\Debug\netcoreapp3.1\D3_Wiskundequiz.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\bin\Debug\netcoreapp3.1\D3_Wiskundequiz.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\bin\Debug\netcoreapp3.1\D3_Wiskundequiz.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\bin\Debug\netcoreapp3.1\D3_Wiskundequiz.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\obj\Debug\netcoreapp3.1\D3_Wiskundequiz.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\obj\Debug\netcoreapp3.1\D3_Wiskundequiz.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\obj\Debug\netcoreapp3.1\D3_Wiskundequiz.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\obj\Debug\netcoreapp3.1\D3_Wiskundequiz.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\obj\Debug\netcoreapp3.1\D3_Wiskundequiz.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\obj\Debug\netcoreapp3.1\D3_Wiskundequiz.genruntimeconfig.cache

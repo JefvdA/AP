@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz met levels\bin\Debug\netcoreapp3.1\D3_Wiskundequiz met levels.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz met levels\bin\Debug\netcoreapp3.1\D3_Wiskundequiz met levels.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz met levels\bin\Debug\netcoreapp3.1\D3_Wiskundequiz met levels.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz met levels\bin\Debug\netcoreapp3.1\D3_Wiskundequiz met levels.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz met levels\bin\Debug\netcoreapp3.1\D3_Wiskundequiz met levels.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz met levels\bin\Debug\netcoreapp3.1\D3_Wiskundequiz met levels.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz met levels\obj\Debug\netcoreapp3.1\D3_Wiskundequiz met levels.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz met levels\obj\Debug\netcoreapp3.1\D3_Wiskundequiz met levels.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz met levels\obj\Debug\netcoreapp3.1\D3_Wiskundequiz met levels.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz met levels\obj\Debug\netcoreapp3.1\D3_Wiskundequiz met levels.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz met levels\obj\Debug\netcoreapp3.1\D3_Wiskundequiz met levels.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz met levels\obj\Debug\netcoreapp3.1\D3_Wiskundequiz met levels.genruntimeconfig.cache

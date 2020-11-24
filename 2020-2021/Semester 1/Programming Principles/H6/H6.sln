@@ -19,7 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D3_Grootste getal", "D3_Gro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D3_Boekhouder", "D3_Boekhouder\D3_Boekhouder.csproj", "{4B07CB26-1C99-4F28-BDD6-4F6662329867}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3_Hoger lager", "D3_Hoger lager\D3_Hoger lager.csproj", "{029CA2ED-5C0C-4D99-A728-08898CC5086F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D3_Hoger lager", "D3_Hoger lager\D3_Hoger lager.csproj", "{029CA2ED-5C0C-4D99-A728-08898CC5086F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3_Wiskundequiz", "D3_Wiskundequiz\D3_Wiskundequiz.csproj", "{0C72EC92-079F-4EFF-9FD0-968802BEDEB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3_Wiskundequiz met levels", "D3_Wiskundequiz met levels\D3_Wiskundequiz met levels.csproj", "{D2F3AA21-D266-4BC8-A0BA-FE2740AEB06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3_Wiskunde-quizprogramma", "D3_Wiskunde-quizprogramma\D3_Wiskunde-quizprogramma.csproj", "{E024FB06-3665-43C1-9FEE-4BB1B8CFD04F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{029CA2ED-5C0C-4D99-A728-08898CC5086F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{029CA2ED-5C0C-4D99-A728-08898CC5086F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{029CA2ED-5C0C-4D99-A728-08898CC5086F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C72EC92-079F-4EFF-9FD0-968802BEDEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C72EC92-079F-4EFF-9FD0-968802BEDEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C72EC92-079F-4EFF-9FD0-968802BEDEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C72EC92-079F-4EFF-9FD0-968802BEDEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F3AA21-D266-4BC8-A0BA-FE2740AEB06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F3AA21-D266-4BC8-A0BA-FE2740AEB06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F3AA21-D266-4BC8-A0BA-FE2740AEB06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F3AA21-D266-4BC8-A0BA-FE2740AEB06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E024FB06-3665-43C1-9FEE-4BB1B8CFD04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E024FB06-3665-43C1-9FEE-4BB1B8CFD04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E024FB06-3665-43C1-9FEE-4BB1B8CFD04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E024FB06-3665-43C1-9FEE-4BB1B8CFD04F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,3 +10,4 @@ D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Hoger lager\obj\Debug\ne
 D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Hoger lager\obj\Debug\netcoreapp3.1\D3_Hoger lager.dll
 D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Hoger lager\obj\Debug\netcoreapp3.1\D3_Hoger lager.pdb
 D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Hoger lager\obj\Debug\netcoreapp3.1\D3_Hoger lager.genruntimeconfig.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Hoger lager\obj\Debug\netcoreapp3.1\D3_Hoger lager.csprojAssemblyReference.cache
