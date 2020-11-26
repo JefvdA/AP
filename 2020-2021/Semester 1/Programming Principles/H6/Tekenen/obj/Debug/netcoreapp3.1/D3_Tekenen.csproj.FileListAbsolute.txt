@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tekenen\bin\Debug\netcoreapp3.1\D3_Tekenen.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tekenen\bin\Debug\netcoreapp3.1\D3_Tekenen.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tekenen\bin\Debug\netcoreapp3.1\D3_Tekenen.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tekenen\bin\Debug\netcoreapp3.1\D3_Tekenen.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tekenen\bin\Debug\netcoreapp3.1\D3_Tekenen.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tekenen\bin\Debug\netcoreapp3.1\D3_Tekenen.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tekenen\obj\Debug\netcoreapp3.1\D3_Tekenen.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tekenen\obj\Debug\netcoreapp3.1\D3_Tekenen.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tekenen\obj\Debug\netcoreapp3.1\D3_Tekenen.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tekenen\obj\Debug\netcoreapp3.1\D3_Tekenen.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tekenen\obj\Debug\netcoreapp3.1\D3_Tekenen.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\Tekenen\obj\Debug\netcoreapp3.1\D3_Tekenen.genruntimeconfig.cache

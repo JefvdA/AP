@@ -6,13 +6,13 @@ namespace D3_Hoger_lager
     {
         static void Main(string[] args)
         {
+            Random random = new Random();
             bool gameloop = true;
 
-            int maxBeurten = 10;
+            const int MAX_BEURTEN = 10;
 
-            do
+            while(gameloop)
             {
-                Random random = new Random();
                 int getal = random.Next(1, 101);
                 int beurten = 0;
 
@@ -27,12 +27,12 @@ namespace D3_Hoger_lager
                         Console.WriteLine("Lager!");
                     else if (input < getal)
                         Console.WriteLine("Hoger!");
-                } while (input != getal && beurten < maxBeurten);
+                } while (input != getal && beurten < MAX_BEURTEN);
 
-                if (beurten != maxBeurten)
+                if (beurten != MAX_BEURTEN)
                     Console.WriteLine($"Je hebt in {beurten} beurten het getal geraden. Getal: {getal}");
                 else
-                    Console.WriteLine($"Je hebt het maximaal aantal beurten bereikt ({maxBeurten}), GAME OVER!");
+                    Console.WriteLine($"Je hebt het maximaal aantal beurten bereikt ({MAX_BEURTEN}), GAME OVER!");
                 Console.ReadKey();
                 Console.Clear();
                 Console.Write("Play again? (Y, N)   >>>");
@@ -42,7 +42,7 @@ namespace D3_Hoger_lager
                     gameloop = false;
 
                 Console.Clear();
-            } while (gameloop);
+            }
         }
     }
 }

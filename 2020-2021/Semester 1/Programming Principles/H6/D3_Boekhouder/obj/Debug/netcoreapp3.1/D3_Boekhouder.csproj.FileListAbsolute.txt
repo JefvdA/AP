@@ -10,3 +10,4 @@ D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\obj\Debug\net
 D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\obj\Debug\netcoreapp3.1\D3_Boekhouder.dll
 D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\obj\Debug\netcoreapp3.1\D3_Boekhouder.pdb
 D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\obj\Debug\netcoreapp3.1\D3_Boekhouder.genruntimeconfig.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Boekhouder\obj\Debug\netcoreapp3.1\D3_Boekhouder.csprojAssemblyReference.cache

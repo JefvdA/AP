@@ -2,7 +2,7 @@
 
 namespace D3_Wiskundequiz
 {
-    class Program
+    class Oplossing_gameloop
     {
         static void Main(string[] args)
         {

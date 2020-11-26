@@ -10,3 +10,4 @@ D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\obj\Debug\n
 D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\obj\Debug\netcoreapp3.1\D3_Wiskundequiz.dll
 D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\obj\Debug\netcoreapp3.1\D3_Wiskundequiz.pdb
 D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\obj\Debug\netcoreapp3.1\D3_Wiskundequiz.genruntimeconfig.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Wiskundequiz\obj\Debug\netcoreapp3.1\D3_Wiskundequiz.csprojAssemblyReference.cache

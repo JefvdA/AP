@@ -8,8 +8,8 @@ namespace D3_Boekhouder
         {
             double balans = 0;
 
-            int pos = 0;
-            int neg = 0;
+            double pos = 0;
+            double neg = 0;
 
             int i = 0;
             double gemiddelde = 0;
@@ -24,19 +24,18 @@ namespace D3_Boekhouder
                 balans += input;
 
                 //Pos + neg getallen
-                if (input % 2 == 0)
-                    pos += 1;
+                if (input > 0)
+                    pos += input;
                 else
-                    neg += 1;
+                    neg += input;
 
                 //Gemiddelde
                 i++;
-                Console.WriteLine($"Balans: {balans}, I: {i}");
                 gemiddelde = Math.Round(balans / i, 2);
 
                 Console.WriteLine($"De balans is: {balans}");
-                Console.WriteLine($"Aantal negatieve getallen: {neg}");
-                Console.WriteLine($"Aantal positieve getallen: {pos}");
+                Console.WriteLine($"Som negatieve getallen: {neg}");
+                Console.WriteLine($"Som positieve getallen: {pos}");
                 Console.WriteLine($"Gemiddelde: {gemiddelde}");
             }
         }

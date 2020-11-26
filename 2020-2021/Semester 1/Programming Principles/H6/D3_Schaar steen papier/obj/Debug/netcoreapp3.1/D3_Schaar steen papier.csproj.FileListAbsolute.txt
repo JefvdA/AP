@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\bin\Debug\netcoreapp3.1\D3_Schaar steen papier.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\bin\Debug\netcoreapp3.1\D3_Schaar steen papier.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\bin\Debug\netcoreapp3.1\D3_Schaar steen papier.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\bin\Debug\netcoreapp3.1\D3_Schaar steen papier.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\bin\Debug\netcoreapp3.1\D3_Schaar steen papier.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\bin\Debug\netcoreapp3.1\D3_Schaar steen papier.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\obj\Debug\netcoreapp3.1\D3_Schaar steen papier.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\obj\Debug\netcoreapp3.1\D3_Schaar steen papier.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\obj\Debug\netcoreapp3.1\D3_Schaar steen papier.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\obj\Debug\netcoreapp3.1\D3_Schaar steen papier.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\obj\Debug\netcoreapp3.1\D3_Schaar steen papier.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\obj\Debug\netcoreapp3.1\D3_Schaar steen papier.genruntimeconfig.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H6\D3_Schaar steen papier\obj\Debug\netcoreapp3.1\D3_Schaar steen papier.csprojAssemblyReference.cache
