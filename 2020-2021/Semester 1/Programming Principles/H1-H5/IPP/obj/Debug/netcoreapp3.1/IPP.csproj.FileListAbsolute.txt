@@ -1,0 +1,13 @@
+D:\school\H1-H5\IPP\bin\Debug\netcoreapp3.1\IPP.exe
+D:\school\H1-H5\IPP\bin\Debug\netcoreapp3.1\IPP.deps.json
+D:\school\H1-H5\IPP\bin\Debug\netcoreapp3.1\IPP.runtimeconfig.json
+D:\school\H1-H5\IPP\bin\Debug\netcoreapp3.1\IPP.runtimeconfig.dev.json
+D:\school\H1-H5\IPP\bin\Debug\netcoreapp3.1\IPP.dll
+D:\school\H1-H5\IPP\bin\Debug\netcoreapp3.1\IPP.pdb
+D:\school\H1-H5\IPP\obj\Debug\netcoreapp3.1\IPP.csprojAssemblyReference.cache
+D:\school\H1-H5\IPP\obj\Debug\netcoreapp3.1\IPP.AssemblyInfoInputs.cache
+D:\school\H1-H5\IPP\obj\Debug\netcoreapp3.1\IPP.AssemblyInfo.cs
+D:\school\H1-H5\IPP\obj\Debug\netcoreapp3.1\IPP.csproj.CoreCompileInputs.cache
+D:\school\H1-H5\IPP\obj\Debug\netcoreapp3.1\IPP.dll
+D:\school\H1-H5\IPP\obj\Debug\netcoreapp3.1\IPP.pdb
+D:\school\H1-H5\IPP\obj\Debug\netcoreapp3.1\IPP.genruntimeconfig.cache
