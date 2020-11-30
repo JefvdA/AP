@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "vanderAvoirt_Jef_VAARDIG1/1.0.0": {
+        "runtime": {
+          "vanderAvoirt_Jef_VAARDIG1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vanderAvoirt_Jef_VAARDIG1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

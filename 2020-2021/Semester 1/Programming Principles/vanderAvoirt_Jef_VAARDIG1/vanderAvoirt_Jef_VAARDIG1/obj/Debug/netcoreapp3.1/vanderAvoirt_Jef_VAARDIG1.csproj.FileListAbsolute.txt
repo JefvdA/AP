@@ -1,0 +1,26 @@
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\bin\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.exe
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\bin\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.deps.json
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\bin\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.runtimeconfig.json
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\bin\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.runtimeconfig.dev.json
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\bin\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.dll
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\bin\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.pdb
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.csprojAssemblyReference.cache
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.AssemblyInfoInputs.cache
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.AssemblyInfo.cs
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.csproj.CoreCompileInputs.cache
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.dll
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.pdb
+C:\Users\jefvd\source\repos\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.genruntimeconfig.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\bin\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\bin\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\bin\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\bin\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\bin\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\bin\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\vanderAvoirt_Jef_VAARDIG1\vanderAvoirt_Jef_VAARDIG1\obj\Debug\netcoreapp3.1\vanderAvoirt_Jef_VAARDIG1.genruntimeconfig.cache

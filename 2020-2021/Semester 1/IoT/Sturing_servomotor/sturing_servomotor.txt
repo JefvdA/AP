@@ -1,0 +1,3 @@
+﻿Analog Slider 1 wired to pin A0 
+Servo Motor 1 wired to pin 9 
+USB Serial 1 wired to pins 1, 0 with value 9600
