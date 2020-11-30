@@ -1,0 +1,13 @@
+D:\school\H1-H5\Opgave2\bin\Debug\netcoreapp3.1\Opgave2.exe
+D:\school\H1-H5\Opgave2\bin\Debug\netcoreapp3.1\Opgave2.deps.json
+D:\school\H1-H5\Opgave2\bin\Debug\netcoreapp3.1\Opgave2.runtimeconfig.json
+D:\school\H1-H5\Opgave2\bin\Debug\netcoreapp3.1\Opgave2.runtimeconfig.dev.json
+D:\school\H1-H5\Opgave2\bin\Debug\netcoreapp3.1\Opgave2.dll
+D:\school\H1-H5\Opgave2\bin\Debug\netcoreapp3.1\Opgave2.pdb
+D:\school\H1-H5\Opgave2\obj\Debug\netcoreapp3.1\Opgave2.csprojAssemblyReference.cache
+D:\school\H1-H5\Opgave2\obj\Debug\netcoreapp3.1\Opgave2.AssemblyInfoInputs.cache
+D:\school\H1-H5\Opgave2\obj\Debug\netcoreapp3.1\Opgave2.AssemblyInfo.cs
+D:\school\H1-H5\Opgave2\obj\Debug\netcoreapp3.1\Opgave2.csproj.CoreCompileInputs.cache
+D:\school\H1-H5\Opgave2\obj\Debug\netcoreapp3.1\Opgave2.dll
+D:\school\H1-H5\Opgave2\obj\Debug\netcoreapp3.1\Opgave2.pdb
+D:\school\H1-H5\Opgave2\obj\Debug\netcoreapp3.1\Opgave2.genruntimeconfig.cache

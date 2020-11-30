@@ -1,0 +1,13 @@
+D:\school\H1-H5\Afsluiter\bin\Debug\netcoreapp3.1\Afsluiter.exe
+D:\school\H1-H5\Afsluiter\bin\Debug\netcoreapp3.1\Afsluiter.deps.json
+D:\school\H1-H5\Afsluiter\bin\Debug\netcoreapp3.1\Afsluiter.runtimeconfig.json
+D:\school\H1-H5\Afsluiter\bin\Debug\netcoreapp3.1\Afsluiter.runtimeconfig.dev.json
+D:\school\H1-H5\Afsluiter\bin\Debug\netcoreapp3.1\Afsluiter.dll
+D:\school\H1-H5\Afsluiter\bin\Debug\netcoreapp3.1\Afsluiter.pdb
+D:\school\H1-H5\Afsluiter\obj\Debug\netcoreapp3.1\Afsluiter.csprojAssemblyReference.cache
+D:\school\H1-H5\Afsluiter\obj\Debug\netcoreapp3.1\Afsluiter.AssemblyInfoInputs.cache
+D:\school\H1-H5\Afsluiter\obj\Debug\netcoreapp3.1\Afsluiter.AssemblyInfo.cs
+D:\school\H1-H5\Afsluiter\obj\Debug\netcoreapp3.1\Afsluiter.csproj.CoreCompileInputs.cache
+D:\school\H1-H5\Afsluiter\obj\Debug\netcoreapp3.1\Afsluiter.dll
+D:\school\H1-H5\Afsluiter\obj\Debug\netcoreapp3.1\Afsluiter.pdb
+D:\school\H1-H5\Afsluiter\obj\Debug\netcoreapp3.1\Afsluiter.genruntimeconfig.cache
