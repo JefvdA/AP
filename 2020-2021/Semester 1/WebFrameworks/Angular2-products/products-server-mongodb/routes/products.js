@@ -17,12 +17,12 @@ MongoClient.connect('mongodb://127.0.0.1:27017', { useUnifiedTopology: true }, (
 
     /* SEARCH A PRODUCT */
     router.post('/search', (req, res) => {
-        var query = { name: req.body.name };
-        db.collection('items').findOne(query, (err, result) => {
-            if (err) return;
-            if(result != '')
-                res.json(result);
-        });
+        //var query = { name: req.body.name }
+        var query = { name : new RegExp('^' + req.body.name) }
+        db.collection('items').find(query).toArray((err, result) => {
+         if (err) return
+         res.json(result);
+       });
     });
 });
 

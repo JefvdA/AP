@@ -20,8 +20,8 @@ export class ProductService {
    }
 
    // Search a product based on the name
-   searchProduct(name: string): Observable<Product> {
+   searchProduct(name: string): Observable<Product[]> {
       let url = `${this.productsServiceURI}/search`;
-      return this.http.post<Product>(url, `name=${name}`, { headers: this.contentHeaders });
+      return this.http.post<Product[]>(url, `name=${name}`, { headers: this.contentHeaders });
    }
 }

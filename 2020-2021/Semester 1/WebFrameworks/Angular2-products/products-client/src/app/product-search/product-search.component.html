@@ -14,10 +14,12 @@
  
  <br /><br />
    <h2> Result</h2>
-   <label>Name: &nbsp;</label> {{ product.name }} <br>
-   <label>Brand: &nbsp;</label> {{product.brand }} <br>
-   <label>Description: &nbsp;</label> {{ product.description }} <br>
-   <label>Price: &nbsp;</label> {{ product.price }}
+   <li *ngFor='let product of products'>
+    Name : {{ product.name }}<br />
+    Brand : {{ product.brand }}<br />
+    Description : {{ product.description }}<br />
+    Price : {{ product.price }}
+  </li>
   <br />
  </div>
  

@@ -10,7 +10,17 @@ var productsRouter = require('./routes/products.js');
 
 var app = express();
 
-app.use(cors());
+//CORS
+var originWhiteList = [
+  'http://localhost:4200'
+];
+var corsOptions = {
+  origin: function(origin, callback) {
+    var isWhitelisted = originWhiteList.indexOf(origin) !== -1;
+    callback(null, isWhitelisted);
+  }
+}
+app.use(cors(corsOptions));
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));

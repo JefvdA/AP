@@ -11,7 +11,7 @@ import { ProductService } from '../service/product.service';
 
 export class ProductSearchComponent {
 
-  product = new Product('', '', '', '');
+  products: Product[];
   productSearchForm = this.fb.group({
     name: ['', Validators.required]
   });
@@ -21,7 +21,7 @@ export class ProductSearchComponent {
 
   onSubmit() {
     this.ps.searchProduct(this.productSearchForm.value.name)
-      .subscribe(data => { this.product = data; },
+      .subscribe(data => { this.products = data; },
                  error => { console.error(error); });
   }
 
