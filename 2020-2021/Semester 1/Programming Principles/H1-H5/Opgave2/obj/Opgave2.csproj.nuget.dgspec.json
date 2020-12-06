@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\school\\H1-H5\\Opgave2\\Opgave2.csproj": {}
+    "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\Opgave2\\Opgave2.csproj": {}
   },
   "projects": {
-    "D:\\school\\H1-H5\\Opgave2\\Opgave2.csproj": {
+    "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\Opgave2\\Opgave2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\school\\H1-H5\\Opgave2\\Opgave2.csproj",
+        "projectUniqueName": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\Opgave2\\Opgave2.csproj",
         "projectName": "Opgave2",
-        "projectPath": "D:\\school\\H1-H5\\Opgave2\\Opgave2.csproj",
+        "projectPath": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\Opgave2\\Opgave2.csproj",
         "packagesPath": "C:\\Users\\Jef\\.nuget\\packages\\",
-        "outputPath": "D:\\school\\H1-H5\\Opgave2\\obj\\",
+        "outputPath": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\Opgave2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jef\\AppData\\Roaming\\NuGet\\NuGet.Config",
