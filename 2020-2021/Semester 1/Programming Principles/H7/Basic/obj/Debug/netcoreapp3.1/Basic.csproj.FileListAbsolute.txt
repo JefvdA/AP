@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\bin\Debug\netcoreapp3.1\Basic.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\bin\Debug\netcoreapp3.1\Basic.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\bin\Debug\netcoreapp3.1\Basic.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\bin\Debug\netcoreapp3.1\Basic.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\bin\Debug\netcoreapp3.1\Basic.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\obj\Debug\netcoreapp3.1\Basic.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\obj\Debug\netcoreapp3.1\Basic.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\obj\Debug\netcoreapp3.1\Basic.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\obj\Debug\netcoreapp3.1\Basic.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\obj\Debug\netcoreapp3.1\Basic.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Basic\obj\Debug\netcoreapp3.1\Basic.genruntimeconfig.cache

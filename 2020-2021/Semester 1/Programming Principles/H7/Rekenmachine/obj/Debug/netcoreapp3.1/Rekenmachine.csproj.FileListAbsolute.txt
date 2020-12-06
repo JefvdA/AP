@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\bin\Debug\netcoreapp3.1\Rekenmachine.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\bin\Debug\netcoreapp3.1\Rekenmachine.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\bin\Debug\netcoreapp3.1\Rekenmachine.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\bin\Debug\netcoreapp3.1\Rekenmachine.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\bin\Debug\netcoreapp3.1\Rekenmachine.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\bin\Debug\netcoreapp3.1\Rekenmachine.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\Rekenmachine\obj\Debug\netcoreapp3.1\Rekenmachine.genruntimeconfig.cache

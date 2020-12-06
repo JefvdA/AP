@@ -11,6 +11,7 @@ MongoClient.connect('mongodb://127.0.0.1:27017', { useUnifiedTopology: true }, (
     router.get('/', (req, res) => {
         db.collection('items').find().toArray((err, result) => {
             if (err) return;
+<<<<<<< HEAD
             res.render('list.ejs', { products: result });
         });
     });
@@ -51,6 +52,20 @@ MongoClient.connect('mongodb://127.0.0.1:27017', { useUnifiedTopology: true }, (
             if (err) return res.send(500, err);
             res.redirect('/');
         });
+=======
+            res.json(result);
+        });
+    });
+
+    /* SEARCH A PRODUCT */
+    router.post('/search', (req, res) => {
+        //var query = { name: req.body.name }
+        var query = { name : new RegExp('^' + req.body.name) }
+        db.collection('items').find(query).toArray((err, result) => {
+         if (err) return
+         res.json(result);
+       });
+>>>>>>> 51e8452e714132173aa0bf9c264878be70d1d10a
     });
 });
 

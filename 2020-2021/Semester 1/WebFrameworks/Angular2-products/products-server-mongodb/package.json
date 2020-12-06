@@ -7,6 +7,10 @@
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
+<<<<<<< HEAD
+=======
+    "cors": "^2.8.5",
+>>>>>>> 51e8452e714132173aa0bf9c264878be70d1d10a
     "debug": "~2.6.9",
     "ejs": "^3.1.5",
     "express": "~4.16.1",

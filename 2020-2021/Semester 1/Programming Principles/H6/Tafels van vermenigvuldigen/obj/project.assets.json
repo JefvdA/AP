@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Jef\\.nuget\\packages\\": {}
+    "C:\\Users\\jefvd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H6\\Tafels van vermenigvuldigen\\D1_Tafels van vermenigvuldigen.csproj",
       "projectName": "D1_Tafels van vermenigvuldigen",
       "projectPath": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H6\\Tafels van vermenigvuldigen\\D1_Tafels van vermenigvuldigen.csproj",
-      "packagesPath": "C:\\Users\\Jef\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\jefvd\\.nuget\\packages\\",
       "outputPath": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H6\\Tafels van vermenigvuldigen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jefvd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
