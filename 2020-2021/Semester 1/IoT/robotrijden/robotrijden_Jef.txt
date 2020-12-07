@@ -2,8 +2,7 @@
 Push Button 2 wired to pin 4 with values U, M
 Push Button 3 wired to pin 5 with values U, M
 Push Button 4 wired to pin 6 with values U, M
-Analog Slider 1 wired to pin -1 
 DC Motor 1 wired to pins 10, 12, -1 with values F, 0, 
 DC Motor 2 wired to pins 11, 13, -1 with values F, 0, 
-TFT Display 1 wired to pins 11, -1, 13, 10 
+Text LCD (I2C) 1 wired to pins A4, A5 with values 0x20, B, 1
 USB Serial 1 wired to pins 1, 0 with value 9600

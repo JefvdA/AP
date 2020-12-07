@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\school\\H1-H5\\IPP\\IPP.csproj",
+      "projectUniqueName": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\IPP\\IPP.csproj",
       "projectName": "IPP",
-      "projectPath": "D:\\school\\H1-H5\\IPP\\IPP.csproj",
+      "projectPath": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\IPP\\IPP.csproj",
       "packagesPath": "C:\\Users\\Jef\\.nuget\\packages\\",
-      "outputPath": "D:\\school\\H1-H5\\IPP\\obj\\",
+      "outputPath": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\IPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jef\\AppData\\Roaming\\NuGet\\NuGet.Config",

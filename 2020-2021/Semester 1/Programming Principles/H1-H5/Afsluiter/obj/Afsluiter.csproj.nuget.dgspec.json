@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\school\\H1-H5\\Afsluiter\\Afsluiter.csproj": {}
+    "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\Afsluiter\\Afsluiter.csproj": {}
   },
   "projects": {
-    "D:\\school\\H1-H5\\Afsluiter\\Afsluiter.csproj": {
+    "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\Afsluiter\\Afsluiter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\school\\H1-H5\\Afsluiter\\Afsluiter.csproj",
+        "projectUniqueName": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\Afsluiter\\Afsluiter.csproj",
         "projectName": "Afsluiter",
-        "projectPath": "D:\\school\\H1-H5\\Afsluiter\\Afsluiter.csproj",
+        "projectPath": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\Afsluiter\\Afsluiter.csproj",
         "packagesPath": "C:\\Users\\Jef\\.nuget\\packages\\",
-        "outputPath": "D:\\school\\H1-H5\\Afsluiter\\obj\\",
+        "outputPath": "D:\\AP\\2020-2021\\Semester 1\\Programming Principles\\H1-H5\\Afsluiter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jef\\AppData\\Roaming\\NuGet\\NuGet.Config",
