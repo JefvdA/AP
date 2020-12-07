@@ -1,0 +1,21 @@
+<div class="container">
+    <h1>Edit product</h1>
+
+    <form [formGroup]="product" (ngSubmit)="onSubmit">
+
+        <label>Name: <input type="text" formControlName="name"></label>
+        <br>
+
+        <label>Brand: <input type="text" formControlName="brand"></label>
+        <br>
+
+        <label>Description: <input type="text" formControlName="description"></label>
+        <br>
+
+        <label>Price: <input type="text" formControlName="price"></label>
+        <br>
+
+        <button type="submit" [disabled]="!product.valid">Save</button>
+        <br>
+    </form>
+</div>

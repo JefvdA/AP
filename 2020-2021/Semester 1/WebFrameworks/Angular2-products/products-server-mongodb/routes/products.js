@@ -15,14 +15,38 @@ MongoClient.connect('mongodb://127.0.0.1:27017', { useUnifiedTopology: true }, (
         });
     });
 
+    /* ADD PRODUCT */
+    router.post('/add', (req, res) => {
+        db.collection('items').insertOne(req.body);
+    })
+
     /* SEARCH A PRODUCT */
-    router.post('/search', (req, res) => {
+    router.post('/searchAll', (req, res) => {
         //var query = { name: req.body.name }
         var query = { name : new RegExp('^' + req.body.name) }
         db.collection('items').find(query).toArray((err, result) => {
          if (err) return
          res.json(result);
        });
+    });
+
+    /* SEARCH ONE PRODUCT */
+    router.post('/searchOne', (req, res) => {
+        var query = { name: req.body.name }
+        db.collection('items').find(query).toArray((err, result) => {
+            if (err) return
+            res.json(result);
+        });
+    });
+
+    /* DELETE A PRODUCT */
+    router.delete('/delete/:name', (req, res) => {
+        db.collection('items').findOneAndDelete({ name: req.params.name });
+    });
+
+    /* EDIT A PRODUCT */
+    router.post('/edit', (req, res) => {
+        db.collection('items').replaceOne({ name: req.body.name }, req.body);
     });
 });
 
