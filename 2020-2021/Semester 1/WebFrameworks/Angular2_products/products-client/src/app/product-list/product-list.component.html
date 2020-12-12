@@ -1,0 +1,13 @@
+<div class="container">
+    <h1>All products</h1>
+    <ul>
+        <li *ngFor='let product of products'>
+            Name : {{ product.name }} <br>
+            Brand : {{ product.brand }} <br>
+            Description : {{ product.description }} <br>
+            Price : {{ product.price }} <br>
+            <a [routerLink]="['/delete', product.name]">Delete</a>
+            <a [routerLink]="['/edit', product.name]">Edit</a>
+        </li>
+    </ul>
+</div>

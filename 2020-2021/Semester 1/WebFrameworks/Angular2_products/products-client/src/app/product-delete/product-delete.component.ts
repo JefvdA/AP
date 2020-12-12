@@ -1,16 +1,17 @@
 import { Component } from '@angular/core';
-import { ProductService } from '../service/product.service';
 import { FormBuilder } from '@angular/forms';
 import { Validators } from '@angular/forms';
 import { Router } from '@angular/router';
+import { ProductService } from '../service/product.service';
 
 @Component({
   selector: 'app-product-delete',
   templateUrl: './product-delete.component.html'
 })
+
 export class ProductDeleteComponent {
 
-  productName: string;
+  productName: string
   product = this.fb.group({
     name: ['', Validators.required]
   });
@@ -18,11 +19,12 @@ export class ProductDeleteComponent {
   constructor(private ps: ProductService,
               private fb: FormBuilder,
               private router: Router) { 
+                
     this.productName = router.url.split('/')[2];
     this.product.controls['name'].setValue(this.productName);
   }
 
-  onSubmit() {
+  onSubmit(){
     this.ps.deleteProduct(this.product.value.name);
     this.router.navigate(['']);
   }

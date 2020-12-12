@@ -1,0 +1,12 @@
+<div class="container">
+  <h1>Products</h1>
+  <br><br>
+  <nav>
+    <button [routerLink] = "['']" routerLinkActive="active">List</button>&nbsp;
+    <button [routerLink] = "['/search']" routerLinkActive="active">Search</button>&nbsp;
+    <button [routerLink] = "['/add']" routerLinkActive="active">Add</button>&nbsp;
+    <button [routerLink] = "['/delete']" routerLinkActive="active">Delete</button>&nbsp;
+  </nav>
+  <br><br>
+  <router-outlet></router-outlet>
+</div>

@@ -4,24 +4,14 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
-var cors = require('cors');
-
 var indexRouter = require('./routes/index');
 var productsRouter = require('./routes/products.js');
 
 var app = express();
 
-//CORS
-var originWhiteList = [
-  'http://localhost:4200'
-];
-var corsOptions = {
-  origin: function(origin, callback) {
-    var isWhitelisted = originWhiteList.indexOf(origin) !== -1;
-    callback(null, isWhitelisted);
-  }
-}
-app.use(cors(corsOptions));
+// CORS
+var cors = require('cors');
+app.use(cors());
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));

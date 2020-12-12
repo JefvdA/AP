@@ -1,14 +1,15 @@
 import { Component } from '@angular/core';
-import { Router, ActivatedRoute } from '@angular/router';
 import { FormBuilder } from '@angular/forms';
 import { Validators } from '@angular/forms';
+import { Router, ActivatedRoute } from '@angular/router';
 import { Product } from '../service/product';
-import { ProductService } from '../service/product.service'; 
+import { ProductService } from '../service/product.service';
 
 @Component({
   selector: 'app-product-edit',
   templateUrl: './product-edit.component.html'
 })
+
 export class ProductEditComponent {
 
   productName: string;
@@ -26,26 +27,25 @@ export class ProductEditComponent {
     
     // Simple splitting of url parts
     this.productName = router.url.split('/')[2];
-
     // Preferred way of handling active route
     this.activeRoute.params
-    .subscribe(params => { this.productName = params['name'];
-                          this.ps.searchOneProduct(this.productName)
-                              .subscribe(data => { this.product.controls['name'].setValue(data[0].name)
-                                                  this.product.controls['brand'].setValue(data[0].brand)
-                                                  this.product.controls['description'].setValue(data[0].description)
-                                                  this.product.controls['price'].setValue(data[0].price)
-                                                  }, 
-                                        error => { console.log(error) })
-                          }
-              )
+      .subscribe(params => {
+        this.productName = params['name'];
+        this.ps.searchOneProduct(this.productName)
+          .subscribe(data => { this.product.controls['name'].setValue(data[0].name);
+                               this.product.controls['brand'].setValue(data[0].brand);
+                               this.product.controls['description'].setValue(data[0].description);
+                               this.product.controls['price'].setValue(data[0].price);
+                              },
+                     error => { console.error(error); });
+      })
   }
 
-  onSubmit() {
+  onSubmit(){
     this.ps.editProduct(new Product(this.product.value.name,
                                     this.product.value.brand,
                                     this.product.value.description,
-                                    this.product.value.price))
-    this.router.navigate([''])
- }
+                                    this.product.value.price));
+    this.router.navigate(['']);
+  }
 }

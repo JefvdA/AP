@@ -1,9 +1,9 @@
 import { Component } from '@angular/core';
-import { Product } from '../service/product';
-import { ProductService } from '../service/product.service';
 import { FormBuilder } from '@angular/forms';
 import { Validators } from '@angular/forms';
 import { Router } from '@angular/router';
+import { Product } from '../service/product';
+import { ProductService } from '../service/product.service';
 
 @Component({
   selector: 'app-product-add',
@@ -17,21 +17,17 @@ export class ProductAddComponent {
     brand: ['', Validators.required],
     description: ['', Validators.required],
     price: ['', Validators.required]
-  })
+  });
 
   constructor(private ps: ProductService,
               private fb: FormBuilder,
               private router: Router) { }
 
-  onSubmit() {
-    this.ps.addProduct(new Product(
-      this.product.value.name,
-      this.product.value.brand,
-      this.product.value.description,
-      this.product.value.price
-    ));
-
+  onSubmit(){
+    this.ps.addProduct(new Product(this.product.value.name,
+                                   this.product.value.brand,
+                                   this.product.value.description,
+                                   this.product.value.price ));
     this.router.navigate(['']);
   }
-
 }
