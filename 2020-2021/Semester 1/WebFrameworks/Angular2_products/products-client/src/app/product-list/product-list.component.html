@@ -1,13 +1,23 @@
 <div class="container">
     <h1>All products</h1>
-    <ul>
-        <li *ngFor='let product of products'>
-            Name : {{ product.name }} <br>
-            Brand : {{ product.brand }} <br>
-            Description : {{ product.description }} <br>
-            Price : {{ product.price }} <br>
-            <a [routerLink]="['/delete', product.name]">Delete</a>
-            <a [routerLink]="['/edit', product.name]">Edit</a>
-        </li>
-    </ul>
+    <br>
+    <table class="table table-striped">
+        <thead>
+          <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Brand</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let product of products">
+            <th scope="row"><a [routerLink]="['/delete', product.name]" routerLinkActive="active"><img src='assets/delete.jpg' width='15' height='18'></a>&nbsp;&nbsp;
+                            <a [routerLink]="['/edit', product.name]" routerLinkActive="active">{{ product.name }}</a></th>
+            <td>{{ product.brand }}</td>
+            <td>{{ product.description }}</td>
+            <td>{{ product.price }}</td>
+          </tr>
+        </tbody>
+      </table>
 </div>

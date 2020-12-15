@@ -3,20 +3,28 @@
 
     <form [formGroup]="product" (ngSubmit)="onSubmit()">
 
-        <br>
-        <label>Name: <input type="text" formControlName="name"></label>
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Name</span>
+            <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" placeholder="Enter name here" formControlName="name">
+        </div>
+
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Brand</span>
+            <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" placeholder="Enter brand here" formControlName="brand">
+        </div>
+
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Description</span>
+            <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" formControlName="description">
+        </div>
+
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Price</span>
+            <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" placeholder="Enter price here" formControlName="price">
+        </div>
 
         <br>
-        <label>Brand: <input type="text" formControlName="brand"></label>
-
-        <br>
-        <label>Description: <input type="text" formControlName="description"></label>
-
-        <br>
-        <label>Price: <input type="text" formControlName="price"></label>
-
-        <br>
-        <button type="submit" [disabled]="!product.valid">Add</button>
+        <button class="btn btn-primary"type="submit" [disabled]="!product.valid">Add</button>
         <br>
     </form>
 </div>

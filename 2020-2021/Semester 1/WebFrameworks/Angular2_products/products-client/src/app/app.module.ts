@@ -11,14 +11,19 @@ import { ProductSearchComponent } from './product-search/product-search.componen
 import { ProductAddComponent } from './product-add/product-add.component';
 import { ProductDeleteComponent } from './product-delete/product-delete.component';
 import { ProductEditComponent } from './product-edit/product-edit.component';
+import { LoginComponent } from './login/login.component';
+import { AuthenticationService } from './service/authentication.service';
+import { AuthGuard } from './service/auth.guard';
 
 // define the routes
 const appRoutes: Routes = [
   { path: '', component: ProductListComponent },
   { path: 'search', component: ProductSearchComponent },
-  { path: 'add', component: ProductAddComponent },
-  { path: 'delete/:name', component: ProductDeleteComponent },
-  { path: 'edit/:name', component: ProductEditComponent }
+  { path: 'add', component: ProductAddComponent, canActivate: [AuthGuard] },
+  { path: 'delete', component: ProductDeleteComponent, canActivate: [AuthGuard] },
+  { path: 'delete/:name', component: ProductDeleteComponent, canActivate: [AuthGuard] },
+  { path: 'edit/:name', component: ProductEditComponent, canActivate: [AuthGuard] },
+  { path: 'login', component: LoginComponent }
 ]
 
 @NgModule({
@@ -28,13 +33,15 @@ const appRoutes: Routes = [
     ProductSearchComponent,
     ProductAddComponent,
     ProductDeleteComponent,
-    ProductEditComponent ],
+    ProductEditComponent,
+    LoginComponent ],
   imports: [
     BrowserModule,
     HttpClientModule,
     ReactiveFormsModule,
     RouterModule.forRoot(appRoutes) ],
-  providers: [ProductService],
+  providers: [ProductService,
+              AuthenticationService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

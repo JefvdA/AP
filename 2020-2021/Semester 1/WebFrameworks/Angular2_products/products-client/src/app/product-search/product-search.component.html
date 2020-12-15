@@ -2,21 +2,36 @@
     <h1>Search product</h1>
 
     <form [formGroup]="product" (ngSubmit)="onSubmit()">
-        <br>
-        <label>Name: <input type="text" formControlName="name"></label>
+        
+        <div class="input-group mb-3">
+            <span class="input-group-text" id="inputGroup-sizing-default">Name</span>
+            <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" placeholder="Enter name here" formControlName="name">
+        </div>
 
-        <br>
-        <button type="submit" [disabled]="!product.valid">Search</button>
+        <button class="btn btn-primary" type="submit" [disabled]="!product.valid">Search</button>
         <br>
     </form>
     
     <br><br>
     <h2>Result</h2>
-    <li *ngFor='let product of products'>
-        Name : {{ product.name }} <br>
-        Brand : {{ product.brand }} <br>
-        Description : {{ product.description }} <br>
-        Price : {{ product.price }} 
-    </li>
+    <table class="table table-striped">
+        <thead>
+          <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Brand</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let product of products">
+            <th scope="row"><a [routerLink]="['/delete', product.name]" routerLinkActive="active"><img src='assets/delete.jpg' width='15' height='18'></a>&nbsp;&nbsp;
+                            <a [routerLink]="['/edit', product.name]" routerLinkActive="active">{{ product.name }}</a></th>
+            <td>{{ product.brand }}</td>
+            <td>{{ product.description }}</td>
+            <td>{{ product.price }}</td>
+          </tr>
+        </tbody>
+      </table>
     <br>
 </div>

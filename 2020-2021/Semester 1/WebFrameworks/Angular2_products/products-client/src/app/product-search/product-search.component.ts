@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { FormBuilder } from '@angular/forms';
 import { Validators } from '@angular/forms';
-import { Product } from '../service/product';
+import { Product } from '../service/model/product';
 import { ProductService } from '../service/product.service';
 
 @Component({
