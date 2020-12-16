@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\bin\Debug\netcoreapp3.1\D2_Verhaalgenerator.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\bin\Debug\netcoreapp3.1\D2_Verhaalgenerator.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\bin\Debug\netcoreapp3.1\D2_Verhaalgenerator.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\bin\Debug\netcoreapp3.1\D2_Verhaalgenerator.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\bin\Debug\netcoreapp3.1\D2_Verhaalgenerator.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\bin\Debug\netcoreapp3.1\D2_Verhaalgenerator.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\obj\Debug\netcoreapp3.1\D2_Verhaalgenerator.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\obj\Debug\netcoreapp3.1\D2_Verhaalgenerator.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\obj\Debug\netcoreapp3.1\D2_Verhaalgenerator.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\obj\Debug\netcoreapp3.1\D2_Verhaalgenerator.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\obj\Debug\netcoreapp3.1\D2_Verhaalgenerator.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\obj\Debug\netcoreapp3.1\D2_Verhaalgenerator.genruntimeconfig.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Verhaalgenerator\obj\Debug\netcoreapp3.1\D2_Verhaalgenerator.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\bin\Debug\netcoreapp3.1\Array_zoeker.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\bin\Debug\netcoreapp3.1\Array_zoeker.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\bin\Debug\netcoreapp3.1\Array_zoeker.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\bin\Debug\netcoreapp3.1\Array_zoeker.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\bin\Debug\netcoreapp3.1\Array_zoeker.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\bin\Debug\netcoreapp3.1\Array_zoeker.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\obj\Debug\netcoreapp3.1\Array_zoeker.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\obj\Debug\netcoreapp3.1\Array_zoeker.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\obj\Debug\netcoreapp3.1\Array_zoeker.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\obj\Debug\netcoreapp3.1\Array_zoeker.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\obj\Debug\netcoreapp3.1\Array_zoeker.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\obj\Debug\netcoreapp3.1\Array_zoeker.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Array_zoeker\obj\Debug\netcoreapp3.1\Array_zoeker.genruntimeconfig.cache

@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opwarmers", "Opwarmers\Opwarmers.csproj", "{E5F3E440-FFCC-4E0A-B0BA-E01224564855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opwarmers", "Opwarmers\Opwarmers.csproj", "{E5F3E440-FFCC-4E0A-B0BA-E01224564855}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic", "Basic\Basic.csproj", "{4A9A175E-CD4C-43B2-AB6F-E928E5E7B9E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic", "Basic\Basic.csproj", "{4A9A175E-CD4C-43B2-AB6F-E928E5E7B9E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rekenmachine", "Rekenmachine\Rekenmachine.csproj", "{B8CA7616-D8DF-4949-98AE-1EE5FEDBC5D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rekenmachine", "Rekenmachine\Rekenmachine.csproj", "{B8CA7616-D8DF-4949-98AE-1EE5FEDBC5D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password Generator", "Password Generator\Password Generator.csproj", "{5049EF2C-A626-4249-966C-E02C2777AD93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Password Generator", "Password Generator\Password Generator.csproj", "{5049EF2C-A626-4249-966C-E02C2777AD93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2_Film_Default", "D2_Film_Default\D2_Film_Default.csproj", "{520C4698-A263-4474-9384-0E5BDDC139B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2_Verhaalgenerator", "D2_Verhaalgenerator\D2_Verhaalgenerator.csproj", "{EE90F900-FFB3-46F9-8D79-723853C72A0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{5049EF2C-A626-4249-966C-E02C2777AD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5049EF2C-A626-4249-966C-E02C2777AD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5049EF2C-A626-4249-966C-E02C2777AD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520C4698-A263-4474-9384-0E5BDDC139B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520C4698-A263-4474-9384-0E5BDDC139B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520C4698-A263-4474-9384-0E5BDDC139B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520C4698-A263-4474-9384-0E5BDDC139B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE90F900-FFB3-46F9-8D79-723853C72A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE90F900-FFB3-46F9-8D79-723853C72A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE90F900-FFB3-46F9-8D79-723853C72A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE90F900-FFB3-46F9-8D79-723853C72A0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

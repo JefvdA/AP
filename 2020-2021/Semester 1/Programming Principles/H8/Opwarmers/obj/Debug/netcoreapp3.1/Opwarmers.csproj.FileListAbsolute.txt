@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\bin\Debug\netcoreapp3.1\Opwarmers.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\bin\Debug\netcoreapp3.1\Opwarmers.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\bin\Debug\netcoreapp3.1\Opwarmers.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\bin\Debug\netcoreapp3.1\Opwarmers.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\bin\Debug\netcoreapp3.1\Opwarmers.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\bin\Debug\netcoreapp3.1\Opwarmers.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\obj\Debug\netcoreapp3.1\Opwarmers.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\obj\Debug\netcoreapp3.1\Opwarmers.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\obj\Debug\netcoreapp3.1\Opwarmers.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\obj\Debug\netcoreapp3.1\Opwarmers.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\obj\Debug\netcoreapp3.1\Opwarmers.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\obj\Debug\netcoreapp3.1\Opwarmers.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H8\Opwarmers\obj\Debug\netcoreapp3.1\Opwarmers.genruntimeconfig.cache

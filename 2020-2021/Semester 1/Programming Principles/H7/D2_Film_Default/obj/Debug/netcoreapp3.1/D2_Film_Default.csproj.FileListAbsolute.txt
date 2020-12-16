@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\bin\Debug\netcoreapp3.1\D2_Film_Default.exe
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\bin\Debug\netcoreapp3.1\D2_Film_Default.deps.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\bin\Debug\netcoreapp3.1\D2_Film_Default.runtimeconfig.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\bin\Debug\netcoreapp3.1\D2_Film_Default.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\bin\Debug\netcoreapp3.1\D2_Film_Default.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\bin\Debug\netcoreapp3.1\D2_Film_Default.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\obj\Debug\netcoreapp3.1\D2_Film_Default.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\obj\Debug\netcoreapp3.1\D2_Film_Default.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\obj\Debug\netcoreapp3.1\D2_Film_Default.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\obj\Debug\netcoreapp3.1\D2_Film_Default.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\obj\Debug\netcoreapp3.1\D2_Film_Default.dll
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\obj\Debug\netcoreapp3.1\D2_Film_Default.pdb
+D:\AP\2020-2021\Semester 1\Programming Principles\H7\D2_Film_Default\obj\Debug\netcoreapp3.1\D2_Film_Default.genruntimeconfig.cache
