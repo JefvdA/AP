@@ -11,7 +11,7 @@ var productsRouter = require('./routes/products.js');
 var app = express();
 
 // CORS
-var originsWhitelist = ['http://localhost:4200'];
+var originsWhitelist = ['http://localhost:3000'];
 
 var corsOptions = {
   origin: function(origin, callback){
