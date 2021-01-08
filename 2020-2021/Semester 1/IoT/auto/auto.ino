@@ -262,32 +262,32 @@ void loop() {
 void driveMotors(int leftMotorDirection, int leftMotorSpeed, int rightMotorDirection, int rightMotorSpeed) {
     switch(leftMotorDirection){
     case MOTOR_BACKWARDS: // SPEED naar 1A
-      ledcWrite(MOTOR_CHANNELS[0], 0);
-      ledcWrite(MOTOR_CHANNELS[1], leftMotorSpeed);
+      ledcWrite(MOTOR_CHANNELS[0], leftMotorSpeed);
+      ledcWrite(MOTOR_CHANNELS[1], 0);
       break;
     case MOTOR_STOP:
       ledcWrite(MOTOR_CHANNELS[0], 0);
       ledcWrite(MOTOR_CHANNELS[1], 0);
       break;
     case MOTOR_FORWARD: // SPEED naar 1B
-      ledcWrite(MOTOR_CHANNELS[0], leftMotorSpeed);
-      ledcWrite(MOTOR_CHANNELS[1], 0);
+      ledcWrite(MOTOR_CHANNELS[0], 0);
+      ledcWrite(MOTOR_CHANNELS[1], leftMotorSpeed);
       break;
   }
 
   // RIGHT MOTORS
   switch(rightMotorDirection){
     case MOTOR_BACKWARDS: // SPEED naar 2A
-      ledcWrite(MOTOR_CHANNELS[2], 0);
-      ledcWrite(MOTOR_CHANNELS[3], rightMotorSpeed);
+      ledcWrite(MOTOR_CHANNELS[2], rightMotorSpeed);
+      ledcWrite(MOTOR_CHANNELS[3], 0);
       break;
     case MOTOR_STOP:
       ledcWrite(MOTOR_CHANNELS[2], 0);
       ledcWrite(MOTOR_CHANNELS[3], 0);
       break;
     case MOTOR_FORWARD: // SPEED naar 2B
-      ledcWrite(MOTOR_CHANNELS[2], rightMotorSpeed);
-      ledcWrite(MOTOR_CHANNELS[3], 0);
+      ledcWrite(MOTOR_CHANNELS[2], 0);
+      ledcWrite(MOTOR_CHANNELS[3], rightMotorSpeed);
       break;
   }
 }
@@ -297,6 +297,28 @@ void driveMotors(int leftMotorDirection, int leftMotorSpeed, int rightMotorDirec
 // control both barriers based on the parameters. Subfunctions are allowed,
 // hardcoded statements are frowned upon 
 void barrierControl(int barrierID, bool setBarrier) {
+  switch (barrierID) {
+    case 0:
+    switch (setBarrier) {
+      case true:
+        ledcWrite(pin, HIGH);
+      break;
+      case false:
+        ledcWrite(pin, LOW);
+      break;
+    }
+    break;
+    case 1:
+    switch (setBarrier) {
+      case true:
+        ledcWrite(barrierID, HIGH);
+      break;
+      case false:
+        ledcWrite(barrierID, LOW);
+      break;
+    }
+    break;
+  }
 }
 
 // This function you need to develop as part of the assignment
