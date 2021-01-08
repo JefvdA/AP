@@ -6,8 +6,8 @@
 
 // WIFI Credentials 
 // Connect to Hotspot on mobile phone 
-const char* WIFI_SSID = ""; // Fill wifi SSID between quotes
-const char* WIFI_PASS = ""; // Fill wifi pass between quotes
+const char* WIFI_SSID = "spotHot"; // Fill wifi SSID between quotes
+const char* WIFI_PASS = "hotspot123"; // Fill wifi pass between quotes
 
 //MQTT Information 
 const char* MQTT_SERVER = "mqtt.luytsm.be"; // DO NOT CHANGE!
@@ -155,9 +155,6 @@ void setup() {
     ledcAttachPin(LED_PINS[i], LED_CHANNELS[i]);
     ledcWrite(LED_CHANNELS[i], 128);
   }
-  for (int i = 0; i < PWM_CHANNEL_COUNT; i++) {
-    pinMode(MOTOR_PINS[i], OUTPUT);
-  }
   // init ultrasonic distance sensor
   pinMode(TRIG_PIN, OUTPUT); 
   pinMode(ECHO_PIN, INPUT); 
@@ -263,31 +260,34 @@ void loop() {
 // frowned upon 
 
 void driveMotors(int leftMotorDirection, int leftMotorSpeed, int rightMotorDirection, int rightMotorSpeed) {
-  // LEFT MOTORS
-  switch(leftMotorDirection){
+    switch(leftMotorDirection){
     case MOTOR_BACKWARDS: // SPEED naar 1A
-      analogWrite(MOTOR_PINS[0], leftMotorSpeed);
+      ledcWrite(MOTOR_CHANNELS[0], 0);
+      ledcWrite(MOTOR_CHANNELS[1], leftMotorSpeed);
       break;
     case MOTOR_STOP:
-      analogWrite(MOTOR_PINS[0], 0);
-      analogWrite(MOTOR_PINS[1], 0);
+      ledcWrite(MOTOR_CHANNELS[0], 0);
+      ledcWrite(MOTOR_CHANNELS[1], 0);
       break;
     case MOTOR_FORWARD: // SPEED naar 1B
-      analogWrite(MOTOR_PINS[1], leftMotorSpeed);
+      ledcWrite(MOTOR_CHANNELS[0], leftMotorSpeed);
+      ledcWrite(MOTOR_CHANNELS[1], 0);
       break;
   }
 
   // RIGHT MOTORS
-  switch(rigthMotorDirection){
+  switch(rightMotorDirection){
     case MOTOR_BACKWARDS: // SPEED naar 2A
-      analogWrite(MOTOR_PINS[3], rightMotorSpeed);
+      ledcWrite(MOTOR_CHANNELS[2], 0);
+      ledcWrite(MOTOR_CHANNELS[3], rightMotorSpeed);
       break;
     case MOTOR_STOP:
-      analogWrite(MOTOR_PINS[2], 0);
-      analogWrite(MOTOR_PINS[2], 0);
+      ledcWrite(MOTOR_CHANNELS[2], 0);
+      ledcWrite(MOTOR_CHANNELS[3], 0);
       break;
-    case MOTOR_FORWARD:
-      analogWrite(MOTOR_PINS[2], rightMotorSpeed);
+    case MOTOR_FORWARD: // SPEED naar 2B
+      ledcWrite(MOTOR_CHANNELS[2], rightMotorSpeed);
+      ledcWrite(MOTOR_CHANNELS[3], 0);
       break;
   }
 }
@@ -297,30 +297,6 @@ void driveMotors(int leftMotorDirection, int leftMotorSpeed, int rightMotorDirec
 // control both barriers based on the parameters. Subfunctions are allowed,
 // hardcoded statements are frowned upon 
 void barrierControl(int barrierID, bool setBarrier) {
-  void barrierControl(int barrierID, bool setBarrier) {
-  switch (barrierID) {
-    case 0:
-    switch (setBarrier) {
-      case true:
-        servo1.write(90);
-      break;
-      case false:
-        servo1.write(0);
-      break;
-    }
-    break;
-    case 1:
-    switch (setBarrier) {
-      case true:
-        servo2.write(90);
-      break;
-      case false:
-        servo2.write(0);
-      break;
-    }
-    break;
-  }
-}
 }
 
 // This function you need to develop as part of the assignment
