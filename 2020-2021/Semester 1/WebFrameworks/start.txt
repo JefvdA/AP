@@ -1,0 +1,27 @@
+MongoDB:
+	- use [DB name]
+	- db.createCollection([collectionName])
+	- db.[collectionName].insertOne({})
+
+CouchDB:
+	- use fauxton
+
+Express
+	- express [express project name]
+	- cd [express project name]
+	- npm install
+
+Angular
+	- ng new [angular project name]
+	- cd [angular project name]
+	- npm install
+	
+	- ng generate component, service [name]
+
+React
+	- npx create-react-app [react project name]
+	
+
+React native
+	- expo init [reactnative project name]
+

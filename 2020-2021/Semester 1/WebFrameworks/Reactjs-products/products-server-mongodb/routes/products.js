@@ -37,7 +37,7 @@ MongoClient.connect('mongodb://127.0.0.1:27017', { useUnifiedTopology: true }, (
         db.collection('items').find(query).toArray((err, result) => {
             if(err) return
             res.json(result);
-        })
+        });
     });
 
     /* DELETE A PRODUCT */
