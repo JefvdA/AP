@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\bin\Debug\netcoreapp3.1\Personen.exe
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\bin\Debug\netcoreapp3.1\Personen.deps.json
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\bin\Debug\netcoreapp3.1\Personen.runtimeconfig.json
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\bin\Debug\netcoreapp3.1\Personen.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\bin\Debug\netcoreapp3.1\Personen.dll
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\bin\Debug\netcoreapp3.1\Personen.pdb
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\obj\Debug\netcoreapp3.1\Personen.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\obj\Debug\netcoreapp3.1\Personen.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\obj\Debug\netcoreapp3.1\Personen.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\obj\Debug\netcoreapp3.1\Personen.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\obj\Debug\netcoreapp3.1\Personen.dll
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\obj\Debug\netcoreapp3.1\Personen.pdb
+D:\AP\2020-2021\Semester 2\OOP\H1\Personen\obj\Debug\netcoreapp3.1\Personen.genruntimeconfig.cache

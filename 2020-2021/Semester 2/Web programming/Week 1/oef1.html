@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oef1</title>
+</head>
+<body>
+    
+    <script>
+        let loop = true;
+        while(loop){
+            let number = randomNumber(50, 101);
+            let input = prompt(`Getal: ${number}. Wil je opnieuw een getal genereren? (nee/n om te stoppen)`);
+
+            if(input == "nee" || input == "n") {
+                loop = false;
+            }
+        }
+
+
+        function randomNumber(min, max){
+            return Math.floor(Math.random() * (max - min)) + min;
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+D:\AP\2020-2021\Semester 2\OOP\H1\Pong\bin\Debug\netcoreapp3.1\Pong.exe
+D:\AP\2020-2021\Semester 2\OOP\H1\Pong\bin\Debug\netcoreapp3.1\Pong.deps.json
+D:\AP\2020-2021\Semester 2\OOP\H1\Pong\bin\Debug\netcoreapp3.1\Pong.runtimeconfig.json
+D:\AP\2020-2021\Semester 2\OOP\H1\Pong\bin\Debug\netcoreapp3.1\Pong.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 2\OOP\H1\Pong\bin\Debug\netcoreapp3.1\Pong.dll
+D:\AP\2020-2021\Semester 2\OOP\H1\Pong\bin\Debug\netcoreapp3.1\Pong.pdb
+D:\AP\2020-2021\Semester 2\OOP\H1\Pong\obj\Debug\netcoreapp3.1\Pong.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 2\OOP\H1\Pong\obj\Debug\netcoreapp3.1\Pong.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 2\OOP\H1\Pong\obj\Debug\netcoreapp3.1\Pong.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 2\OOP\H1\Pong\obj\Debug\netcoreapp3.1\Pong.dll
+D:\AP\2020-2021\Semester 2\OOP\H1\Pong\obj\Debug\netcoreapp3.1\Pong.pdb
+D:\AP\2020-2021\Semester 2\OOP\H1\Pong\obj\Debug\netcoreapp3.1\Pong.genruntimeconfig.cache

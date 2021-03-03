@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zombie fight</title>
+</head>
+<body>
+    <h1>Zombie fight</h1>
+    
+    <script>
+        let input = prompt("Watch out, A ZOMBIE! Choose a weapon (1=AXE, 2=SWORD, 3=CROSSBOW, 4=KITTENS)");
+        let chances = [0.75, 0.50, 0.10, 0.99];
+
+        let rng = Math.random();
+        let outcome = "Wrong input, refresh and try again!";
+        switch(input){
+            case "1":
+                // > chances[i] -> LOSS
+                if (rng > chances[0]) {
+                    outcome = "You swing your axe at the zombie, but only manage to cut off his arm. No getting away this time...";
+                } else {
+                    outcome = "You swing your axe at the zombie, cutting his head off clean. EASY!";
+                }
+                break;
+            case "2":
+                // < chances[i] -> LOSS
+                if (rng > chances[1]) {
+                    outcome = "You stab the zombie with the sword, as he bites you he whisperes: 'Should've gone for the head...'";
+                } else {
+                    outcome = "You fall on the ground but manage to stab the zombie in the head and survive, close one!";
+                }
+                break;
+            case "3":
+                // < chances[i] -> LOSS
+                if (rng > chances[2]) {
+                    outcome = "The arrow misses... if only you could actually aim";
+                } else {
+                    outcome = "The arrow goes right through it's skull. Lucky shot?";
+                }
+                break;
+            case "4":
+                // < chances[i] -> LOSS
+                if (rng > chances[4]) {
+                    outcome = "You throw a kitten at the zombie, but it just ignores it... He'd rather have human on his menu today";
+                } else {
+                    outcome = "You throw a kitten at the zombie, he starts eating it instead of you... But what have you done?";
+                }
+                break;
+        }
+
+        alert(outcome);
+    </script>
+
+</body>
+</html>

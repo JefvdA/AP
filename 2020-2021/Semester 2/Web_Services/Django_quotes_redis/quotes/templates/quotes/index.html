@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quotes</title>
+</head>
+<body>
+    <a href="{% url 'quotes:index' %}">Home</a>
+    <h1>Author's and their quotes</h1>
+    {% if authors %}
+        <ul>
+        {% for author in authors %}
+            <li><a href="{{ author.id }}">{{ author.author_name }}</a></li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>No authors are available.</p>
+    {% endif %}
+    <a href="{% url 'quotes:search' %}">Search quotes</a>
+    <a href="{% url 'quotes:add_author' %}">Add author</a>
+</body>
+</html>

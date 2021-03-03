@@ -1,0 +1,13 @@
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\bin\Debug\netcoreapp3.1\OOPQuest.exe
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\bin\Debug\netcoreapp3.1\OOPQuest.deps.json
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\bin\Debug\netcoreapp3.1\OOPQuest.runtimeconfig.json
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\bin\Debug\netcoreapp3.1\OOPQuest.runtimeconfig.dev.json
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\bin\Debug\netcoreapp3.1\OOPQuest.dll
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\bin\Debug\netcoreapp3.1\OOPQuest.pdb
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\obj\Debug\netcoreapp3.1\OOPQuest.csprojAssemblyReference.cache
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\obj\Debug\netcoreapp3.1\OOPQuest.AssemblyInfoInputs.cache
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\obj\Debug\netcoreapp3.1\OOPQuest.AssemblyInfo.cs
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\obj\Debug\netcoreapp3.1\OOPQuest.csproj.CoreCompileInputs.cache
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\obj\Debug\netcoreapp3.1\OOPQuest.dll
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\obj\Debug\netcoreapp3.1\OOPQuest.pdb
+D:\OOP\OOPQuest\OOPQuest\OOPQuest\obj\Debug\netcoreapp3.1\OOPQuest.genruntimeconfig.cache
