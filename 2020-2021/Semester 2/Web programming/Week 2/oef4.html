@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 2 - oef4</title>
+</head>
+<body>
+    
+    <script>
+        function countBs(str){
+            let count = 0;
+
+            for (let i = 0; i < str.length; i++) {
+                const element = str[i];
+                if(element == "B")
+                    count++;
+            }
+
+            return count;
+        }
+
+        function countChar(str, char){
+            let count = 0;
+
+            for (let i = 0; i < str.length; i++) {
+                const element = str[i];
+                if(element == char)
+                    count++;
+            }
+
+            return count;
+        }
+
+        console.log(countChar("Ollema", "l"));
+    </script>
+
+</body>
+</html>
