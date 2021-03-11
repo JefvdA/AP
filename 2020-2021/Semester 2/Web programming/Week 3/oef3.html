@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 3 - oef 3</title>
+</head>
+<body>
+    
+    <script>
+        let array = [2, 1, 6, 7, 1, 4, 9, 2, 8, 10];
+
+        function findTwoSmallest(array){
+            if(array.length <= 2)
+                return false;
+            // Array is longer then 2 items
+
+            // Array with smallest elements
+            let smallest = [Infinity, Infinity];
+
+            array.forEach(element => {
+                if(element < smallest[0])
+                    smallest[0] = element;
+            });
+
+            array.forEach(element => {
+                if(element < smallest[1] && element > smallest[0])
+                    smallest[1] = element;
+            });
+
+            return smallest;
+        }
+
+        console.log(findTwoSmallest(array));
+    </script>
+
+</body>
+</html>

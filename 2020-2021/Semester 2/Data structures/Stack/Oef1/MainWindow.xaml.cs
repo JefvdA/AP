@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,32 +21,51 @@ namespace Oef1
     /// </summary>
     public partial class MainWindow : Window
     {
-        Stack<int> stack = new Stack<int>;
+        public MainWindow()
+        {
+            InitializeComponent();
+        }
 
+        StackInt stack = new StackInt();
+
+        #region UI
         private void btnPush_Click(object sender, RoutedEventArgs e)
         {
-            int input = Convert.ToInt32(tbInput.Text);
+            // Read input value and push it to the stack
+            int input = int.Parse(tbInput.Text);
             stack.Push(input);
+            tbInput.Text = "";
 
-            UpdateTbOutput();
+            // Enable Pop button is it's disabled
+            if (!btnPop.IsEnabled)
+                btnPop.IsEnabled = true;
         }
 
         private void btnPop_Click(object sender, RoutedEventArgs e)
         {
-            if(stack.Count > 0)
-                stack.Pop();
+            // Pop from stack and put value in output
+            int value = stack.Pop();
+            lbOutput.Items.Add(value.ToString());
+            stack.ShowStack();
 
-            UpdateTbOutput();
+            // Check if stack is empty
+            if (stack.Top < 0)
+                btnPop.IsEnabled = false;
         }
-
-        private void UpdateTbOutput()
+        
+        // Check for valid input
+        private void tbInput_TextChanged(object sender, TextChangedEventArgs e)
         {
-            tbOutput.Text = "";
-
-            foreach (int item in stack)
+            int x;
+            if(!int.TryParse(tbInput.Text, out x) && btnPush.IsEnabled)
             {
-                tbOutput.Text += item + " \n";
+                btnPush.IsEnabled = false;
+            }
+            else if(int.TryParse(tbInput.Text, out x) && !btnPush.IsEnabled)
+            {
+                btnPush.IsEnabled = true;
             }
         }
+        #endregion
     }
 }

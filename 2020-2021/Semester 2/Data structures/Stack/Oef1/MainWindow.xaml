@@ -5,12 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Oef1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="265" Width="439">
+        Title="Stack" Height="227" Width="393">
     <Grid>
-        <TextBox x:Name="tbInput" HorizontalAlignment="Left" Height="52" Margin="10,10,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="184"/>
-        <TextBox x:Name="tbOutput" HorizontalAlignment="Left" Height="172" Margin="10,67,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="184"/>
-        <Button x:Name="btnPush" Content="Push" HorizontalAlignment="Left" Margin="241,10,0,0" VerticalAlignment="Top" Height="52" Width="188" Click="btnPush_Click"/>
-        <Button x:Name="btnPop" Content="Pop" HorizontalAlignment="Left" Margin="241,67,0,0" VerticalAlignment="Top" Height="52" Width="188" Click="btnPop_Click"/>
-
+        <TextBox x:Name="tbInput" HorizontalAlignment="Left" Margin="10,10,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="130" Height="40" TextChanged="tbInput_TextChanged"/>
+        <Button x:Name="btnPush" Content="Push" HorizontalAlignment="Left" Height="40" Margin="196,10,0,0" VerticalAlignment="Top" Width="187" Click="btnPush_Click"/>
+        <Button x:Name="btnPop" Content="Pop" HorizontalAlignment="Left" Height="40" Margin="196,55,0,0" VerticalAlignment="Top" Width="187" Click="btnPop_Click"/>
+        <ListBox x:Name="lbOutput" Margin="10,55,253,10"/>
     </Grid>
 </Window>

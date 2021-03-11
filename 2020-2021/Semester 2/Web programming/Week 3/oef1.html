@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 3 - oef1</title>
+</head>
+<body>
+    
+    <script>
+        const namen = ["Jef", "Jens", "Thomas"];
+        const geboortejaren = [2003, 2001, 2001];
+
+        let input = prompt("Geef de naam van een student: ");
+
+        let index = namen.indexOf(input);
+
+        if(index == -1)
+            alert("Deze naam is niet in het systeem gevonden!");
+        else
+            alert(`Het geboortejaar van ${input} is ${geboortejaren[index]}`);
+    </script>
+
+</body>
+</html>

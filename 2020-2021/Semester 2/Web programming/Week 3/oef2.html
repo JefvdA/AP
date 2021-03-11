@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 3 - oef 2</title>
+</head>
+<body>
+    
+    <script>
+        let todo = [];
+
+        function addTodo(todoText){
+            todo.push(todoText);
+        }
+
+        function findFirst(array){
+            return array[0];
+        }
+
+        function prioritizeElement(array, item){
+            let newArray = [];
+            let index = array.indexOf(item);
+
+            // Item as first element in array
+            newArray[0] = array[index];
+            
+            // Elements before Item
+            for (let i = 0; i < index; i++) {
+                newArray[i+1] = array[i];
+            }
+
+            // Elements after Item
+            for (let i = index+1; i < array.length; i++) {
+                newArray[i] = array[i];
+            }
+
+            return newArray;
+        }
+
+        addTodo("make exercises web programming");
+        addTodo("watch videos web services");
+        addTodo("Call");
+
+        todo = prioritizeElement(todo, "Call");
+        console.log(todo);
+    </script>
+
+</body>
+</html>

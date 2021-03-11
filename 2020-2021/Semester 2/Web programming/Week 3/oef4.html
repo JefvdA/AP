@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 3 - oef 4</title>
+</head>
+<body>
+    
+    <script>
+        let count = [];
+        for (let i = 0; i < 11; i++) {
+            count[i] = 0;    
+        }
+
+        let array = ThrowTwoDice(10000);
+        array.forEach(number => {
+            count[number-2]++;
+        });
+
+        document.write(count);
+
+        function ThrowTwoDice(n){
+            let array = []
+
+            for (let i = 0; i < n; i++) {
+                let randomNumber1 = RandomNumber(1, 7);
+                let randomNumber2 = RandomNumber(1, 7);
+                
+                let sum = randomNumber1 + randomNumber2;
+                array[i] = sum;
+            }
+
+            return array;
+        }
+
+        function RandomNumber(min, max){
+            return Math.floor(Math.random() * (max - min)) + min;
+        }
+    </script>
+
+</body>
+</html>
