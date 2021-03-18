@@ -24,5 +24,13 @@ namespace Oef1
         {
             InitializeComponent();
         }
+
+        QueueInt queue = new QueueInt();
+
+        private void btnEnQueue_Click(object sender, RoutedEventArgs e)
+        {
+            int input = Int32.Parse(tbInput.Text);
+            queue.EnQueue(input);
+        }
     }
 }

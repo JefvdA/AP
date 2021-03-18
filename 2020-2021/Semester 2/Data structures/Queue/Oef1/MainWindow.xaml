@@ -5,8 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Oef1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="288" Width="508">
     <Grid>
-
+        <TextBox x:Name="tbInput" HorizontalAlignment="Left" Margin="10,10,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" Height="51"/>
+        <TextBox x:Name="tbOutput" HorizontalAlignment="Left" Margin="10,66,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" Height="51"/>
+        <Button x:Name="btnEnQueue" Content="EnQueue" Margin="319,10,10,211" Click="btnEnQueue_Click"/>
+        <Button x:Name="btnDeQueue" Content="DeQueue" Margin="319,66,10,155"/>
     </Grid>
 </Window>
