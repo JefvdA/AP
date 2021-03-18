@@ -1,0 +1,13 @@
+﻿<Window x:Class="oef4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:oef4"
+        mc:Ignorable="d"
+        Title="Wiskundige uitdrukking" Height="304" Width="523">
+    <Grid>
+        <TextBox x:Name="tbInput" HorizontalAlignment="Left" Margin="10,10,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="310" Height="37"/>
+        <Button x:Name="btnCheck" Content="Check" HorizontalAlignment="Left" Margin="370,10,0,0" VerticalAlignment="Top" Height="37" Width="143" Click="btnCheck_Click"/>
+    </Grid>
+</Window>

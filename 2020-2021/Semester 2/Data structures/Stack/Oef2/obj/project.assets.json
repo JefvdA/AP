@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Jef\\.nuget\\packages\\": {}
+    "C:\\Users\\jefvd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\AP\\2020-2021\\Semester 2\\Data structures\\Stack\\Oef2\\Oef2.csproj",
       "projectName": "Oef2",
       "projectPath": "D:\\AP\\2020-2021\\Semester 2\\Data structures\\Stack\\Oef2\\Oef2.csproj",
-      "packagesPath": "C:\\Users\\Jef\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\jefvd\\.nuget\\packages\\",
       "outputPath": "D:\\AP\\2020-2021\\Semester 2\\Data structures\\Stack\\Oef2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jefvd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
