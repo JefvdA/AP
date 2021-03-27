@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 5 - oef 1</title>
+
+    <script>
+
+        const MOUNTAINS = [ 
+            {name: "Kilimanjaro", height: 5895, place: "Tanzania"}, 
+            {name: "Everest", height: 8848, place: "Nepal"}, 
+            {name: "Mount Fuji", height: 3776, place: "Japan"}, 
+            {name: "Vaalserberg", height: 323, place: "Netherlands"}, 
+            {name: "Denali", height: 6168, place: "UnitedStates"}, 
+            {name: "Popocatepetl", height: 5465, place: "Mexico"}, 
+            {name: "Mont Blanc", height: 4808, place: "Italy/France"} 
+        ]; 
+
+        document.addEventListener('DOMContentLoaded', (event) => {
+            makeTableRows(MOUNTAINS);
+        });
+
+        function makeTableRows(array){
+            array.forEach(element => {
+                document.getElementById("tbl").innerHTML +=
+                    `<tr>` +
+                    `<td>${element.name}</td>` +
+                    `<td>${element.height}</td>` +
+                    `<td>${element.place}</td>` +
+                    `</tr>`;
+            });
+        }
+
+    </script>
+
+</head>
+<body>
+    
+    <table id="tbl">
+        <tr>
+        <th>name</th>
+        <th>height</th>
+        <th>place</th>
+        </tr>
+    </table>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 4 - oef 3</title>
+</head>
+<body>
+    
+    <script>
+        const customComparator = (a, b) => {
+            if (a.price < b.price)
+                return -1;
+            else if (a.price > b.price)
+                return 1;
+
+            if (a.name < b.name)
+                return -1;
+            else if (a.name > b.name)
+                return 1;
+        }
+
+        function sortByPriceAscending(jsonText){
+            let products = JSON.parse(jsonText);
+            console.log(products.sort(customComparator));
+        }
+
+        sortByPriceAscending('[{"name":"eggs","price":1},{"name":"coffee","price":9.99},{"name":"rice","price":4.04},{"name":"ananas","price":9.99}]');
+    </script>
+
+</body>
+</html>

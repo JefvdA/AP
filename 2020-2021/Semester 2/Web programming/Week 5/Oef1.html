@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 5 - oef 1</title>
+
+    <script>
+        isYellow = false;
+
+        document.addEventListener('DOMContentLoaded', (event) => {
+            document.getElementById("submit").addEventListener("click", (event) => {
+                div = document.getElementById("div");
+
+                if(div.style.backgroundColor = "yellow") {
+                    div.style.backgroundColor = null;
+                }
+                else 
+                {
+                    div.style.backgroundColor = "yellow";
+                }
+            });
+        });
+
+    </script>
+
+</head>
+<body>
+    
+    <div id="div">
+        <p>1</p>
+        <input id="submit" type="button" value="Change color">
+    </div>
+</body>
+</html>
