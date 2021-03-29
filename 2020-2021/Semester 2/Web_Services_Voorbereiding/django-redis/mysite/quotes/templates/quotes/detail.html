@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quotes</title>
+</head>
+<body>
+    <a href="{% url 'quotes:index' %}">Home</a>
+    <h1>Details for {{ author.author_name }}</h1>
+
+    <ul>
+    {% for quote in quote_list %}
+        <li>{{ quote }}</li>
+    {% endfor %}
+    </ul>
+
+    <a href="http://localhost:8000/quotes/add/quote/{{ author.id }}">Add quote</a>
+</body>
+</html>

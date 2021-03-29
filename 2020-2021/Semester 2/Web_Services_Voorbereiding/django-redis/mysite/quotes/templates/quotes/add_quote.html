@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quotes</title>
+</head>
+<body>
+    <a href="{% url 'quotes:index' %}">Home</a>
+    <h1>Add quote for {{ author.author_name }}</h1>
+
+    <!-- {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %} -->
+
+    <form action="{% url 'quotes:add_quote' author.id %}" method="post">
+        {% csrf_token %}
+        <p>{{ author.id }}</p>
+        <input placeholder="quote" name="quote_text" type="text">
+        <input name="author_id" type="hidden" value="{{ author.id }}">
+        <input type="submit" value="Add">
+    </form>
+</body>
+</html>

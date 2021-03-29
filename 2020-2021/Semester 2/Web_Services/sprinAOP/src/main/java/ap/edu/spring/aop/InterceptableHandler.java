@@ -16,7 +16,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 @Component
 public class InterceptableHandler {
     
-    /* @Before("@annotation(ap.edu.spring.aop.Interceptable)")
+    @Before("@annotation(ap.edu.spring.aop.Interceptable)")
     public void BeforeInterceptable(JoinPoint joinPoint){
         System.out.println("Before " + joinPoint.getSignature());
     }
@@ -24,7 +24,7 @@ public class InterceptableHandler {
     @After("@annotation(ap.edu.spring.aop.Interceptable)")
     public void AfterInterceptable(JoinPoint joinPoint){
         System.out.println("After " + joinPoint.getSignature());
-    } */
+    }
 
     /* @Before("execution(* ap.edu.spring.jpa.PersonRepository.findAll(..))")
     public void BeforeInterceptable2(JoinPoint joinPoint){

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spring - Students</title>
+</head>
+<body>
+    <h1>Add a student</h1>
+    <form th:action="@{/add}" method="post">
+        <label for='firstName'>First name</label>
+        <input type='text' name='firstName' placeholder='Jan'> <br> <br>
+
+        <label for='lastName'>Last name</label>
+        <input type='text' name='lastName' placeholder='Jansens'> <br> <br>
+
+        <label for='birthday'>Birthday</label>
+        <input type='date' name='birthday' placeholder=''> <br> <br>
+
+        <label for='program'>Program</label>
+        <input type='text' name='program' placeholder='IT'> <br> <br>
+
+        <input type="submit" value="Add Student">
+    </form>
+</body>
+</html>
