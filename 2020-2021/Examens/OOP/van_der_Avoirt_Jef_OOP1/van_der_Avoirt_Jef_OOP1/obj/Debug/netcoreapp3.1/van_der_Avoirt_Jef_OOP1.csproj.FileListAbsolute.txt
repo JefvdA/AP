@@ -1,0 +1,13 @@
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.csprojAssemblyReference.cache
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.AssemblyInfoInputs.cache
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.AssemblyInfo.cs
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.csproj.CoreCompileInputs.cache
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\bin\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.exe
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\bin\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.deps.json
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\bin\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.runtimeconfig.json
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\bin\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.runtimeconfig.dev.json
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\bin\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.dll
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\bin\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.pdb
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.dll
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.pdb
+D:\Examens\OOP\van_der_Avoirt_Jef_OOP1\van_der_Avoirt_Jef_OOP1\obj\Debug\netcoreapp3.1\van_der_Avoirt_Jef_OOP1.genruntimeconfig.cache

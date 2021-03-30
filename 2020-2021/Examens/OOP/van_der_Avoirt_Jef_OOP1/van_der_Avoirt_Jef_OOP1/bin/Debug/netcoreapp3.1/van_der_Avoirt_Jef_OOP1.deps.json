@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "van_der_Avoirt_Jef_OOP1/1.0.0": {
+        "runtime": {
+          "van_der_Avoirt_Jef_OOP1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "van_der_Avoirt_Jef_OOP1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
