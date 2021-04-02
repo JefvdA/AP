@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.exe
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.deps.json
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.json
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.dll
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.pdb
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache

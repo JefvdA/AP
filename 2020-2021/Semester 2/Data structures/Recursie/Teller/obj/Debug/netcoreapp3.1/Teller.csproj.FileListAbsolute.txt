@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\bin\Debug\netcoreapp3.1\Teller.exe
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\bin\Debug\netcoreapp3.1\Teller.deps.json
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\bin\Debug\netcoreapp3.1\Teller.runtimeconfig.json
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\bin\Debug\netcoreapp3.1\Teller.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\bin\Debug\netcoreapp3.1\Teller.dll
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\bin\Debug\netcoreapp3.1\Teller.pdb
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\obj\Debug\netcoreapp3.1\Teller.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\obj\Debug\netcoreapp3.1\Teller.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\obj\Debug\netcoreapp3.1\Teller.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\obj\Debug\netcoreapp3.1\Teller.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\obj\Debug\netcoreapp3.1\Teller.dll
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\obj\Debug\netcoreapp3.1\Teller.pdb
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Teller\obj\Debug\netcoreapp3.1\Teller.genruntimeconfig.cache

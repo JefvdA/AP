@@ -1,0 +1,13 @@
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\bin\Debug\netcoreapp3.1\Faculteit.exe
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\bin\Debug\netcoreapp3.1\Faculteit.deps.json
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\bin\Debug\netcoreapp3.1\Faculteit.runtimeconfig.json
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\bin\Debug\netcoreapp3.1\Faculteit.runtimeconfig.dev.json
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\bin\Debug\netcoreapp3.1\Faculteit.dll
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\bin\Debug\netcoreapp3.1\Faculteit.pdb
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\obj\Debug\netcoreapp3.1\Faculteit.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\obj\Debug\netcoreapp3.1\Faculteit.AssemblyInfoInputs.cache
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\obj\Debug\netcoreapp3.1\Faculteit.AssemblyInfo.cs
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\obj\Debug\netcoreapp3.1\Faculteit.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\obj\Debug\netcoreapp3.1\Faculteit.dll
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\obj\Debug\netcoreapp3.1\Faculteit.pdb
+D:\AP\2020-2021\Semester 2\Data structures\Recursie\Faculteit\obj\Debug\netcoreapp3.1\Faculteit.genruntimeconfig.cache
