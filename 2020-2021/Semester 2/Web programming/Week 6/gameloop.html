@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paint</title>
+
+    <style>
+        canvas{
+            border: 1px solid black;
+        }
+    </style>
+
+    <script>
+        class Ball {
+
+            constructor(){
+                this.x = 10;
+                this.y = 10;
+                this.straal = 20;
+                this.speedX = 5;
+                this.speedY = 2;
+            }
+
+            move() {
+                this.x += this.speedX;
+                this.y += this.speedY;
+
+                if(this.x >= 500 || this.x <= 0){
+                    this.speedX *= -1;
+                }
+                if(this.y >= 500 || this.y <= 0){
+                    this.speedY *= -1;
+                }
+            }
+
+            draw(ctx) {
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, this.straal, 0, Math.PI*2);
+                ctx.fillStyle = "green";
+                ctx.fill();
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", (event)=>{
+            let canvas = document.querySelector("canvas");
+            let ctx = canvas.getContext("2d");
+            let ball1 = new Ball();
+            
+            function GameLoop(){
+                // CLEAR
+                ctx.clearRect(0, 0, 500, 500);
+
+                // UPDATE
+                ball1.move();
+
+                // DRAW
+                ball1.draw(ctx);
+
+                setTimeout(GameLoop, 22);
+            }
+            GameLoop();
+        });
+    </script>
+</head>
+<body>
+    <canvas width="500" height="500"></canvas>
+</body>
+</html>
