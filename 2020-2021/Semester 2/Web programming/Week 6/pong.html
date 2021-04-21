@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game!</title>
+
+    <style>
+        canvas{
+            border: 1px solid black;
+        }
+    </style>
+
+    <script>
+        class Paddle {
+
+            constructor(){
+                this.x = 30
+                this.y = 225
+                this.width = 10
+                this.height = 50
+            }
+
+            move(){
+                document.addEventListener("mousemove", (event)=>{
+                    let mouseY = event.pageY
+
+                    this.y = mouseY
+
+                    if(this.y > 500-this.height)
+                        this.y = 500-this.height
+                    else if(this.y < 0)
+                        this.y = 0
+                })
+            }
+
+            draw(ctx){
+                ctx.beginPath()
+                ctx.rect(this.x, this.y, this.width, this.height)
+                ctx.fill()
+            }
+        }
+
+        class Ball {
+
+            constructor(){
+                this.x = 175
+                this.y = 250
+                this.radius = 7
+                this.speedX = 5
+                this.speedY = 2
+            }
+
+            move(){
+                this.x += this.speedX
+                this.y += this.speedY
+
+                if(this.x >= 500 || this.x <= 0){
+                    this.speedX *= -1
+                }
+                if(this.y >= 500 || this.y <= 0){
+                    this.speedY *= -1
+                }
+            }
+
+            turn(){
+                this.speedX *= -1
+            }
+
+            draw(ctx){
+                ctx.beginPath()
+                ctx.arc(this.x, this.y, this.radius, 0, Math.PI*2)
+                ctx.fill()
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", (event) => {
+            let canvas = document.querySelector("canvas")
+            let ctx = canvas.getContext("2d")
+
+            let paddle = new Paddle()
+            let ball = new Ball()
+
+            function CheckCollision(paddle, ball){
+                var distX = Math.abs(ball.x - paddle.x-paddle.width/2)
+                var distY = Math.abs(ball.y - paddle.y-paddle.height/2)
+
+                if(distX > (paddle.width/2 + ball.radius)) { return false }
+                if(distY > (paddle.height/2 + ball.radius)) { return false }
+
+                if (distX <= (paddle.width/2)) { return true } 
+                if (distY <= (paddle.height/2)) { return true }
+
+                var dx= distX- paddle.width/2
+                var dy= distY- paddle.height/2
+                return (dx*dx+dy*dy<=(ball.radius * ball.radius))
+            }
+
+            function GameLoop(){
+                // CLEAR
+                ctx.clearRect(0, 0, 500, 500)
+
+                // UPDATE
+                paddle.move()
+                ball.move()
+                
+                let colliding = CheckCollision(paddle, ball)
+                if(colliding)
+                    ball.turn()
+
+                if(ball.x <= 0)
+                    alert("YOU LOST")
+
+                // DRAW
+                paddle.draw(ctx)
+                ball.draw(ctx)
+
+                setTimeout(GameLoop, 22)
+            }
+            GameLoop()
+        })
+    </script>
+</head>
+
+<body>
+    <canvas width="500" height="500"></canvas>
+</body>
+</html>
