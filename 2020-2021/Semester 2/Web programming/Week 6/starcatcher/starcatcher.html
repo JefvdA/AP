@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game!</title>
+
+    <style>
+        canvas{
+            border: 1px solid black;
+        }
+    </style>
+
+    <script>
+        class Character {
+            
+            constructor(){
+                this.x = 225
+                this.y = 450
+                this.width = 50
+                this.height = 25
+            }
+
+            move(){
+                document.addEventListener("mousemove", (event)=>{
+                    let mouseX = event.pageX
+
+                    this.x = mouseX
+
+                    if(this.x > 500-this.width)
+                        this.x = 500-this.width
+                    else if(this.x < 0)
+                        this.x = 0
+                })
+            }
+
+            draw(ctx){
+                ctx.beginPath()
+                ctx.rect(this.x, this.y, this.width, this.height)
+                ctx.fill()
+            }
+        }
+
+        class Item {
+
+            constructor() {
+                this.x = 250
+                this.y = 0
+                this.radius = 7
+
+                this.speedY = randomInt(1, 5)
+                console.log(this.speedY)
+            }
+
+            move(){
+                this.y += this.speedY
+
+                if(this.y >= 500)
+                    alert("You lost, refresh to restart")
+            }
+            
+            draw(ctx){
+                ctx.beginPath()
+                ctx.arc(this.x, this.y, this.radius, 0, Math.PI*2)
+                ctx.fillStyle = 'yellow'
+                ctx.fill()
+                ctx.fillStyle = 'black'
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", (event) => {
+
+            let canvas = document.querySelector("canvas")
+            let ctx = canvas.getContext("2d")
+            
+            let character = new Character()
+            let items = [new Item()]
+
+            function CheckCollisionCircleRectangle(rect, circle){
+                var distX = Math.abs(circle.x - rect.x-rect.width/2)
+                var distY = Math.abs(circle.y - rect.y-rect.height/2)
+
+                if(distX > (rect.width/2 + circle.radius)) { return false }
+                if(distY > (rect.height/2 + circle.radius)) { return false }
+
+                if (distX <= (rect.width/2)) { return true } 
+                if (distY <= (rect.height/2)) { return true }
+
+                var dx= distX- rect.width/2
+                var dy= distY- rect.height/2
+                return (dx*dx+dy*dy<=(circle.radius * circle.radius))
+            }
+
+            function GameLoop(){
+                // CLEAR
+                ctx.clearRect(0, 0, 500, 500)
+
+                // UPDATE
+                character.move()
+
+                items.forEach(item => {
+                    item.move()
+
+                    let collision = CheckCollisionCircleRectangle(character, item)
+                    if(collision){
+                        item.x = randomInt(20, 480)
+                        item.y = 0
+                    }  
+                });
+
+                // DRAW
+                character.draw(ctx)
+                
+                items.forEach(item => {
+                    item.draw(ctx)
+                })
+                
+                setTimeout(GameLoop, 22)
+            }
+            GameLoop()
+
+            // item spawner
+            function spawnItems(){
+                item = new Item()
+                item.x = randomInt(20, 480)
+                items.push(item)
+                setTimeout(spawnItems, 5000)
+            }
+            spawnItems()
+        })
+
+        function randomInt(min, max){
+            return Math.floor(Math.random() * (max - min)) + min
+        }
+    </script>
+</head>
+
+<body>
+    <canvas width="500" height="500"></canvas>
+</body>
+</html>
