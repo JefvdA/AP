@@ -18,7 +18,7 @@
             constructor(){
                 this.x = 225
                 this.y = 450
-                this.width = 50
+                this.width = 75
                 this.height = 25
             }
 
@@ -77,6 +77,8 @@
             let character = new Character()
             let items = [new Item()]
 
+            let counter = 0
+
             function CheckCollisionCircleRectangle(rect, circle){
                 var distX = Math.abs(circle.x - rect.x-rect.width/2)
                 var distY = Math.abs(circle.y - rect.y-rect.height/2)
@@ -104,6 +106,7 @@
 
                     let collision = CheckCollisionCircleRectangle(character, item)
                     if(collision){
+                        counter++
                         item.x = randomInt(20, 480)
                         item.y = 0
                     }  
@@ -115,6 +118,10 @@
                 items.forEach(item => {
                     item.draw(ctx)
                 })
+
+                // draw score
+                ctx.font = "30px Arial";
+                ctx.fillText("Score: " + counter, 10, 50);
                 
                 setTimeout(GameLoop, 22)
             }

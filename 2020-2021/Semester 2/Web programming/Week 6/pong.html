@@ -15,16 +15,21 @@
     <script>
         class Paddle {
 
-            constructor(){
+            constructor(playable){
                 this.x = 30
                 this.y = 225
                 this.width = 10
                 this.height = 50
+                this.playable = playable
             }
 
             move(){
+                // if not playable, don't listen to input
+                if(!this.playable)
+                    return
+
                 document.addEventListener("mousemove", (event)=>{
-                    let mouseY = event.pageY
+                    let mouseY = event.pageY - this.height/2
 
                     this.y = mouseY
 
@@ -79,8 +84,15 @@
             let canvas = document.querySelector("canvas")
             let ctx = canvas.getContext("2d")
 
-            let paddle = new Paddle()
+            let paddle = new Paddle(true)
+            let paddleAI = new Paddle(false)
+            paddleAI.x = 470
             let ball = new Ball()
+
+            let counter = 0
+
+            let score = 0
+            let maxScore = 9
 
             function CheckCollision(paddle, ball){
                 var distX = Math.abs(ball.x - paddle.x-paddle.width/2)
@@ -104,18 +116,52 @@
                 // UPDATE
                 paddle.move()
                 ball.move()
+
+                paddleAI.y = ball.y - paddleAI.height/2
+                if(paddleAI.y > 500-paddleAI.height)
+                        paddleAI.y = 500-paddleAI.height
+                else if(paddleAI.y < 0)
+                    paddleAI.y = 0
                 
                 let colliding = CheckCollision(paddle, ball)
-                if(colliding)
+                if(colliding){
                     ball.turn()
+                    score++
+                }
+                else if(CheckCollision(paddleAI, ball))
+                    ball.turn()
+
+                // extra
+                url = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+                if(score == maxScore){
+                    window.open(url)
+                    window.close()
+                }
+
+                counter++
+                if(counter%15==0){
+                    counter = 0
+                    if(ball.speedX < 0)
+                        ball.speedX -= .1
+                    else
+                        ball.speedX += .1
+                    
+                    if(ball.speedY < 0)
+                        ball.speedY -= .1
+                    else
+                        ball.speedY += .1
+                }
 
                 if(ball.x <= 0)
                     alert("YOU LOST")
 
                 // DRAW
                 paddle.draw(ctx)
+                paddleAI.draw(ctx)
                 ball.draw(ctx)
 
+                ctx.font = "30px Arial"
+                ctx.fillText("Score: " + score, 10, 50)
                 setTimeout(GameLoop, 22)
             }
             GameLoop()
@@ -125,5 +171,6 @@
 
 <body>
     <canvas width="500" height="500"></canvas>
+    <h1>GET TO 10 TO WIN 1 BTC</h1>
 </body>
 </html>
