@@ -41,4 +41,11 @@ app.post("/trips/:tripId", (req, res) => {
     res.send({"message":"ok"})
 })
 
+app.post("/trips", (req, res) => {
+    trip = req.body
+    trips.push(trip)
+
+    res.send({"message":"ok"})
+})
+
 app.listen(8080, () => console.log("server is running"))

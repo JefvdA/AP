@@ -30,11 +30,10 @@ namespace oef2
             if(head != int.MinValue)
             {
                 int result = queue[head];
-                queue[head] = 0; // debug
 
-                if (head == tail)
-                    head = int.MinValue;
-                else if (++head == queue.Length)
+                if (head == tail) // check of er maar 1 element is
+                    head = int.MinValue; // nu leeg
+                else if (++head == MAX_ELEMENTS)
                     head = 0;
 
                 Debug.WriteLine($"Queue: {string.Join(", ", queue)}");
