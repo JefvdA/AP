@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1.2</title>
+
+    <script>
+        const y = 10;
+
+        document.write("<table>")
+        for (let i = 1; i < 11; i++) {
+            let result = i * y;
+
+            if(i%2 == 0)
+                document.write(`<tr style="color:green">`)
+            else
+                document.write(`<tr style="color:red">`)
+            document.write(`<td>${i}</td>`+
+                           `<td>${y}</td>`+
+                           `<td>${result}</td>`+
+                           `</tr>`)
+        }
+        document.write("</table>")
+    </script>
+</head>
+<body>
+</body>
+</html>
