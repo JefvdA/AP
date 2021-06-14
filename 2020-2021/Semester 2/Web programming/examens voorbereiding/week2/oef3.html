@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2.3</title>
+
+    <script>
+        function countVowels(string){
+            let count = 0
+            for (let i = 0; i < string.length; i++) {
+                const letter = string.charAt(i)
+                if(['a', 'e', 'i', 'o', 'u'].includes(letter))
+                    count++
+            }
+            return count
+        }
+
+        function toUpperCase(string){
+            return string.charAt(0).toUpperCase() + string.substring(1)
+        }
+
+        console.log(countVowels("testing123"))
+        console.log(toUpperCase("testing123"))
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
