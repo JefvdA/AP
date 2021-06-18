@@ -1,0 +1,10 @@
+D:\AP\2020-2021\Semester 2\DBProg\Deel10\Oefening1\bin\Debug\Oefening1.exe.config
+D:\AP\2020-2021\Semester 2\DBProg\Deel10\Oefening1\bin\Debug\Oefening1.exe
+D:\AP\2020-2021\Semester 2\DBProg\Deel10\Oefening1\bin\Debug\Oefening1.pdb
+D:\AP\2020-2021\Semester 2\DBProg\Deel10\Oefening1\obj\Debug\Oefening1.csprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 2\DBProg\Deel10\Oefening1\obj\Debug\Oefening1.Form1.resources
+D:\AP\2020-2021\Semester 2\DBProg\Deel10\Oefening1\obj\Debug\Oefening1.Properties.Resources.resources
+D:\AP\2020-2021\Semester 2\DBProg\Deel10\Oefening1\obj\Debug\Oefening1.csproj.GenerateResource.cache
+D:\AP\2020-2021\Semester 2\DBProg\Deel10\Oefening1\obj\Debug\Oefening1.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\Semester 2\DBProg\Deel10\Oefening1\obj\Debug\Oefening1.exe
+D:\AP\2020-2021\Semester 2\DBProg\Deel10\Oefening1\obj\Debug\Oefening1.pdb

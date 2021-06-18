@@ -1,0 +1,5 @@
+D:\AP\2020-2021\Semester 2\DBProg\Deel11\Oefening2\bin\Debug\Oefening2.dacpac
+D:\AP\2020-2021\Semester 2\DBProg\Deel11\Oefening2\bin\Debug\Oefening2.dll
+D:\AP\2020-2021\Semester 2\DBProg\Deel11\Oefening2\bin\Debug\Oefening2.pdb
+D:\AP\2020-2021\Semester 2\DBProg\Deel11\Oefening2\obj\Debug\Oefening2.dll
+D:\AP\2020-2021\Semester 2\DBProg\Deel11\Oefening2\obj\Debug\Oefening2.pdb

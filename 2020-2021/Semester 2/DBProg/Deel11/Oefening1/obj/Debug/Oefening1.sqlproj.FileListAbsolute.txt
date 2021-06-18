@@ -1,0 +1,6 @@
+D:\AP\2020-2021\Semester 2\DBProg\Deel11\Oefening1\bin\Debug\Oefening1.dacpac
+D:\AP\2020-2021\Semester 2\DBProg\Deel11\Oefening1\bin\Debug\Oefening1.dll
+D:\AP\2020-2021\Semester 2\DBProg\Deel11\Oefening1\bin\Debug\Oefening1.pdb
+D:\AP\2020-2021\Semester 2\DBProg\Deel11\Oefening1\obj\Debug\Oefening1.sqlprojAssemblyReference.cache
+D:\AP\2020-2021\Semester 2\DBProg\Deel11\Oefening1\obj\Debug\Oefening1.dll
+D:\AP\2020-2021\Semester 2\DBProg\Deel11\Oefening1\obj\Debug\Oefening1.pdb
