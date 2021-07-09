@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game!</title>
+
+    <style>
+        canvas{
+            border: 1px solid black;
+        }
+    </style>
+
+    <script>
+        class Vierkant{
+            constructor(x, y, lengte, speedX){
+                this.x = x
+                this.y = y
+                this.lengte = lengte
+                this.speedX = speedX
+            
+                this.changeColor()
+            }
+
+            draw(ctx){
+                ctx.beginPath()
+                ctx.fillStyle = this.color
+                ctx.rect(this.x, this.y, this.lengte, this.lengte)
+                ctx.fill()
+            }
+
+            move(){
+                this.x += this.speedX
+
+                if((this.x + this.lengte) >= 500 || this.x <= 0){
+                    this.speedX *= -1
+                    this.changeColor()
+                }
+            }
+
+            changeColor(){
+                let colors = ['#851509', '#094507', '#7852FF', '#FFDA1A', '#403638']
+
+                let randomIndex = 0
+                do {
+                    randomIndex = Math.floor(Math.random() * (colors.length-1))
+                } while (colors[randomIndex]==this.color);
+                
+                this.color = colors[randomIndex]
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", (event) => {
+            let canvas = document.querySelector("canvas")
+            let ctx = canvas.getContext("2d")
+
+            const xFactor = 100
+            vierkanten = [new Vierkant(100, 250, 10,2), new Vierkant(150, 250, 20, 2), new Vierkant(250, 250, 30, 5), new Vierkant(300, 250, 40, 4), new Vierkant(400, 250, 50, 3)]
+
+            function GameLoop(){
+                // CLEAR
+                ctx.clearRect(0, 0, canvas.width, canvas.height)
+
+                // UPDATE
+                for (let i = 0; i < vierkanten.length; i++) {
+                    const vierkant = vierkanten[i];
+                    vierkant.move()
+                }
+
+                // DRAW
+                for (let i = 0; i < vierkanten.length; i++) {
+                    const vierkant = vierkanten[i];
+                    vierkant.draw(ctx)
+                }
+
+                setTimeout(GameLoop, 33)
+            }
+            GameLoop()
+
+            document.addEventListener('mousedown', (event)=> {
+                let colors = ['#851509', '#094507', '#7852FF', '#FFDA1A', '#403638']
+                let randomIndex = Math.floor(Math.random() * (colors.length-1))
+
+                for (let i = 0; i < vierkanten.length; i++) {
+                    const vierkant = vierkanten[i];
+
+                    vierkant.color = colors[randomIndex]
+                }
+            })
+        })
+    </script>
+</head>
+
+<body>
+    <canvas width="500" height="500"></canvas>
+</body>
+</html>

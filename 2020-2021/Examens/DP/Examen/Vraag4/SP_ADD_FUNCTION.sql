@@ -1,0 +1,11 @@
+﻿CREATE PROCEDURE [dbo].[SP_ADD_FUNCTION]
+	@prm_SPELERSNR int,
+	@prm_BEGINDATUM date,
+	@prm_EINDDATUM date,
+	@prm_FUNCTIE char(20)
+AS
+	SET @prm_FUNCTIE=UPPER(LEFT(@prm_FUNCTIE,1))+LOWER(SUBSTRING(@prm_FUNCTIE,2,LEN(@prm_FUNCTIE))) -- Laat functie starten met hoofdletter, de rest kleine letters
+
+	INSERT INTO [dbo].[BESTUURSLEDEN](SPELERSNR, BEGIN_DATUM, EIND_DATUM, FUNCTIE)
+	VALUES(@prm_SPELERSNR, @prm_BEGINDATUM, @prm_EINDDATUM, @prm_FUNCTIE);
+RETURN 0

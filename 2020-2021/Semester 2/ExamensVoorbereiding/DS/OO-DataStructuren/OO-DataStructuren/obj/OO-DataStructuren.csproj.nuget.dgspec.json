@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AP\\2020-2021\\ExamensVoorbereiding\\DS\\OO-DataStructuren\\OO-DataStructuren\\OO-DataStructuren.csproj": {}
+    "D:\\JefvdA\\Bureaublad\\AP\\2020-2021\\Semester 2\\ExamensVoorbereiding\\DS\\OO-DataStructuren\\OO-DataStructuren\\OO-DataStructuren.csproj": {}
   },
   "projects": {
-    "D:\\AP\\2020-2021\\ExamensVoorbereiding\\DS\\OO-DataStructuren\\OO-DataStructuren\\OO-DataStructuren.csproj": {
+    "D:\\JefvdA\\Bureaublad\\AP\\2020-2021\\Semester 2\\ExamensVoorbereiding\\DS\\OO-DataStructuren\\OO-DataStructuren\\OO-DataStructuren.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AP\\2020-2021\\ExamensVoorbereiding\\DS\\OO-DataStructuren\\OO-DataStructuren\\OO-DataStructuren.csproj",
+        "projectUniqueName": "D:\\JefvdA\\Bureaublad\\AP\\2020-2021\\Semester 2\\ExamensVoorbereiding\\DS\\OO-DataStructuren\\OO-DataStructuren\\OO-DataStructuren.csproj",
         "projectName": "OO-DataStructuren",
-        "projectPath": "D:\\AP\\2020-2021\\ExamensVoorbereiding\\DS\\OO-DataStructuren\\OO-DataStructuren\\OO-DataStructuren.csproj",
-        "packagesPath": "C:\\Users\\Jef\\.nuget\\packages\\",
-        "outputPath": "D:\\AP\\2020-2021\\ExamensVoorbereiding\\DS\\OO-DataStructuren\\OO-DataStructuren\\obj\\",
+        "projectPath": "D:\\JefvdA\\Bureaublad\\AP\\2020-2021\\Semester 2\\ExamensVoorbereiding\\DS\\OO-DataStructuren\\OO-DataStructuren\\OO-DataStructuren.csproj",
+        "packagesPath": "C:\\Users\\jefvd\\.nuget\\packages\\",
+        "outputPath": "D:\\JefvdA\\Bureaublad\\AP\\2020-2021\\Semester 2\\ExamensVoorbereiding\\DS\\OO-DataStructuren\\OO-DataStructuren\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jefvd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
