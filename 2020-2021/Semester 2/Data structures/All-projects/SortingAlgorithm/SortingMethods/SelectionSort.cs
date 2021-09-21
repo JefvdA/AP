@@ -7,7 +7,7 @@ namespace SortingAlgorithm.SortingMethods
 {
     class SelectionSort
     {
-        public List<int> SortList(List<int> list)
+        public void SortList(List<int> list)
         {
             for (int i = 0; i < list.Count-1; i++)
             {
@@ -25,8 +25,6 @@ namespace SortingAlgorithm.SortingMethods
                     list[minIndex] = temp;
                 }
             }
-
-            return list;
         }
     }
 }

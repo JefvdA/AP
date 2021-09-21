@@ -1,0 +1,16 @@
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\bin\Debug\net5.0\OO-DataStructuren.exe
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\bin\Debug\net5.0\OO-DataStructuren.deps.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\bin\Debug\net5.0\OO-DataStructuren.runtimeconfig.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\bin\Debug\net5.0\OO-DataStructuren.runtimeconfig.dev.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\bin\Debug\net5.0\OO-DataStructuren.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\bin\Debug\net5.0\ref\OO-DataStructuren.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\bin\Debug\net5.0\OO-DataStructuren.pdb
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\obj\Debug\net5.0\OO-DataStructuren.csprojAssemblyReference.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\obj\Debug\net5.0\OO-DataStructuren.GeneratedMSBuildEditorConfig.editorconfig
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\obj\Debug\net5.0\OO-DataStructuren.AssemblyInfoInputs.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\obj\Debug\net5.0\OO-DataStructuren.AssemblyInfo.cs
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\obj\Debug\net5.0\OO-DataStructuren.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\obj\Debug\net5.0\OO-DataStructuren.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\obj\Debug\net5.0\ref\OO-DataStructuren.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\obj\Debug\net5.0\OO-DataStructuren.pdb
+D:\AP\2020-2021\ExamensVoorbereiding\DS\OO-DataStructuren\OO-DataStructuren\obj\Debug\net5.0\OO-DataStructuren.genruntimeconfig.cache

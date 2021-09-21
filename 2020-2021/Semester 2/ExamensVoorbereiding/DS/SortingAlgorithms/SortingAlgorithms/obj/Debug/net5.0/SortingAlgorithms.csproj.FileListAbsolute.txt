@@ -1,0 +1,16 @@
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.exe
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.deps.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.runtimeconfig.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.runtimeconfig.dev.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\ref\SortingAlgorithms.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.pdb
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.csprojAssemblyReference.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.AssemblyInfoInputs.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.AssemblyInfo.cs
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\ref\SortingAlgorithms.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.pdb
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SortingAlgorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\JefvdA\Bureaublad\ExamenDatastructures\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+D:\JefvdA\Bureaublad\ExamenDatastructures\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+D:\JefvdA\Bureaublad\ExamenDatastructures\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+D:\JefvdA\Bureaublad\ExamenDatastructures\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+D:\JefvdA\Bureaublad\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+D:\JefvdA\Bureaublad\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\JefvdA\Bureaublad\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\JefvdA\Bureaublad\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+D:\JefvdA\Bureaublad\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\JefvdA\Bureaublad\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+D:\JefvdA\Bureaublad\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+D:\JefvdA\Bureaublad\ExamenDatastructures\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb

@@ -54,31 +54,38 @@ namespace SortingAlgorithm
 
             Stopwatch sw = new Stopwatch();
             sw.Start();
-            List<int> sortedList = new List<int>();
             switch (b.Tag)
             {
                 case "BS":
                     BubbleSort bs = new BubbleSort();
-                    sortedList = bs.SortList(list);
-                    for (int i = 0; i < sortedList.Count; i++)
+                    bs.SortList(list);
+                    for (int i = 0; i < list.Count; i++)
                     {
-                        lbSorted.Items.Add(sortedList[i]);
+                        lbSorted.Items.Add(list[i]);
                     }
                     break;
                 case "SS":
                     SelectionSort ss = new SelectionSort();
-                    sortedList = ss.SortList(list);
-                    for (int i = 0; i < sortedList.Count; i++)
+                    ss.SortList(list);
+                    for (int i = 0; i < list.Count; i++)
                     {
-                        lbSorted.Items.Add(sortedList[i]);
+                        lbSorted.Items.Add(list[i]);
                     }
                     break;
                 case "IS":
                     InsertionSort ins = new InsertionSort();
-                    sortedList = ins.SortList(list);
-                    for (int i = 0; i < sortedList.Count; i++)
+                    ins.SortList(list);
+                    for (int i = 0; i < list.Count; i++)
                     {
-                        lbSorted.Items.Add(sortedList[i]);
+                        lbSorted.Items.Add(list[i]);
+                    }
+                    break;
+                case "QS":
+                    QuickSort qs = new QuickSort();
+                    qs.SortList(list);
+                    for (int i = 0; i < list.Count; i++)
+                    {
+                        lbSorted.Items.Add(list[i]);
                     }
                     break;
             }

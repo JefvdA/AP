@@ -1,0 +1,6 @@
+D:\JefvdA\Bureaublad\Examen\Vraag5\bin\Debug\Vraag5.dacpac
+D:\JefvdA\Bureaublad\Examen\Vraag5\bin\Debug\Vraag5.dll
+D:\JefvdA\Bureaublad\Examen\Vraag5\bin\Debug\Vraag5.pdb
+D:\JefvdA\Bureaublad\Examen\Vraag5\obj\Debug\Vraag5.sqlprojAssemblyReference.cache
+D:\JefvdA\Bureaublad\Examen\Vraag5\obj\Debug\Vraag5.dll
+D:\JefvdA\Bureaublad\Examen\Vraag5\obj\Debug\Vraag5.pdb

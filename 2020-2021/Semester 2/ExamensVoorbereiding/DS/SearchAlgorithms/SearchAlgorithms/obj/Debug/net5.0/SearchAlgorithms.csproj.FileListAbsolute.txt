@@ -1,0 +1,16 @@
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\bin\Debug\net5.0\SearchAlgorithms.exe
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\bin\Debug\net5.0\SearchAlgorithms.deps.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\bin\Debug\net5.0\SearchAlgorithms.runtimeconfig.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\bin\Debug\net5.0\SearchAlgorithms.runtimeconfig.dev.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\bin\Debug\net5.0\SearchAlgorithms.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\bin\Debug\net5.0\ref\SearchAlgorithms.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\bin\Debug\net5.0\SearchAlgorithms.pdb
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\obj\Debug\net5.0\SearchAlgorithms.csprojAssemblyReference.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\obj\Debug\net5.0\SearchAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\obj\Debug\net5.0\SearchAlgorithms.AssemblyInfoInputs.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\obj\Debug\net5.0\SearchAlgorithms.AssemblyInfo.cs
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\obj\Debug\net5.0\SearchAlgorithms.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\obj\Debug\net5.0\SearchAlgorithms.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\obj\Debug\net5.0\ref\SearchAlgorithms.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\obj\Debug\net5.0\SearchAlgorithms.pdb
+D:\AP\2020-2021\ExamensVoorbereiding\DS\SearchAlgorithms\SearchAlgorithms\obj\Debug\net5.0\SearchAlgorithms.genruntimeconfig.cache

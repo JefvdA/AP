@@ -1,0 +1,10 @@
+D:\JefvdA\Bureaublad\Examen\Vraag4\bin\Debug\Vraag4.dacpac
+D:\JefvdA\Bureaublad\Examen\Vraag4\bin\Debug\Vraag4.dll
+D:\JefvdA\Bureaublad\Examen\Vraag4\bin\Debug\Vraag4.pdb
+D:\JefvdA\Bureaublad\Examen\Vraag4\obj\Debug\Vraag4.sqlprojAssemblyReference.cache
+D:\JefvdA\Bureaublad\Examen\Vraag4\obj\Debug\Vraag4.dll
+D:\JefvdA\Bureaublad\Examen\Vraag4\obj\Debug\Vraag4.pdb
+D:\JefvdA\Bureaublad\Examen\Vraag4\obj\Debug\Model.xml
+D:\JefvdA\Bureaublad\Examen\Vraag4\obj\Debug\refactor.xml
+D:\JefvdA\Bureaublad\Examen\Vraag4\obj\Debug\postdeploy.sql
+D:\JefvdA\Bureaublad\Examen\Vraag4\obj\Debug\predeploy.sql

@@ -6,7 +6,7 @@ namespace SortingAlgorithm.SortingMethods
 {
     public class BubbleSort
     {
-        public List<int> SortList(List<int> list)
+        public void SortList(List<int> list)
         {
             for (int i = 1; i < list.Count; i++)
             {
@@ -20,8 +20,6 @@ namespace SortingAlgorithm.SortingMethods
                     }
                 }
             }
-
-            return list;
         }
     }
 }

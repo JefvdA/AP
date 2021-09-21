@@ -1,0 +1,16 @@
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\bin\Debug\net5.0\Drinkenbussen.exe
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\bin\Debug\net5.0\Drinkenbussen.deps.json
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\bin\Debug\net5.0\Drinkenbussen.runtimeconfig.json
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\bin\Debug\net5.0\Drinkenbussen.runtimeconfig.dev.json
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\bin\Debug\net5.0\Drinkenbussen.dll
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\bin\Debug\net5.0\ref\Drinkenbussen.dll
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\bin\Debug\net5.0\Drinkenbussen.pdb
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\obj\Debug\net5.0\Drinkenbussen.csproj.AssemblyReference.cache
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\obj\Debug\net5.0\Drinkenbussen.GeneratedMSBuildEditorConfig.editorconfig
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\obj\Debug\net5.0\Drinkenbussen.AssemblyInfoInputs.cache
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\obj\Debug\net5.0\Drinkenbussen.AssemblyInfo.cs
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\obj\Debug\net5.0\Drinkenbussen.csproj.CoreCompileInputs.cache
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\obj\Debug\net5.0\Drinkenbussen.dll
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\obj\Debug\net5.0\ref\Drinkenbussen.dll
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\obj\Debug\net5.0\Drinkenbussen.pdb
+D:\JefvdA\Bureaublad\vanderAvoirt_Jef_OOP2\Drinkenbussen\obj\Debug\net5.0\Drinkenbussen.genruntimeconfig.cache

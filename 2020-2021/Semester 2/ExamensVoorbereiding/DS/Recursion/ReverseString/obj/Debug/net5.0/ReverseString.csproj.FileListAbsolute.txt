@@ -1,0 +1,16 @@
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\bin\Debug\net5.0\ReverseString.exe
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\bin\Debug\net5.0\ReverseString.deps.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\bin\Debug\net5.0\ReverseString.runtimeconfig.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\bin\Debug\net5.0\ReverseString.runtimeconfig.dev.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\bin\Debug\net5.0\ReverseString.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\bin\Debug\net5.0\ref\ReverseString.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\bin\Debug\net5.0\ReverseString.pdb
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\obj\Debug\net5.0\ReverseString.csprojAssemblyReference.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\obj\Debug\net5.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\obj\Debug\net5.0\ReverseString.AssemblyInfoInputs.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\obj\Debug\net5.0\ReverseString.AssemblyInfo.cs
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\obj\Debug\net5.0\ReverseString.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\obj\Debug\net5.0\ReverseString.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\obj\Debug\net5.0\ref\ReverseString.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\obj\Debug\net5.0\ReverseString.pdb
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\ReverseString\obj\Debug\net5.0\ReverseString.genruntimeconfig.cache

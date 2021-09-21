@@ -1,0 +1,16 @@
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\bin\Debug\net5.0\Teller.exe
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\bin\Debug\net5.0\Teller.deps.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\bin\Debug\net5.0\Teller.runtimeconfig.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\bin\Debug\net5.0\Teller.runtimeconfig.dev.json
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\bin\Debug\net5.0\Teller.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\bin\Debug\net5.0\ref\Teller.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\bin\Debug\net5.0\Teller.pdb
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\obj\Debug\net5.0\Teller.csprojAssemblyReference.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\obj\Debug\net5.0\Teller.GeneratedMSBuildEditorConfig.editorconfig
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\obj\Debug\net5.0\Teller.AssemblyInfoInputs.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\obj\Debug\net5.0\Teller.AssemblyInfo.cs
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\obj\Debug\net5.0\Teller.csproj.CoreCompileInputs.cache
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\obj\Debug\net5.0\Teller.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\obj\Debug\net5.0\ref\Teller.dll
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\obj\Debug\net5.0\Teller.pdb
+D:\AP\2020-2021\ExamensVoorbereiding\DS\Recursion\Teller\obj\Debug\net5.0\Teller.genruntimeconfig.cache
