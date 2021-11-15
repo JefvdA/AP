@@ -1,26 +1,30 @@
 package AP.labo3.oef2;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 
 public class KeyValues<T1, T2> {
-    private HashMap<T1, T2> map = new HashMap<T1, T2>();
+    private Set<T1> keys;
+    private List<T2> values;
 
-    public T2 getValue(T1 key) {
-        return map.get(key);
+    public KeyValues() {
+        this.keys = new LinkedHashSet<>();
+        this.values = new ArrayList<>();
     }
 
-    public KeyValues(ArrayList<T1> keys, ArrayList<T2> values) {
-        for (int i = 0; i < Math.min(keys.size(), values.size()); i++) {
-            map.put(keys.get(i), values.get(i));
+    public void addValue(T1 key, T2 value){
+        if(key != null) {
+            if (keys.add(key))
+                values.add(value);
         }
     }
 
-    @Override
-    public String toString() {
-        return "KeyValues{" +
-                "map=" + map +
-                '}';
+    public T2 getValue(T1 key){
+        int count = 0;
+        for(T1 item : keys){
+            if(item.equals(key))
+                return values.get(count);
+            count++;
+        }
+        return null;
     }
 }

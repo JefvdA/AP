@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MyGameStore.Models;
+using MyGameStore.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,5 +11,9 @@ namespace MyGameStore.DAL
     {
         public DbSet<Person> Persons { get; set; }
         public DbSet<Store> Stores { get; set; }
+
+        public MyGameStoreContext(DbContextOptions<MyGameStoreContext> dbContextOptions) : base(dbContextOptions)
+        {
+        }
     }
 }

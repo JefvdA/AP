@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MyGameStore.Models
+namespace MyGameStore.Model
 {
     public class Store
     {
@@ -12,10 +12,10 @@ namespace MyGameStore.Models
         public string Street { get; set; }
         public string Number { get; set; }
         public string Addition { get; set; }
-        public string ZipCode { get; set; }
+        public string Zipcode { get; set; }
         public string City { get; set; }
-        public bool IsFranchiseStore { get; set; }
+        public bool isFranchiseStore { get; set; }
 
-        public List<Person> personList { get; set; }
+        public List<Person> Persons { get; set; }
     }
 }

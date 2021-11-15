@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRace", "AutoRace\AutoRace.csproj", "{47157906-0304-43A5-B5D7-E1D0C5DD2D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47157906-0304-43A5-B5D7-E1D0C5DD2D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47157906-0304-43A5-B5D7-E1D0C5DD2D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47157906-0304-43A5-B5D7-E1D0C5DD2D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47157906-0304-43A5-B5D7-E1D0C5DD2D37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83B332D1-2B71-4ABF-A516-DDA34A65A966}
+	EndGlobalSection
+EndGlobal

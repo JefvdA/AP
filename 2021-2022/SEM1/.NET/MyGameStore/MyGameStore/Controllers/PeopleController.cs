@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using MyGameStore.Models;
+using MyGameStore.DAL;
+using MyGameStore.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,109 +13,77 @@ namespace MyGameStore.Controllers
     [ApiController]
     public class PeopleController : ControllerBase
     {
-        private static List<Person> peopleList = new List<Person>();
+        private MyGameStoreContext _context;
+
         private const int ACCES_KEY = 123456789;
 
-        public PeopleController()
+        public PeopleController(MyGameStoreContext context)
         {
-            if (peopleList.Count > 0)
-                return;
-
-            peopleList.Add(new Person(0, "van der Avoirt", "Jef", Gender.MALE));
-            peopleList.Add(new Person(1, "Baeten", "Jens", Gender.MALE));
+            _context = context;
         }
 
         [HttpGet]
         public IActionResult GetPeople()
         {
-            return Ok(peopleList);
+            var result = _context.Persons;
+
+            if (result.Any() == false)
+                return NotFound();
+
+            return Ok(result);
         }
 
         [HttpGet("{id}")]
         public IActionResult GetPersonByID(int id)
         {
-            Person requestedPerson = FindPersonByID(id);
+            var result = _context.Persons.Where(ps => ps.ID == id).FirstOrDefault();
 
-            if (requestedPerson != null)
-                return Ok(requestedPerson);
-            else
+            if (result == null)
                 return NotFound();
+
+            return Ok(result);
         }
 
-        [HttpGet("search/{lastName}")]
-        public IActionResult GetPersonByLastName(string lastName)
+        [HttpGet("/search/{lastName}")]
+        public IActionResult GetPeopleByLastName(string lastName)
         {
-            List<Person> requestedPersonList = FindPeopleByLastName(lastName);
+            var result = _context.Persons.Where(ps => ps.LastName == lastName);
 
-            if (requestedPersonList.Count != 0)
-                return Ok(requestedPersonList);
-            else
+            if (result == null)
                 return NotFound();
+
+            return Ok(result);
         }
 
         [HttpPost]
-        public IActionResult CreatePerson(string firstName, string lastName, int gender)
+        public IActionResult CreatePerson([FromBody] Person person)
         {
-            Person person = new Person(peopleList.Count, lastName, firstName, (Gender)gender);
-            peopleList.Add(person);
-            return Created("People", person);
+            _context.Persons.Add(person);
+            _context.SaveChanges();
+            return Created("Persons" , person);
         }
 
-        [HttpPut("update")]
-        public IActionResult Update(int id, string firstName, string lastName, int gender)
+        [HttpPut("Update")]
+        public IActionResult UpdatePerson([FromBody] Person person)
         {
-            Person requestedPerson = FindPersonByID(id);
+            _context.Update(person);
+            _context.SaveChanges();
 
-            if (requestedPerson != null)
-            {
-                requestedPerson.FirstName = firstName;
-                requestedPerson.LastName = lastName;
-                requestedPerson.Gender = (Gender)gender;
-                return Ok(requestedPerson);
-            } else
-                return NotFound();    
+            return Ok();
         }
 
-        [HttpDelete("delete")]
-        public IActionResult Delete([FromHeader (Name = "X-AccesKey")] int accesKey, int id)
+        [HttpDelete("Delete")]
+        public IActionResult DeletePerson([FromHeader (Name = "X-AccesKey")] int acces_key, int id)
         {
-            Person requestedPerson = FindPersonByID(id);
-
-            if (requestedPerson != null)
+            if (acces_key == ACCES_KEY)
             {
-                if (accesKey == ACCES_KEY)
-                {
-                    peopleList.Remove(requestedPerson);
-                    return NoContent();
-                }
-                else
-                    return Unauthorized();
-            } else
-            {
-                return NotFound();
+                Person person = new() { ID = id };
+                _context.Remove(person);
+                _context.SaveChanges();
+                return NoContent();
             }
-        }
-
-        private Person FindPersonByID(int id)
-        {
-            Person requestedPerson = null;
-            foreach (Person person in peopleList)
-            {
-                if (person.ID == id)
-                    requestedPerson = person;
-            }
-            return requestedPerson;
-        }
-    
-        private List<Person> FindPeopleByLastName(string lastName)
-        {
-            List<Person> requestedPersonList = new List<Person>();
-            foreach(Person person in peopleList)
-            {
-                if (person.LastName == lastName)
-                    requestedPersonList.Add(person);
-            }
-            return requestedPersonList;
+            else
+                return Unauthorized();
         }
     }
 }
