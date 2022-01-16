@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SS9cFmQSZfN4IBWJLvz7LjZPjz15pZvQG4XOsMxcQiUVgxay8mndGPOMBmCxZAOhKYV2e2+lGEVijD+48TNDqA==",
+  "dgSpecHash": "cXGTcVPSMolMypBIL1J2w4WAL9iM38I6Jr2kBm3RdvkB4Z18EOILUK3HfNSxq2EG90wetzIR2zkgDeIwnFTXzQ==",
   "success": true,
   "projectFilePath": "D:\\AP\\2021-2022\\SEM1\\.NET\\MyGameStore\\MyGameStore\\MyGameStore.csproj",
   "expectedPackageFiles": [
@@ -106,7 +106,8 @@
     "C:\\Users\\jefvd\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\jefvd\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\jefvd\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\jefvd\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\jefvd\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\jefvd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }

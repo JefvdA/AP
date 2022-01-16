@@ -5418,7 +5418,7 @@ Inflate.prototype.push = function (data, mode) {
   var next_out_utf8, tail, utf8str;
   var dict;
 
-  // Flag to properly process Z_BUF_ERROR on testing inflate call
+  // Flag to properly process Z_BUF_ERROR on AP.testing inflate call
   // when we check that all output data was flushed.
   var allowBufError = false;
 
@@ -5739,7 +5739,7 @@ var fnUntyped = {
 };
 
 
-// Enable/Disable typed arrays use, for testing
+// Enable/Disable typed arrays use, for AP.testing
 //
 exports.setTyped = function (on) {
   if (on) {

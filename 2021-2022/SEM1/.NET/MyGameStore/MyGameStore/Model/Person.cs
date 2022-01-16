@@ -17,6 +17,6 @@ namespace MyGameStore.Model
         public int Gender { get; set; }
         public string Email { get; set; }
 
-        public Store store { get; set; }
+        private Store Store { get; set; }
     }
 }

@@ -18,7 +18,5 @@ namespace MyGameStore.Model
         public string Zipcode { get; set; }
         public string City { get; set; }
         public bool isFranchiseStore { get; set; }
-
-        public List<Person> Persons { get; set; }
     }
 }

@@ -875,7 +875,7 @@ function markFunction( fn ) {
 }
 
 /**
- * Support testing using an element
+ * Support AP.testing using an element
  * @param {Function} fn Passed the created element and returns a boolean result
  */
 function assert( fn ) {

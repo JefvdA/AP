@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "881eba51-1d67-4f3f-9c5c-95d8d3e898d3": {
+      "ProjectGuid": "881eba51-1d67-4f3f-9c5c-95d8d3e898d3",
+      "DisplayName": "MyGameStore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
