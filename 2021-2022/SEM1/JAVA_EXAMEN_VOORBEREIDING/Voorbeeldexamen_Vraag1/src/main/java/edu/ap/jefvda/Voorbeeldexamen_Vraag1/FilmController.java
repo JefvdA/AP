@@ -15,7 +15,7 @@ public class FilmController {
 
     public static void main(String[] args) {
         filmDao = new FilmDao();
-        importFromCsv(filmDao);
+        importFromCsv();
 
         startUIApp();
     }
@@ -80,7 +80,7 @@ public class FilmController {
         return consoleInput.nextLine();
     }
 
-    private static void importFromCsv(FilmDao filmDao){
+    private static void importFromCsv(){
         String line = "";
         String splitBy = ";";
         try
