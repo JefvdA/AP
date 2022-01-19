@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef1", "Oef1\Oef1.csproj", "{6AFCA2F9-1711-480C-AF23-39DEA6F1BC59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef2", "Oef2\Oef2.csproj", "{9102EB1E-501A-450D-A7BD-C848E0B84ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AFCA2F9-1711-480C-AF23-39DEA6F1BC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFCA2F9-1711-480C-AF23-39DEA6F1BC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFCA2F9-1711-480C-AF23-39DEA6F1BC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFCA2F9-1711-480C-AF23-39DEA6F1BC59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9102EB1E-501A-450D-A7BD-C848E0B84ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9102EB1E-501A-450D-A7BD-C848E0B84ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9102EB1E-501A-450D-A7BD-C848E0B84ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9102EB1E-501A-450D-A7BD-C848E0B84ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1451126-D734-48DB-BADB-E21B73402DBA}
+	EndGlobalSection
+EndGlobal

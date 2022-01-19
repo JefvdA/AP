@@ -1,0 +1,16 @@
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\bin\Debug\net5.0\Oef2.exe
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\bin\Debug\net5.0\Oef2.deps.json
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\bin\Debug\net5.0\Oef2.runtimeconfig.json
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\bin\Debug\net5.0\Oef2.runtimeconfig.dev.json
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\bin\Debug\net5.0\Oef2.dll
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\bin\Debug\net5.0\ref\Oef2.dll
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\bin\Debug\net5.0\Oef2.pdb
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\obj\Debug\net5.0\Oef2.csproj.AssemblyReference.cache
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\obj\Debug\net5.0\Oef2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\obj\Debug\net5.0\Oef2.AssemblyInfoInputs.cache
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\obj\Debug\net5.0\Oef2.AssemblyInfo.cs
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\obj\Debug\net5.0\Oef2.csproj.CoreCompileInputs.cache
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\obj\Debug\net5.0\Oef2.dll
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\obj\Debug\net5.0\ref\Oef2.dll
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\obj\Debug\net5.0\Oef2.pdb
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\Les4\Oef2\obj\Debug\net5.0\Oef2.genruntimeconfig.cache

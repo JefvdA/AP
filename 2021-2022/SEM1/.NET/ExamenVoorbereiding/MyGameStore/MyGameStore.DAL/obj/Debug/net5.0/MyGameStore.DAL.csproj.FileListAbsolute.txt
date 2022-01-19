@@ -1,0 +1,15 @@
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\bin\Debug\net5.0\MyGameStore.DAL.deps.json
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\bin\Debug\net5.0\MyGameStore.DAL.runtimeconfig.json
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\bin\Debug\net5.0\MyGameStore.DAL.runtimeconfig.dev.json
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\bin\Debug\net5.0\MyGameStore.DAL.dll
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\bin\Debug\net5.0\ref\MyGameStore.DAL.dll
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\bin\Debug\net5.0\MyGameStore.DAL.pdb
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.csproj.AssemblyReference.cache
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.AssemblyInfoInputs.cache
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.AssemblyInfo.cs
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.csproj.CoreCompileInputs.cache
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.dll
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\ref\MyGameStore.DAL.dll
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.pdb
+D:\AP\2021-2022\SEM1\.NET\ExamenVoorbereiding\MyGameStore\MyGameStore.DAL\obj\Debug\net5.0\MyGameStore.DAL.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zycG10KH5J7OXBoFt17sAKMrueipjdhrYrARocamJDG0/BOfle0a76pNKY9bq/PuoY+MXGLsgc8z7woKXaDkQA==",
+  "success": true,
+  "projectFilePath": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\Les4\\Oef2\\Oef2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jefvd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

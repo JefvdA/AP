@@ -1,0 +1,240 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.WebAPI\\MyGameStore.WebAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.BLL\\MyGameStore.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.BLL\\MyGameStore.BLL.csproj",
+        "projectName": "MyGameStore.BLL",
+        "projectPath": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.BLL\\MyGameStore.BLL.csproj",
+        "packagesPath": "C:\\Users\\jefvd\\.nuget\\packages\\",
+        "outputPath": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jefvd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj": {
+                "projectPath": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj",
+        "projectName": "MyGameStore.DAL",
+        "projectPath": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj",
+        "packagesPath": "C:\\Users\\jefvd\\.nuget\\packages\\",
+        "outputPath": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jefvd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.WebAPI\\MyGameStore.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.WebAPI\\MyGameStore.WebAPI.csproj",
+        "projectName": "MyGameStore.WebAPI",
+        "projectPath": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.WebAPI\\MyGameStore.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\jefvd\\.nuget\\packages\\",
+        "outputPath": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jefvd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.BLL\\MyGameStore.BLL.csproj": {
+                "projectPath": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.BLL\\MyGameStore.BLL.csproj"
+              },
+              "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj": {
+                "projectPath": "D:\\AP\\2021-2022\\SEM1\\.NET\\ExamenVoorbereiding\\MyGameStore\\MyGameStore.DAL\\MyGameStore.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
