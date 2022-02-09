@@ -9,7 +9,7 @@ using MyGameStore.DAL.Contexts;
 namespace MyGameStore.DAL.Migrations
 {
     [DbContext(typeof(GameStoreContext))]
-    [Migration("20220119185212_InitialMigration")]
+    [Migration("20220120101306_InitialMigration")]
     partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
